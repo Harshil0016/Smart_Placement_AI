@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container py-5">
+<div class="page-head"><div><span class="eyebrow">MODEL ANALYTICS</span><h1>Placement Analytics</h1><p>Model evaluation and branch-wise dataset insights.</p></div></div>
+<div class="row g-3">
+{% for key,val in metrics.items() %}<div class="col-6 col-lg-3"><div class="stat-card"><span>{{ key|upper }}</span><strong>{{ "%.3f"|format(val) }}</strong></div></div>{% endfor %}
+</div>
+<div class="content-card mt-4"><h4>Branch Performance</h4><canvas id="branchChart" height="100"></canvas></div>
+<div class="content-card mt-4"><div class="table-responsive"><table class="table align-middle"><thead><tr><th>Branch</th><th>Students</th><th>Placement Rate</th><th>Avg Salary</th></tr></thead><tbody>
+{% for r in branch %}<tr><td>{{r.branch}}</td><td>{{r.students}}</td><td>{{r.placement_rate}}%</td><td>₹{{"%.2f"|format(r.avg_salary)}} LPA</td></tr>{% endfor %}
+</tbody></table></div></div>
+</div>
+<script>
+const labels={{ branch|map(attribute='branch')|list|tojson }};
+const rates={{ branch|map(attribute='placement_rate')|list|tojson }};
+new Chart(document.getElementById('branchChart'),{type:'bar',data:{labels:labels,datasets:[{label:'Placement Rate %',data:rates,borderWidth:1}]},options:{responsive:true,scales:{y:{beginAtZero:true,max:100}}}});
+</script>
+{% endblock %}

@@ -1,0 +1,1201 @@
+student_id,gender,age,branch,college_tier,city,tenth_percentage,twelfth_percentage,cgpa,backlogs,attendance_percentage,internship,internship_months,projects,certifications,coding_skill,communication_skill,aptitude_score,technical_skill,hackathon_participation,extracurricular,preferred_domain,placement_status,salary_lpa,job_role
+STU0001,Male,20,Electronics Engineering,Tier 2,Rajkot,63.93,84.46,8.41,2,63.3,No,0,0,0,2,4,54,9,Yes,Yes,Networking,0,0.0,Not Placed
+STU0002,Female,21,Civil Engineering,Tier 3,Mumbai,87.38,55.26,8.97,0,72.93,Yes,3,2,0,2,7,46,6,No,No,Software Development,1,11.61,Web Developer
+STU0003,Female,20,Electrical Engineering,Tier 2,Chennai,90.42,69.47,6.33,0,85.13,No,0,0,6,4,2,64,5,No,No,Data Science,1,9.67,Web Developer
+STU0004,Female,20,Electrical Engineering,Tier 3,Vadodara,76.37,64.79,7.49,0,95.16,Yes,10,2,6,1,4,92,1,No,No,Web Development,1,11.99,Web Developer
+STU0005,Female,21,Electronics Engineering,Tier 2,Bangalore,90.39,80.71,6.11,0,88.31,No,0,5,4,7,10,65,6,Yes,Yes,Cloud Computing,1,12.87,Cloud Support Engineer
+STU0006,Male,21,Electronics Engineering,Tier 1,Bangalore,78.86,70.39,8.06,0,69.55,Yes,10,5,0,9,5,89,6,Yes,No,Testing,1,14.82,QA Engineer
+STU0007,Female,24,Information Technology,Tier 3,Ahmedabad,89.82,66.94,8.25,0,65.81,Yes,8,4,0,10,6,71,1,Yes,No,Web Development,1,12.44,Web Developer
+STU0008,Male,20,Electronics Engineering,Tier 2,Ahmedabad,94.12,76.31,6.04,0,95.98,Yes,4,4,6,10,7,53,9,Yes,No,Testing,1,14.25,Software Developer
+STU0009,Female,24,Civil Engineering,Tier 1,Rajkot,63.99,68.52,8.03,0,68.37,Yes,11,5,0,4,2,97,1,No,Yes,Cloud Computing,1,14.38,Cloud Support Engineer
+STU0010,Male,24,Information Technology,Tier 3,Chennai,78.05,64.72,7.53,0,63.58,No,0,2,3,7,8,95,1,Yes,Yes,Testing,1,11.02,QA Engineer
+STU0011,Male,21,Information Technology,Tier 1,Hyderabad,72.94,71.88,6.7,0,95.08,No,0,4,0,1,9,93,1,Yes,Yes,Data Science,1,10.6,Web Developer
+STU0012,Female,20,Information Technology,Tier 2,Surat,94.41,65.61,8.87,0,76.07,No,0,1,1,5,4,43,10,Yes,No,Software Development,1,12.79,Web Developer
+STU0013,Male,20,Electrical Engineering,Tier 1,Vadodara,57.74,57.72,9.21,0,95.78,Yes,9,4,0,10,2,66,10,No,No,Data Science,1,16.66,Software Developer
+STU0014,Female,23,Information Technology,Tier 3,Mumbai,73.29,92.16,9.52,0,83.6,Yes,1,4,1,9,5,48,6,Yes,Yes,Web Development,1,13.55,Web Developer
+STU0015,Female,24,Electronics Engineering,Tier 3,Surat,81.71,77.18,9.51,0,93.37,No,0,0,0,9,3,57,5,Yes,No,Data Science,1,12.51,Web Developer
+STU0016,Female,22,Computer Engineering,Tier 1,Bangalore,88.17,56.76,6.93,0,97.23,Yes,11,3,4,7,9,40,2,Yes,Yes,Cloud Computing,1,13.58,Cloud Support Engineer
+STU0017,Male,23,Information Technology,Tier 1,Mumbai,69.59,92.32,9.68,0,73.6,Yes,10,0,2,9,7,79,3,Yes,Yes,Data Science,1,13.8,Web Developer
+STU0018,Female,23,Electronics Engineering,Tier 3,Rajkot,65.67,86.49,5.96,1,92.63,Yes,3,3,2,5,4,54,1,Yes,No,Web Development,1,8.85,Web Developer
+STU0019,Female,22,Electronics Engineering,Tier 3,Bangalore,82.18,88.75,6.92,0,93.33,No,0,1,4,5,1,46,10,No,No,Networking,1,11.1,Network Engineer
+STU0020,Male,23,Electrical Engineering,Tier 1,Mumbai,56.78,72.44,7.74,1,86.1,Yes,5,3,0,6,10,60,2,No,No,Networking,1,12.62,Network Engineer
+STU0021,Female,24,Information Technology,Tier 1,Bangalore,81.6,70.17,8.72,0,81.63,No,0,4,6,1,5,58,4,No,No,Testing,1,13.62,QA Engineer
+STU0022,Female,21,Electronics Engineering,Tier 1,Mumbai,75.62,80.32,6.94,1,88.54,No,0,1,6,4,3,41,1,Yes,No,Cloud Computing,0,0.0,Not Placed
+STU0023,Male,23,Civil Engineering,Tier 3,Chennai,62.78,82.85,7.63,0,84.93,Yes,12,0,6,7,4,51,9,No,Yes,Cloud Computing,1,14.24,Cloud Support Engineer
+STU0024,Female,21,Civil Engineering,Tier 3,Hyderabad,94.52,78.82,9.59,2,83.28,No,0,4,3,3,8,68,5,Yes,No,Cloud Computing,1,12.01,Cloud Support Engineer
+STU0025,Female,20,Electronics Engineering,Tier 2,Rajkot,65.87,67.79,7.82,0,68.79,Yes,11,1,0,7,7,61,9,No,No,Software Development,1,13.68,Web Developer
+STU0026,Male,24,Civil Engineering,Tier 2,Surat,92.71,66.94,7.18,2,91.76,Yes,7,1,2,7,8,41,7,No,No,Networking,1,12.6,Network Engineer
+STU0027,Male,24,Electrical Engineering,Tier 1,Bangalore,78.68,81.52,5.86,0,92.94,Yes,0,2,3,6,4,69,6,No,No,Web Development,1,12.31,Web Developer
+STU0028,Female,20,Civil Engineering,Tier 1,Hyderabad,57.08,93.08,6.46,0,96.38,Yes,12,0,1,4,1,79,3,Yes,Yes,Testing,1,12.07,QA Engineer
+STU0029,Male,23,Electronics Engineering,Tier 2,Pune,61.71,79.29,8.72,0,91.13,No,0,0,4,1,5,76,7,No,Yes,Software Development,1,12.09,Web Developer
+STU0030,Male,20,Electronics Engineering,Tier 2,Chennai,87.22,86.85,7.93,0,80.24,No,0,0,4,6,1,94,7,No,Yes,Testing,0,0.0,Not Placed
+STU0031,Female,21,Civil Engineering,Tier 1,Hyderabad,93.62,65.8,8.98,0,78.37,No,0,5,4,5,6,94,4,Yes,No,Testing,1,14.2,QA Engineer
+STU0032,Female,22,Computer Engineering,Tier 2,Pune,62.27,63.48,8.93,0,93.45,No,0,4,0,9,4,45,4,No,No,Cloud Computing,1,13.71,Cloud Support Engineer
+STU0033,Female,23,Computer Engineering,Tier 1,Mumbai,63.86,82.67,6.82,0,77.98,No,0,3,5,9,6,62,8,No,No,Web Development,1,14.25,Software Developer
+STU0034,Female,20,Electronics Engineering,Tier 3,Vadodara,62.66,84.54,6.69,0,88.89,No,0,0,6,4,5,54,6,Yes,No,Software Development,0,0.0,Not Placed
+STU0035,Male,22,Computer Engineering,Tier 1,Hyderabad,66.69,92.76,8.24,1,63.9,Yes,9,2,3,8,8,61,3,Yes,No,Testing,1,13.44,QA Engineer
+STU0036,Female,20,Electrical Engineering,Tier 3,Surat,61.07,87.45,9.58,0,69.43,No,0,4,4,10,4,89,9,No,No,Testing,1,14.88,Software Developer
+STU0037,Female,22,Electrical Engineering,Tier 3,Surat,79.39,84.6,9.57,0,68.02,Yes,2,1,1,9,2,50,1,No,No,Networking,1,11.39,Network Engineer
+STU0038,Male,22,Electronics Engineering,Tier 2,Delhi,57.85,64.34,6.64,1,82.41,Yes,6,0,4,4,3,98,5,Yes,Yes,Software Development,1,10.73,Web Developer
+STU0039,Female,23,Computer Engineering,Tier 2,Mumbai,82.99,92.71,7.65,0,63.06,Yes,6,5,2,10,5,41,2,Yes,Yes,Networking,1,13.91,Network Engineer
+STU0040,Male,23,Electrical Engineering,Tier 3,Delhi,91.64,62.26,8.02,0,78.69,Yes,7,2,3,6,6,82,2,Yes,No,Testing,1,11.38,QA Engineer
+STU0041,Female,24,Computer Engineering,Tier 2,Ahmedabad,67.58,67.93,9.67,0,79.55,Yes,10,4,3,7,1,52,9,No,No,Networking,1,15.41,Network Engineer
+STU0042,Female,24,Information Technology,Tier 2,Delhi,90.23,74.39,5.62,0,90.37,Yes,4,4,0,9,7,45,4,Yes,No,Software Development,1,11.08,Web Developer
+STU0043,Female,24,Electronics Engineering,Tier 2,Bangalore,88.39,94.21,6.55,0,74.58,Yes,1,2,6,7,6,99,9,No,Yes,Web Development,1,13.26,Data Analyst
+STU0044,Female,21,Civil Engineering,Tier 3,Delhi,68.8,77.08,7.84,0,72.23,Yes,11,1,4,7,4,94,7,Yes,No,Networking,1,14.06,Data Analyst
+STU0045,Female,23,Electronics Engineering,Tier 3,Vadodara,74.81,56.48,7.66,0,93.05,No,0,0,4,8,1,86,3,No,Yes,Software Development,1,11.44,Web Developer
+STU0046,Female,24,Electronics Engineering,Tier 2,Ahmedabad,89.07,89.09,9.2,0,72.03,No,0,4,0,10,2,55,5,Yes,Yes,Testing,1,14.4,QA Engineer
+STU0047,Male,23,Information Technology,Tier 3,Mumbai,91.14,56.84,8.92,0,74.24,Yes,3,4,3,10,3,50,3,Yes,No,Cloud Computing,1,13.4,Cloud Support Engineer
+STU0048,Male,21,Civil Engineering,Tier 3,Mumbai,73.38,81.67,9.37,0,70.93,Yes,1,3,2,10,5,80,7,No,No,Web Development,1,13.5,Data Analyst
+STU0049,Female,20,Information Technology,Tier 2,Chennai,69.36,66.83,8.51,0,91.54,No,0,2,0,10,1,98,10,No,No,Data Science,1,13.44,Software Developer
+STU0050,Male,24,Mechanical Engineering,Tier 3,Vadodara,80.13,91.14,8.28,0,76.75,No,0,5,1,2,5,60,7,Yes,Yes,Data Science,1,12.76,Web Developer
+STU0051,Female,24,Electrical Engineering,Tier 2,Vadodara,65.28,87.99,7.57,1,88.37,No,0,0,3,2,3,88,4,No,No,Software Development,0,0.0,Not Placed
+STU0052,Male,22,Electrical Engineering,Tier 1,Delhi,69.74,84.96,6.63,0,84.26,No,0,0,5,4,8,41,10,No,Yes,Networking,1,12.78,Network Engineer
+STU0053,Female,23,Computer Engineering,Tier 1,Surat,92.85,67.17,7.62,0,93.72,Yes,6,3,2,9,7,77,3,No,Yes,Testing,1,14.74,QA Engineer
+STU0054,Female,20,Electronics Engineering,Tier 2,Rajkot,72.74,93.02,9.18,0,86.06,No,0,0,3,5,4,47,8,Yes,Yes,Networking,1,13.47,Network Engineer
+STU0055,Male,22,Information Technology,Tier 1,Chennai,63.21,88.19,7.88,0,90.9,Yes,5,1,6,10,1,57,3,Yes,No,Data Science,1,14.57,Web Developer
+STU0056,Male,20,Mechanical Engineering,Tier 1,Chennai,67.95,61.97,5.73,1,79.99,Yes,7,3,6,6,9,77,2,No,Yes,Cloud Computing,1,13.09,Cloud Support Engineer
+STU0057,Female,23,Electronics Engineering,Tier 1,Surat,94.94,88.89,7.33,0,87.07,No,0,0,0,6,10,49,2,Yes,No,Cloud Computing,1,10.84,Cloud Support Engineer
+STU0058,Female,23,Electrical Engineering,Tier 3,Mumbai,73.15,79.22,5.93,1,92.41,Yes,6,3,1,7,6,92,8,No,No,Networking,1,11.64,Data Analyst
+STU0059,Female,22,Information Technology,Tier 3,Delhi,57.69,88.27,5.9,0,88.07,Yes,8,0,4,9,9,61,2,No,No,Networking,0,0.0,Not Placed
+STU0060,Female,20,Mechanical Engineering,Tier 3,Mumbai,69.07,78.12,6.41,0,68.52,Yes,5,4,2,2,5,76,4,No,Yes,Cloud Computing,0,0.0,Not Placed
+STU0061,Female,20,Information Technology,Tier 2,Mumbai,91.86,69.04,6.28,0,84.98,Yes,2,5,5,1,2,87,9,Yes,No,Testing,1,11.73,Data Analyst
+STU0062,Female,22,Electrical Engineering,Tier 3,Ahmedabad,90.33,61.22,8.74,0,63.1,No,0,5,3,8,10,68,7,No,Yes,Cloud Computing,1,13.49,Cloud Support Engineer
+STU0063,Female,24,Civil Engineering,Tier 3,Mumbai,56.82,70.81,8.08,0,71.45,Yes,12,1,6,5,5,60,2,Yes,No,Networking,1,11.68,Network Engineer
+STU0064,Male,24,Electrical Engineering,Tier 3,Pune,57.88,89.47,5.68,0,95.0,No,0,4,3,10,7,85,7,No,Yes,Testing,1,11.3,Data Analyst
+STU0065,Female,22,Computer Engineering,Tier 2,Ahmedabad,64.73,78.55,7.75,0,71.79,No,0,1,2,3,2,72,2,Yes,No,Web Development,0,0.0,Not Placed
+STU0066,Male,21,Computer Engineering,Tier 1,Mumbai,62.89,79.1,8.77,0,66.73,No,0,3,6,10,10,68,10,No,No,Data Science,1,15.71,Software Developer
+STU0067,Female,22,Electrical Engineering,Tier 1,Pune,75.29,67.42,7.44,0,91.6,Yes,10,0,4,10,9,64,8,Yes,No,Cloud Computing,1,14.36,Software Developer
+STU0068,Female,24,Information Technology,Tier 1,Delhi,59.14,90.97,6.98,1,79.17,Yes,0,1,5,8,8,73,9,Yes,No,Web Development,1,13.0,Software Developer
+STU0069,Female,24,Computer Engineering,Tier 3,Pune,57.64,58.78,8.42,0,87.5,Yes,5,0,4,3,6,59,7,Yes,Yes,Web Development,1,11.93,Web Developer
+STU0070,Female,21,Electronics Engineering,Tier 3,Hyderabad,58.74,81.82,7.69,0,71.74,Yes,5,3,1,4,3,49,2,No,Yes,Cloud Computing,0,0.0,Not Placed
+STU0071,Male,22,Electrical Engineering,Tier 1,Chennai,70.07,61.49,9.07,1,90.74,Yes,11,3,0,7,6,83,4,No,No,Networking,1,14.62,Network Engineer
+STU0072,Male,22,Civil Engineering,Tier 1,Pune,82.13,77.82,7.39,1,89.57,No,0,1,6,4,10,48,5,Yes,No,Web Development,1,11.3,Web Developer
+STU0073,Male,22,Computer Engineering,Tier 1,Mumbai,72.97,75.53,9.07,0,94.6,No,0,2,0,7,1,65,9,No,Yes,Testing,0,0.0,Not Placed
+STU0074,Female,21,Computer Engineering,Tier 2,Ahmedabad,88.57,81.0,8.9,0,70.9,No,0,5,6,3,8,68,10,Yes,Yes,Software Development,1,15.16,Web Developer
+STU0075,Female,20,Mechanical Engineering,Tier 1,Mumbai,59.87,64.54,8.25,0,62.39,No,0,4,4,1,9,76,4,Yes,No,Testing,1,12.43,QA Engineer
+STU0076,Female,21,Electronics Engineering,Tier 3,Ahmedabad,75.94,69.42,9.6,0,89.88,Yes,6,3,0,7,6,56,1,No,Yes,Web Development,1,12.96,Web Developer
+STU0077,Male,24,Electronics Engineering,Tier 2,Vadodara,56.77,76.84,9.0,0,89.61,No,0,5,3,3,3,44,8,Yes,No,Data Science,1,13.2,Web Developer
+STU0078,Male,22,Mechanical Engineering,Tier 3,Bangalore,94.56,76.72,6.59,1,67.26,No,0,0,6,6,5,47,6,No,No,Networking,1,11.2,Network Engineer
+STU0079,Female,21,Civil Engineering,Tier 3,Delhi,69.69,86.89,6.65,0,76.13,No,0,4,6,3,9,58,6,Yes,Yes,Web Development,1,10.8,Web Developer
+STU0080,Female,21,Electronics Engineering,Tier 2,Pune,72.89,84.07,9.42,0,76.53,Yes,1,5,5,7,6,72,3,Yes,Yes,Cloud Computing,1,14.06,Cloud Support Engineer
+STU0081,Male,20,Information Technology,Tier 3,Pune,69.49,92.98,5.64,0,77.1,No,0,2,3,2,10,48,9,No,No,Web Development,0,0.0,Not Placed
+STU0082,Male,20,Computer Engineering,Tier 3,Vadodara,74.96,70.48,7.92,0,69.89,No,0,1,4,5,8,52,2,Yes,Yes,Testing,1,10.7,QA Engineer
+STU0083,Male,22,Electronics Engineering,Tier 2,Ahmedabad,77.0,66.61,6.79,0,86.96,Yes,12,2,4,4,2,52,3,Yes,No,Software Development,1,12.56,Web Developer
+STU0084,Female,24,Information Technology,Tier 3,Ahmedabad,57.63,70.93,8.58,0,75.61,No,0,4,0,3,6,81,2,No,No,Networking,1,10.17,Network Engineer
+STU0085,Male,21,Civil Engineering,Tier 3,Surat,88.26,75.72,6.81,0,95.52,Yes,5,4,2,2,5,52,9,No,Yes,Networking,1,12.04,Network Engineer
+STU0086,Male,24,Electrical Engineering,Tier 1,Vadodara,81.35,83.83,8.1,1,81.42,Yes,1,0,5,10,5,81,4,No,Yes,Testing,1,13.21,QA Engineer
+STU0087,Female,23,Information Technology,Tier 3,Bangalore,66.9,57.92,5.76,0,78.4,Yes,5,4,1,6,6,86,6,No,Yes,Web Development,1,10.51,Web Developer
+STU0088,Male,23,Computer Engineering,Tier 2,Delhi,64.92,58.87,6.75,0,83.38,Yes,2,2,4,6,4,88,3,No,No,Testing,0,0.0,Not Placed
+STU0089,Female,20,Computer Engineering,Tier 2,Hyderabad,73.29,64.63,8.01,0,70.69,No,0,2,4,1,2,67,3,No,No,Testing,1,10.67,QA Engineer
+STU0090,Male,22,Electrical Engineering,Tier 2,Ahmedabad,70.45,73.01,7.86,1,83.68,Yes,2,0,3,6,6,75,6,Yes,Yes,Cloud Computing,1,11.75,Cloud Support Engineer
+STU0091,Male,20,Information Technology,Tier 3,Pune,87.16,75.77,6.14,2,65.31,No,0,1,3,10,5,77,6,No,No,Testing,0,0.0,Not Placed
+STU0092,Female,22,Electronics Engineering,Tier 1,Bangalore,78.35,86.87,8.62,0,61.01,No,0,2,5,10,10,54,1,No,Yes,Cloud Computing,1,13.64,Cloud Support Engineer
+STU0093,Female,21,Electronics Engineering,Tier 1,Surat,77.9,83.02,6.32,0,75.91,No,0,5,1,7,9,89,10,No,Yes,Networking,1,13.15,Data Analyst
+STU0094,Female,23,Electrical Engineering,Tier 2,Pune,93.27,73.39,7.79,0,85.68,No,0,4,3,4,4,57,9,No,Yes,Web Development,1,13.45,Web Developer
+STU0095,Female,22,Civil Engineering,Tier 2,Hyderabad,92.35,86.82,6.68,0,85.71,No,0,3,6,6,3,58,1,No,Yes,Web Development,0,0.0,Not Placed
+STU0096,Female,23,Information Technology,Tier 1,Hyderabad,65.85,77.48,6.67,0,88.15,Yes,3,0,5,9,4,80,4,Yes,Yes,Testing,1,12.25,QA Engineer
+STU0097,Male,20,Electrical Engineering,Tier 1,Bangalore,81.12,90.23,7.55,0,88.72,No,0,2,2,1,2,81,10,Yes,Yes,Data Science,1,13.2,Data Analyst
+STU0098,Male,23,Civil Engineering,Tier 1,Mumbai,90.07,55.37,7.94,0,97.35,No,0,3,5,9,9,71,3,No,No,Data Science,1,13.19,Web Developer
+STU0099,Female,22,Electronics Engineering,Tier 1,Surat,84.46,86.63,7.94,1,66.67,No,0,3,4,6,2,65,2,Yes,Yes,Testing,1,12.17,QA Engineer
+STU0100,Female,23,Information Technology,Tier 2,Mumbai,93.16,67.08,8.61,0,84.84,Yes,0,5,0,8,5,50,7,No,Yes,Networking,1,13.48,Network Engineer
+STU0101,Male,21,Information Technology,Tier 2,Vadodara,73.2,94.55,7.11,1,94.69,Yes,12,1,5,10,2,73,8,No,Yes,Cloud Computing,1,15.13,Software Developer
+STU0102,Male,24,Electrical Engineering,Tier 1,Vadodara,68.12,75.81,6.0,0,82.16,Yes,8,3,6,1,8,48,9,No,No,Cloud Computing,1,13.27,Cloud Support Engineer
+STU0103,Female,20,Civil Engineering,Tier 2,Surat,84.83,78.13,5.69,0,62.42,Yes,1,3,0,5,7,51,3,No,No,Testing,1,10.93,QA Engineer
+STU0104,Female,23,Computer Engineering,Tier 3,Hyderabad,60.32,89.41,6.01,3,74.94,Yes,11,1,6,1,1,59,8,No,No,Data Science,1,11.1,Web Developer
+STU0105,Female,21,Electronics Engineering,Tier 1,Surat,87.38,71.77,8.79,2,60.59,Yes,1,0,4,1,8,78,1,Yes,Yes,Testing,1,11.3,QA Engineer
+STU0106,Male,21,Electrical Engineering,Tier 2,Rajkot,87.63,84.26,6.87,0,85.56,No,0,1,2,3,9,54,7,No,No,Software Development,1,10.88,Web Developer
+STU0107,Male,23,Electrical Engineering,Tier 2,Surat,93.89,92.66,8.39,1,72.11,No,0,3,1,5,7,51,9,No,Yes,Data Science,1,13.44,Web Developer
+STU0108,Female,20,Electrical Engineering,Tier 2,Bangalore,77.29,60.36,6.54,0,84.57,No,0,2,0,9,4,43,5,No,Yes,Software Development,1,11.79,Web Developer
+STU0109,Male,23,Information Technology,Tier 2,Mumbai,93.28,55.61,9.53,2,64.46,No,0,1,5,10,4,65,4,No,No,Testing,1,13.74,QA Engineer
+STU0110,Female,22,Mechanical Engineering,Tier 3,Delhi,73.64,87.11,8.61,1,72.17,Yes,5,2,3,1,10,95,4,Yes,Yes,Web Development,1,11.55,Web Developer
+STU0111,Female,22,Information Technology,Tier 1,Pune,64.2,77.79,6.56,0,95.85,No,0,2,6,8,8,69,3,No,Yes,Data Science,1,12.2,Web Developer
+STU0112,Male,24,Computer Engineering,Tier 1,Surat,85.57,71.5,9.12,0,86.87,Yes,3,4,3,6,1,79,10,No,No,Software Development,1,15.82,Web Developer
+STU0113,Male,20,Electrical Engineering,Tier 3,Mumbai,76.43,66.47,7.66,0,76.36,Yes,1,0,4,3,4,52,10,No,No,Web Development,1,10.31,Web Developer
+STU0114,Female,23,Electrical Engineering,Tier 1,Rajkot,67.0,88.12,5.85,3,84.7,Yes,1,3,3,7,9,70,1,Yes,Yes,Software Development,1,11.19,Web Developer
+STU0115,Female,24,Computer Engineering,Tier 3,Surat,64.19,91.05,8.48,0,70.3,Yes,10,2,4,10,1,51,6,Yes,Yes,Cloud Computing,1,14.83,Cloud Support Engineer
+STU0116,Female,20,Mechanical Engineering,Tier 1,Chennai,64.62,88.39,7.17,2,72.61,Yes,12,5,5,2,9,87,6,Yes,Yes,Testing,1,14.02,QA Engineer
+STU0117,Female,22,Computer Engineering,Tier 3,Mumbai,86.34,73.02,6.48,0,74.27,Yes,10,4,5,7,2,89,10,No,Yes,Networking,1,13.51,Data Analyst
+STU0118,Female,21,Electronics Engineering,Tier 2,Pune,69.43,58.66,9.55,0,88.93,Yes,2,0,1,7,8,75,9,No,Yes,Software Development,1,13.5,Web Developer
+STU0119,Female,23,Computer Engineering,Tier 2,Bangalore,70.51,58.39,9.37,2,97.17,Yes,10,3,1,3,5,59,5,No,Yes,Software Development,1,13.55,Web Developer
+STU0120,Female,23,Computer Engineering,Tier 2,Mumbai,92.77,83.84,7.63,0,77.4,Yes,4,0,3,6,10,64,6,No,No,Testing,1,12.62,QA Engineer
+STU0121,Male,22,Mechanical Engineering,Tier 3,Rajkot,74.16,62.11,7.21,0,87.93,No,0,4,6,4,6,64,5,No,No,Software Development,0,0.0,Not Placed
+STU0122,Male,24,Electrical Engineering,Tier 1,Hyderabad,56.08,84.09,9.55,0,90.31,Yes,12,3,5,8,3,80,5,Yes,No,Networking,1,16.44,Network Engineer
+STU0123,Female,20,Civil Engineering,Tier 3,Delhi,78.29,76.37,9.47,1,75.9,Yes,12,2,5,9,10,80,2,Yes,Yes,Networking,1,13.61,Network Engineer
+STU0124,Male,24,Electronics Engineering,Tier 3,Bangalore,93.67,68.26,8.92,0,63.75,Yes,8,5,4,9,10,84,10,Yes,No,Web Development,1,16.39,Software Developer
+STU0125,Male,22,Computer Engineering,Tier 2,Ahmedabad,66.82,91.82,5.87,1,87.75,No,0,2,2,8,4,73,8,No,No,Software Development,1,11.89,Software Developer
+STU0126,Female,20,Mechanical Engineering,Tier 1,Ahmedabad,55.9,68.72,5.97,1,95.34,Yes,8,1,4,3,6,75,7,No,Yes,Testing,1,11.72,QA Engineer
+STU0127,Female,23,Computer Engineering,Tier 3,Chennai,90.32,72.98,7.35,0,68.16,No,0,5,6,2,10,46,9,Yes,No,Web Development,1,11.64,Web Developer
+STU0128,Female,24,Electronics Engineering,Tier 2,Chennai,70.55,70.7,5.99,0,77.4,Yes,10,5,6,5,10,77,2,Yes,No,Software Development,1,12.1,Web Developer
+STU0129,Female,21,Electrical Engineering,Tier 2,Bangalore,78.86,77.99,7.32,0,80.42,Yes,8,1,3,5,3,51,6,No,Yes,Web Development,1,12.44,Web Developer
+STU0130,Male,23,Electrical Engineering,Tier 3,Delhi,71.37,74.67,8.55,0,66.36,Yes,12,1,2,1,5,54,9,No,Yes,Testing,1,13.47,QA Engineer
+STU0131,Female,24,Electrical Engineering,Tier 1,Chennai,59.57,86.0,9.04,0,91.26,Yes,12,5,3,9,4,67,2,Yes,No,Software Development,1,16.0,Web Developer
+STU0132,Male,23,Computer Engineering,Tier 1,Rajkot,87.43,78.52,7.01,1,84.05,Yes,9,1,6,4,4,91,1,No,No,Cloud Computing,1,12.04,Cloud Support Engineer
+STU0133,Female,22,Electrical Engineering,Tier 2,Hyderabad,94.42,82.17,5.91,2,89.86,Yes,4,5,1,3,4,49,6,Yes,No,Testing,1,12.02,QA Engineer
+STU0134,Female,23,Civil Engineering,Tier 1,Ahmedabad,71.11,84.99,8.49,1,77.28,No,0,2,4,1,2,86,8,No,Yes,Cloud Computing,1,13.91,Data Analyst
+STU0135,Male,23,Mechanical Engineering,Tier 2,Mumbai,68.51,78.12,7.93,0,73.06,Yes,0,0,5,8,1,47,3,No,No,Software Development,0,0.0,Not Placed
+STU0136,Female,21,Electronics Engineering,Tier 1,Mumbai,61.36,92.31,6.68,0,69.51,No,0,5,5,3,1,65,5,Yes,No,Networking,1,11.92,Network Engineer
+STU0137,Male,23,Computer Engineering,Tier 1,Chennai,64.05,82.2,5.54,0,91.05,No,0,5,1,8,2,54,7,Yes,Yes,Software Development,1,13.57,Web Developer
+STU0138,Male,23,Information Technology,Tier 3,Vadodara,57.74,77.53,8.12,0,73.35,Yes,10,5,1,7,10,83,8,Yes,Yes,Software Development,1,13.75,Data Analyst
+STU0139,Female,22,Civil Engineering,Tier 2,Vadodara,64.91,80.78,6.57,0,87.4,No,0,5,0,5,4,73,10,Yes,No,Web Development,1,13.19,Web Developer
+STU0140,Male,23,Civil Engineering,Tier 1,Rajkot,74.98,78.76,7.77,3,97.5,No,0,1,3,10,7,63,9,Yes,No,Software Development,1,13.0,Software Developer
+STU0141,Female,21,Computer Engineering,Tier 1,Bangalore,75.26,80.14,7.65,0,86.67,Yes,10,4,4,10,3,57,2,No,Yes,Cloud Computing,1,16.0,Cloud Support Engineer
+STU0142,Male,24,Mechanical Engineering,Tier 2,Chennai,80.37,88.38,8.43,0,86.55,Yes,0,1,0,7,2,69,10,Yes,No,Networking,1,13.27,Network Engineer
+STU0143,Male,20,Electronics Engineering,Tier 1,Surat,61.55,93.12,7.75,1,87.39,Yes,5,1,5,5,2,89,1,No,No,Web Development,1,11.86,Web Developer
+STU0144,Male,23,Civil Engineering,Tier 3,Pune,57.22,89.37,6.22,0,89.39,Yes,3,5,4,1,1,94,1,Yes,Yes,Testing,1,10.94,QA Engineer
+STU0145,Male,20,Electrical Engineering,Tier 3,Bangalore,63.98,64.93,9.44,0,91.39,No,0,0,4,1,3,54,9,Yes,No,Software Development,1,12.33,Web Developer
+STU0146,Female,22,Computer Engineering,Tier 3,Delhi,55.32,63.03,7.92,0,83.66,No,0,2,4,8,4,86,9,Yes,Yes,Software Development,1,11.62,Software Developer
+STU0147,Female,20,Mechanical Engineering,Tier 1,Bangalore,88.96,84.09,5.95,0,69.05,No,0,0,1,5,2,42,4,No,No,Testing,0,0.0,Not Placed
+STU0148,Male,24,Computer Engineering,Tier 3,Vadodara,80.49,70.77,8.05,0,85.17,Yes,3,2,2,6,7,84,6,No,No,Web Development,1,12.79,Web Developer
+STU0149,Male,24,Computer Engineering,Tier 1,Ahmedabad,61.57,73.64,7.25,0,96.66,Yes,7,2,3,5,2,45,3,No,Yes,Data Science,1,12.48,Web Developer
+STU0150,Male,21,Mechanical Engineering,Tier 2,Hyderabad,56.96,66.95,9.03,0,96.18,No,0,4,5,9,4,46,8,Yes,Yes,Software Development,1,15.45,Software Developer
+STU0151,Male,21,Information Technology,Tier 2,Pune,82.45,92.5,5.86,0,94.86,Yes,0,0,1,8,3,45,6,Yes,Yes,Testing,1,11.12,QA Engineer
+STU0152,Female,23,Civil Engineering,Tier 1,Bangalore,82.33,61.91,6.42,0,70.63,Yes,0,4,4,10,4,81,5,No,No,Cloud Computing,1,12.53,Cloud Support Engineer
+STU0153,Female,21,Civil Engineering,Tier 1,Hyderabad,64.97,94.76,7.84,0,74.53,No,0,3,4,8,6,98,10,No,No,Web Development,1,14.2,Software Developer
+STU0154,Male,20,Mechanical Engineering,Tier 1,Delhi,76.18,85.67,9.8,3,63.81,Yes,4,4,6,1,4,76,7,No,Yes,Data Science,1,14.81,Web Developer
+STU0155,Female,24,Computer Engineering,Tier 3,Pune,92.9,77.54,7.92,0,97.54,No,0,4,2,3,8,42,2,Yes,Yes,Cloud Computing,1,10.78,Cloud Support Engineer
+STU0156,Male,22,Electrical Engineering,Tier 1,Vadodara,68.63,62.1,8.95,1,62.26,Yes,9,5,1,2,9,95,6,Yes,No,Networking,1,14.89,Network Engineer
+STU0157,Male,22,Mechanical Engineering,Tier 2,Vadodara,94.03,84.29,7.38,0,78.51,No,0,1,5,9,10,90,6,Yes,Yes,Testing,1,12.64,QA Engineer
+STU0158,Male,21,Electronics Engineering,Tier 1,Chennai,70.66,94.77,9.65,0,82.89,Yes,10,4,0,8,3,61,2,Yes,No,Web Development,1,16.28,Web Developer
+STU0159,Male,22,Civil Engineering,Tier 1,Mumbai,63.39,82.73,7.01,1,87.38,Yes,6,3,5,7,3,96,7,No,No,Web Development,1,13.47,Data Analyst
+STU0160,Female,24,Electronics Engineering,Tier 3,Rajkot,61.51,57.95,9.14,0,72.11,Yes,1,2,1,7,3,86,2,Yes,No,Cloud Computing,0,0.0,Not Placed
+STU0161,Female,20,Civil Engineering,Tier 3,Vadodara,79.29,72.37,5.73,0,97.03,No,0,5,4,9,5,82,5,No,Yes,Software Development,1,11.72,Web Developer
+STU0162,Female,21,Computer Engineering,Tier 2,Surat,72.1,66.78,8.35,0,67.59,Yes,3,1,5,5,2,70,2,No,No,Testing,1,12.15,QA Engineer
+STU0163,Male,24,Civil Engineering,Tier 1,Pune,90.42,69.78,7.42,0,77.67,Yes,4,4,0,3,2,45,6,No,Yes,Cloud Computing,1,12.84,Cloud Support Engineer
+STU0164,Female,24,Electronics Engineering,Tier 2,Chennai,90.27,74.05,5.84,2,87.14,Yes,1,3,1,3,4,91,4,Yes,Yes,Testing,1,10.52,QA Engineer
+STU0165,Male,21,Electrical Engineering,Tier 2,Pune,91.43,91.57,5.79,0,75.1,No,0,2,4,8,1,90,10,No,Yes,Testing,1,12.22,Software Developer
+STU0166,Male,20,Electrical Engineering,Tier 1,Mumbai,89.7,90.21,9.27,0,84.88,No,0,0,1,5,7,49,10,No,Yes,Testing,1,13.21,QA Engineer
+STU0167,Male,20,Electronics Engineering,Tier 2,Mumbai,90.88,55.81,9.01,0,70.65,No,0,5,5,2,4,48,5,No,No,Web Development,1,13.48,Web Developer
+STU0168,Male,21,Civil Engineering,Tier 1,Bangalore,84.64,85.38,9.23,1,79.58,Yes,1,2,5,9,7,48,9,Yes,Yes,Data Science,1,14.77,Software Developer
+STU0169,Male,21,Computer Engineering,Tier 2,Surat,91.72,83.19,6.68,1,79.19,Yes,10,0,1,6,8,78,8,Yes,No,Cloud Computing,1,12.03,Cloud Support Engineer
+STU0170,Female,20,Mechanical Engineering,Tier 1,Bangalore,56.99,89.15,8.85,0,68.41,Yes,10,1,2,7,9,41,1,No,Yes,Networking,1,14.4,Network Engineer
+STU0171,Male,22,Electrical Engineering,Tier 2,Mumbai,71.95,70.06,7.0,0,77.73,No,0,4,0,1,9,82,6,No,No,Networking,1,10.16,Network Engineer
+STU0172,Female,22,Mechanical Engineering,Tier 2,Mumbai,62.53,75.69,6.53,0,92.58,No,0,5,2,3,1,81,8,No,No,Testing,1,12.55,Data Analyst
+STU0173,Male,22,Electronics Engineering,Tier 3,Rajkot,82.45,80.53,7.55,2,73.62,No,0,1,6,9,3,58,2,No,Yes,Networking,1,11.61,Network Engineer
+STU0174,Male,22,Electronics Engineering,Tier 1,Rajkot,69.21,84.77,6.82,1,72.59,No,0,4,2,8,2,70,1,Yes,No,Data Science,1,12.95,Web Developer
+STU0175,Female,24,Mechanical Engineering,Tier 2,Surat,89.83,61.03,9.77,0,97.51,No,0,1,2,3,2,71,6,Yes,No,Networking,1,12.28,Network Engineer
+STU0176,Male,21,Electrical Engineering,Tier 1,Delhi,86.41,86.19,6.06,0,76.32,No,0,3,3,1,1,74,4,No,Yes,Web Development,0,0.0,Not Placed
+STU0177,Male,20,Electronics Engineering,Tier 1,Rajkot,64.05,90.08,6.84,0,79.13,No,0,1,0,1,5,100,5,No,No,Testing,0,0.0,Not Placed
+STU0178,Male,22,Civil Engineering,Tier 2,Rajkot,61.6,91.28,8.99,0,68.52,Yes,3,5,0,10,9,50,2,No,Yes,Testing,1,13.46,QA Engineer
+STU0179,Male,24,Computer Engineering,Tier 3,Ahmedabad,81.14,55.79,8.47,0,74.45,No,0,3,5,3,4,84,1,No,No,Networking,1,10.94,Network Engineer
+STU0180,Male,23,Computer Engineering,Tier 3,Chennai,59.71,59.56,5.96,0,67.59,No,0,4,1,6,7,58,3,Yes,No,Data Science,0,0.0,Not Placed
+STU0181,Female,22,Information Technology,Tier 1,Surat,81.87,91.28,9.09,0,65.67,Yes,12,4,0,2,5,81,4,No,No,Web Development,1,13.97,Web Developer
+STU0182,Male,20,Mechanical Engineering,Tier 2,Pune,72.04,59.64,9.16,2,60.37,Yes,10,5,1,6,6,97,8,No,Yes,Web Development,1,15.07,Data Analyst
+STU0183,Female,23,Civil Engineering,Tier 2,Bangalore,82.6,74.13,7.31,2,66.34,Yes,11,5,0,3,2,66,10,No,No,Data Science,1,14.95,Web Developer
+STU0184,Male,21,Civil Engineering,Tier 2,Ahmedabad,90.5,72.63,5.77,0,60.47,Yes,10,2,4,9,10,46,7,Yes,No,Web Development,1,13.43,Web Developer
+STU0185,Male,24,Electrical Engineering,Tier 1,Surat,80.74,61.28,9.15,1,93.04,Yes,12,3,2,4,6,57,1,Yes,No,Testing,1,13.62,QA Engineer
+STU0186,Female,24,Civil Engineering,Tier 1,Delhi,72.88,59.75,7.64,0,63.9,No,0,0,4,9,1,92,2,No,Yes,Networking,0,0.0,Not Placed
+STU0187,Female,22,Computer Engineering,Tier 1,Delhi,68.28,85.7,8.08,1,73.81,No,0,0,0,4,1,61,6,No,No,Networking,1,12.47,Network Engineer
+STU0188,Female,21,Electronics Engineering,Tier 3,Bangalore,59.28,79.43,6.31,2,74.93,No,0,1,5,6,2,88,7,Yes,Yes,Testing,0,0.0,Not Placed
+STU0189,Male,23,Computer Engineering,Tier 3,Surat,77.13,72.31,8.02,2,89.68,Yes,11,4,1,3,2,64,10,No,No,Testing,0,0.0,Not Placed
+STU0190,Male,22,Civil Engineering,Tier 2,Mumbai,73.11,60.33,7.27,1,88.44,No,0,5,4,6,9,80,4,Yes,Yes,Cloud Computing,1,12.91,Cloud Support Engineer
+STU0191,Male,21,Electrical Engineering,Tier 3,Pune,83.41,85.43,7.92,0,95.82,No,0,5,5,9,5,96,7,Yes,Yes,Software Development,1,12.62,Data Analyst
+STU0192,Male,21,Mechanical Engineering,Tier 1,Mumbai,82.34,60.86,5.77,1,67.75,Yes,5,3,0,10,9,95,4,No,Yes,Cloud Computing,1,13.25,Cloud Support Engineer
+STU0193,Female,20,Civil Engineering,Tier 2,Bangalore,93.27,94.03,6.84,0,60.49,No,0,1,4,8,4,98,6,Yes,Yes,Web Development,1,12.58,Web Developer
+STU0194,Male,21,Information Technology,Tier 3,Hyderabad,59.77,56.63,6.7,0,66.12,No,0,0,2,8,3,42,3,No,Yes,Networking,0,0.0,Not Placed
+STU0195,Female,23,Electrical Engineering,Tier 3,Pune,57.92,83.31,7.76,2,79.78,Yes,6,4,4,7,2,62,4,Yes,No,Web Development,1,12.32,Web Developer
+STU0196,Female,24,Electronics Engineering,Tier 1,Ahmedabad,81.76,72.83,9.39,0,83.6,Yes,10,2,3,2,7,56,9,No,Yes,Cloud Computing,1,15.07,Cloud Support Engineer
+STU0197,Female,23,Computer Engineering,Tier 2,Rajkot,67.81,58.29,5.91,3,89.39,Yes,10,0,1,4,7,93,2,Yes,No,Networking,0,0.0,Not Placed
+STU0198,Male,21,Computer Engineering,Tier 2,Pune,56.52,57.93,6.27,0,62.68,Yes,4,3,3,8,7,67,6,Yes,No,Networking,1,11.44,Network Engineer
+STU0199,Male,24,Computer Engineering,Tier 3,Ahmedabad,69.31,75.11,6.75,0,83.05,No,0,3,3,7,1,70,3,Yes,Yes,Networking,1,11.25,Network Engineer
+STU0200,Female,21,Mechanical Engineering,Tier 3,Pune,93.3,55.45,9.26,0,61.59,No,0,4,4,2,5,53,6,Yes,No,Networking,1,11.74,Network Engineer
+STU0201,Male,21,Electrical Engineering,Tier 2,Rajkot,59.58,81.84,7.94,0,88.54,No,0,5,4,2,5,82,2,No,Yes,Data Science,1,11.83,Web Developer
+STU0202,Female,22,Information Technology,Tier 3,Rajkot,59.0,79.78,9.37,0,77.12,No,0,5,4,3,10,76,6,No,No,Data Science,1,12.55,Web Developer
+STU0203,Male,23,Mechanical Engineering,Tier 2,Vadodara,82.18,68.26,7.56,0,89.44,No,0,4,0,3,10,45,5,Yes,Yes,Web Development,1,11.81,Web Developer
+STU0204,Male,20,Electrical Engineering,Tier 3,Surat,87.51,78.16,8.81,0,61.39,No,0,4,4,8,3,63,7,Yes,No,Data Science,1,13.47,Web Developer
+STU0205,Female,22,Electrical Engineering,Tier 1,Rajkot,88.92,87.26,8.14,0,79.54,No,0,1,1,10,10,82,3,No,No,Software Development,1,12.64,Web Developer
+STU0206,Male,22,Mechanical Engineering,Tier 1,Surat,81.74,75.72,8.9,0,94.88,Yes,0,5,2,2,9,80,5,No,Yes,Testing,1,13.37,QA Engineer
+STU0207,Male,24,Mechanical Engineering,Tier 2,Rajkot,75.65,69.12,9.23,0,78.32,Yes,8,1,3,3,4,44,9,No,Yes,Data Science,1,13.67,Web Developer
+STU0208,Male,21,Civil Engineering,Tier 2,Ahmedabad,74.26,74.15,6.41,0,91.67,Yes,3,0,1,10,10,50,3,Yes,Yes,Software Development,1,11.68,Web Developer
+STU0209,Female,24,Electrical Engineering,Tier 3,Surat,90.14,84.12,9.03,2,68.23,No,0,3,1,4,7,78,3,Yes,No,Data Science,1,11.04,Web Developer
+STU0210,Female,24,Electrical Engineering,Tier 1,Rajkot,70.13,60.29,5.57,0,94.55,No,0,1,4,2,3,70,10,Yes,Yes,Software Development,1,10.57,Web Developer
+STU0211,Male,23,Electrical Engineering,Tier 2,Pune,89.99,82.91,7.34,2,78.32,No,0,2,4,10,2,67,3,No,No,Data Science,0,0.0,Not Placed
+STU0212,Male,22,Electrical Engineering,Tier 3,Bangalore,65.31,55.22,8.7,0,79.86,Yes,6,5,1,6,7,63,2,Yes,No,Networking,1,12.43,Network Engineer
+STU0213,Female,24,Mechanical Engineering,Tier 3,Mumbai,94.67,70.9,6.38,0,81.19,Yes,5,4,4,8,5,59,10,No,No,Networking,1,13.94,Software Developer
+STU0214,Male,21,Civil Engineering,Tier 3,Vadodara,59.01,75.33,8.88,1,83.33,Yes,2,3,5,1,2,92,3,No,No,Software Development,1,10.95,Web Developer
+STU0215,Male,24,Computer Engineering,Tier 3,Bangalore,92.23,71.03,8.32,0,96.61,Yes,12,1,5,8,8,40,4,No,Yes,Software Development,1,13.42,Web Developer
+STU0216,Male,24,Information Technology,Tier 3,Surat,69.39,81.2,9.7,0,70.49,No,0,2,5,7,7,77,4,Yes,Yes,Software Development,1,13.12,Web Developer
+STU0217,Female,22,Mechanical Engineering,Tier 1,Chennai,93.52,73.19,7.24,0,66.65,Yes,8,0,4,5,6,100,2,No,No,Networking,1,11.94,Network Engineer
+STU0218,Female,21,Mechanical Engineering,Tier 2,Delhi,90.86,89.48,7.57,0,74.54,Yes,10,5,1,6,7,62,9,Yes,No,Data Science,1,14.67,Web Developer
+STU0219,Female,20,Electrical Engineering,Tier 1,Delhi,67.55,63.74,7.97,0,88.35,Yes,7,5,1,4,4,95,5,Yes,Yes,Data Science,1,14.99,Web Developer
+STU0220,Female,21,Computer Engineering,Tier 1,Ahmedabad,82.03,81.54,8.14,1,80.58,Yes,7,2,4,6,8,97,10,No,No,Data Science,1,15.93,Data Analyst
+STU0221,Female,23,Information Technology,Tier 3,Vadodara,57.17,86.97,7.56,0,79.09,No,0,5,6,3,8,47,9,No,No,Networking,1,13.07,Network Engineer
+STU0222,Female,24,Computer Engineering,Tier 2,Pune,79.51,65.39,7.86,0,77.91,No,0,2,1,8,7,53,7,No,No,Testing,1,11.83,QA Engineer
+STU0223,Male,24,Electronics Engineering,Tier 1,Ahmedabad,83.83,87.16,7.89,1,67.45,Yes,7,0,1,7,8,48,9,No,No,Web Development,1,14.58,Web Developer
+STU0224,Male,23,Computer Engineering,Tier 3,Vadodara,57.4,87.55,7.55,0,77.09,No,0,2,2,6,9,75,5,No,Yes,Testing,1,11.66,QA Engineer
+STU0225,Male,24,Electrical Engineering,Tier 3,Hyderabad,61.98,86.21,7.03,0,78.52,No,0,0,3,10,5,69,3,Yes,No,Testing,1,10.47,QA Engineer
+STU0226,Male,20,Information Technology,Tier 2,Rajkot,67.54,81.12,8.55,0,75.03,No,0,2,5,10,9,68,7,Yes,Yes,Software Development,1,13.23,Web Developer
+STU0227,Female,20,Information Technology,Tier 1,Bangalore,59.12,57.55,9.28,0,61.0,No,0,4,6,2,2,56,10,Yes,Yes,Networking,1,14.79,Network Engineer
+STU0228,Male,21,Electronics Engineering,Tier 2,Delhi,80.06,60.25,9.11,0,85.21,No,0,3,3,9,5,75,8,Yes,Yes,Cloud Computing,1,14.51,Software Developer
+STU0229,Female,24,Electronics Engineering,Tier 3,Hyderabad,67.39,68.89,7.82,1,76.79,No,0,3,2,3,5,40,1,Yes,No,Web Development,0,0.0,Not Placed
+STU0230,Male,23,Civil Engineering,Tier 2,Surat,85.63,86.92,8.07,1,80.83,Yes,6,4,3,7,4,50,7,No,Yes,Web Development,1,14.52,Web Developer
+STU0231,Female,22,Electronics Engineering,Tier 3,Hyderabad,87.35,71.52,9.17,0,71.0,No,0,4,3,5,10,71,4,No,Yes,Data Science,1,12.49,Web Developer
+STU0232,Male,20,Mechanical Engineering,Tier 2,Vadodara,83.61,84.08,6.5,0,78.76,No,0,3,2,8,6,69,1,No,Yes,Data Science,1,11.41,Web Developer
+STU0233,Male,24,Civil Engineering,Tier 1,Rajkot,90.83,65.0,7.14,0,97.03,Yes,6,3,1,1,4,69,2,Yes,No,Testing,1,11.42,QA Engineer
+STU0234,Female,21,Electronics Engineering,Tier 3,Surat,84.79,76.98,6.03,0,71.35,No,0,0,6,4,2,55,7,No,Yes,Data Science,0,0.0,Not Placed
+STU0235,Male,23,Information Technology,Tier 1,Surat,78.24,82.63,8.46,0,89.29,Yes,2,3,0,10,6,99,1,Yes,No,Networking,1,13.42,Network Engineer
+STU0236,Male,21,Civil Engineering,Tier 1,Pune,94.27,86.54,8.75,1,76.67,Yes,0,5,3,6,3,56,1,No,No,Cloud Computing,1,13.97,Cloud Support Engineer
+STU0237,Male,24,Information Technology,Tier 3,Pune,67.95,73.74,9.23,0,92.7,Yes,1,4,1,8,5,92,5,No,No,Software Development,1,13.12,Web Developer
+STU0238,Male,20,Electrical Engineering,Tier 2,Chennai,64.55,83.84,8.33,0,74.72,No,0,4,1,10,5,60,7,No,Yes,Software Development,1,12.97,Web Developer
+STU0239,Male,21,Computer Engineering,Tier 1,Ahmedabad,74.41,58.95,7.96,1,85.0,No,0,0,2,4,10,85,2,Yes,Yes,Networking,1,11.81,Network Engineer
+STU0240,Male,23,Electronics Engineering,Tier 1,Pune,77.32,92.53,7.29,0,86.92,No,0,4,0,2,5,44,4,Yes,Yes,Networking,1,11.57,Network Engineer
+STU0241,Male,24,Electronics Engineering,Tier 1,Chennai,80.01,62.16,8.72,0,64.01,No,0,5,3,7,2,50,3,No,No,Networking,1,15.13,Network Engineer
+STU0242,Female,22,Mechanical Engineering,Tier 3,Pune,88.79,71.49,8.22,1,72.29,Yes,9,4,1,7,9,99,5,No,No,Testing,1,12.47,QA Engineer
+STU0243,Male,22,Electrical Engineering,Tier 1,Hyderabad,60.4,90.61,5.53,3,68.16,No,0,0,6,5,9,72,9,Yes,Yes,Software Development,0,0.0,Not Placed
+STU0244,Male,21,Mechanical Engineering,Tier 2,Chennai,64.99,65.25,6.79,0,81.62,Yes,11,0,5,6,8,51,8,Yes,No,Software Development,1,13.2,Web Developer
+STU0245,Male,20,Mechanical Engineering,Tier 2,Bangalore,71.66,89.71,9.24,0,84.81,Yes,10,5,3,1,5,73,1,No,Yes,Web Development,1,13.14,Web Developer
+STU0246,Male,23,Civil Engineering,Tier 3,Chennai,75.19,63.88,6.75,0,65.02,Yes,7,4,5,1,9,65,5,Yes,No,Cloud Computing,1,12.01,Cloud Support Engineer
+STU0247,Male,23,Electrical Engineering,Tier 1,Delhi,70.81,77.85,7.91,3,79.92,Yes,1,2,6,7,6,83,10,Yes,Yes,Networking,1,14.2,Data Analyst
+STU0248,Male,22,Mechanical Engineering,Tier 3,Surat,85.79,61.77,7.0,1,90.51,Yes,7,0,6,4,4,83,6,Yes,Yes,Software Development,1,10.73,Web Developer
+STU0249,Male,22,Computer Engineering,Tier 2,Ahmedabad,67.2,73.85,6.93,1,68.05,No,0,4,3,10,3,84,1,No,Yes,Web Development,1,11.53,Web Developer
+STU0250,Female,20,Civil Engineering,Tier 3,Surat,57.66,81.41,8.35,2,73.69,Yes,0,2,6,7,4,64,9,Yes,No,Testing,1,12.97,QA Engineer
+STU0251,Male,21,Electrical Engineering,Tier 2,Hyderabad,92.05,55.86,6.56,0,72.68,No,0,5,1,1,6,83,6,No,No,Data Science,0,0.0,Not Placed
+STU0252,Female,20,Electronics Engineering,Tier 2,Bangalore,90.62,87.59,5.63,0,70.65,Yes,5,3,5,3,2,86,7,Yes,No,Data Science,1,11.55,Data Analyst
+STU0253,Female,24,Mechanical Engineering,Tier 2,Hyderabad,60.27,81.1,8.0,0,67.69,Yes,4,5,5,9,3,67,3,Yes,No,Software Development,1,14.97,Web Developer
+STU0254,Male,21,Mechanical Engineering,Tier 1,Surat,85.62,90.21,7.28,0,76.83,No,0,1,6,4,2,48,3,Yes,No,Cloud Computing,1,11.08,Cloud Support Engineer
+STU0255,Male,21,Electronics Engineering,Tier 1,Pune,58.18,86.19,6.08,1,77.81,No,0,1,6,7,8,70,3,Yes,Yes,Data Science,1,11.91,Web Developer
+STU0256,Male,22,Civil Engineering,Tier 1,Rajkot,85.31,57.65,9.49,3,92.95,No,0,5,2,8,4,67,7,Yes,No,Networking,1,15.72,Network Engineer
+STU0257,Male,24,Computer Engineering,Tier 2,Delhi,88.08,56.7,9.78,0,75.03,Yes,8,3,4,1,4,58,8,No,No,Web Development,1,14.41,Web Developer
+STU0258,Male,24,Information Technology,Tier 2,Delhi,58.62,75.03,6.27,0,93.98,Yes,6,3,2,8,1,51,8,Yes,No,Software Development,1,13.39,Software Developer
+STU0259,Male,20,Computer Engineering,Tier 1,Delhi,80.36,58.41,8.54,1,97.06,Yes,6,4,3,1,3,98,6,Yes,Yes,Data Science,1,14.52,Web Developer
+STU0260,Female,22,Mechanical Engineering,Tier 3,Delhi,66.55,62.23,9.36,2,60.13,No,0,0,3,8,8,74,1,No,Yes,Data Science,0,0.0,Not Placed
+STU0261,Female,23,Civil Engineering,Tier 2,Ahmedabad,79.05,55.26,9.29,0,83.89,Yes,0,1,1,1,6,42,3,Yes,No,Web Development,0,0.0,Not Placed
+STU0262,Male,20,Civil Engineering,Tier 1,Vadodara,81.88,79.44,8.47,0,89.92,Yes,7,5,4,6,1,45,5,No,No,Testing,1,15.88,QA Engineer
+STU0263,Male,22,Civil Engineering,Tier 1,Ahmedabad,82.78,65.98,7.77,0,86.44,Yes,1,4,5,9,2,70,10,No,No,Cloud Computing,1,14.84,Software Developer
+STU0264,Female,21,Electrical Engineering,Tier 3,Delhi,75.79,80.27,7.62,0,83.16,No,0,1,0,2,1,69,2,Yes,No,Testing,1,8.76,QA Engineer
+STU0265,Male,20,Electronics Engineering,Tier 1,Mumbai,65.18,57.71,6.79,0,89.15,Yes,10,2,2,7,10,79,1,Yes,Yes,Web Development,1,13.66,Web Developer
+STU0266,Female,23,Computer Engineering,Tier 3,Vadodara,74.26,80.09,9.34,0,72.73,No,0,5,0,9,5,76,6,Yes,Yes,Cloud Computing,1,14.24,Cloud Support Engineer
+STU0267,Female,20,Information Technology,Tier 2,Surat,68.57,70.01,7.8,0,83.02,Yes,9,0,6,5,6,85,1,No,No,Software Development,1,11.42,Web Developer
+STU0268,Female,22,Information Technology,Tier 3,Mumbai,62.0,69.97,5.66,0,63.52,Yes,12,3,4,3,4,61,8,No,No,Data Science,1,11.35,Web Developer
+STU0269,Male,21,Electronics Engineering,Tier 1,Delhi,70.5,89.59,6.0,0,61.67,Yes,5,3,0,2,9,89,5,Yes,No,Networking,0,0.0,Not Placed
+STU0270,Female,21,Information Technology,Tier 2,Mumbai,76.29,85.91,8.39,0,65.98,Yes,0,4,4,9,2,53,9,No,No,Web Development,1,14.86,Software Developer
+STU0271,Female,24,Information Technology,Tier 1,Ahmedabad,67.46,90.69,7.82,0,61.1,Yes,1,3,0,2,7,65,3,No,No,Web Development,1,11.14,Web Developer
+STU0272,Male,23,Electrical Engineering,Tier 1,Ahmedabad,87.51,91.79,7.51,0,86.01,No,0,3,1,4,3,95,10,No,No,Testing,1,14.11,Data Analyst
+STU0273,Female,22,Civil Engineering,Tier 2,Surat,57.61,59.52,7.56,1,70.73,No,0,4,4,3,9,46,7,Yes,No,Cloud Computing,1,13.02,Cloud Support Engineer
+STU0274,Female,23,Electrical Engineering,Tier 2,Rajkot,79.83,76.92,9.69,0,72.95,No,0,3,4,6,9,84,4,Yes,Yes,Networking,1,13.56,Network Engineer
+STU0275,Female,20,Electrical Engineering,Tier 3,Delhi,68.02,58.91,7.41,0,75.42,Yes,10,4,6,7,6,71,1,Yes,Yes,Data Science,1,13.7,Web Developer
+STU0276,Male,21,Electronics Engineering,Tier 1,Delhi,76.25,70.6,7.99,0,85.9,No,0,2,4,5,7,85,6,Yes,Yes,Cloud Computing,0,0.0,Not Placed
+STU0277,Female,21,Mechanical Engineering,Tier 1,Pune,91.04,93.72,5.5,0,97.19,Yes,4,0,1,7,10,65,6,No,No,Testing,1,10.68,QA Engineer
+STU0278,Male,23,Information Technology,Tier 1,Hyderabad,70.38,91.98,9.11,0,97.9,Yes,2,0,0,1,3,86,8,No,Yes,Software Development,1,13.11,Data Analyst
+STU0279,Female,24,Civil Engineering,Tier 3,Vadodara,73.18,71.96,9.03,0,68.58,No,0,4,0,10,8,94,4,No,No,Cloud Computing,1,11.94,Cloud Support Engineer
+STU0280,Male,24,Civil Engineering,Tier 3,Pune,59.53,74.26,8.47,0,87.79,No,0,3,4,2,9,96,10,Yes,Yes,Testing,1,12.72,Data Analyst
+STU0281,Male,24,Electrical Engineering,Tier 2,Chennai,57.11,68.74,8.85,0,79.48,No,0,4,5,6,7,62,5,No,Yes,Software Development,1,13.73,Web Developer
+STU0282,Female,24,Mechanical Engineering,Tier 1,Delhi,78.13,77.91,8.32,0,88.02,Yes,4,3,0,3,9,44,5,No,Yes,Cloud Computing,1,13.81,Cloud Support Engineer
+STU0283,Male,20,Electrical Engineering,Tier 1,Chennai,84.56,81.37,7.09,0,89.74,Yes,7,1,6,9,1,61,2,Yes,Yes,Testing,1,13.07,QA Engineer
+STU0284,Female,21,Electronics Engineering,Tier 2,Vadodara,63.43,84.37,6.98,0,88.71,Yes,0,1,3,7,8,59,8,Yes,No,Networking,1,11.76,Network Engineer
+STU0285,Male,24,Civil Engineering,Tier 1,Mumbai,92.09,72.95,8.42,2,85.95,Yes,1,4,5,6,7,79,5,No,No,Web Development,1,13.71,Web Developer
+STU0286,Female,23,Electronics Engineering,Tier 3,Rajkot,84.37,78.55,6.34,0,86.23,Yes,5,4,0,1,2,40,7,Yes,Yes,Networking,1,10.29,Network Engineer
+STU0287,Female,22,Information Technology,Tier 1,Surat,79.78,57.28,8.05,2,68.24,Yes,11,0,0,10,3,64,10,Yes,Yes,Networking,1,14.77,Software Developer
+STU0288,Male,23,Mechanical Engineering,Tier 2,Pune,65.29,86.23,6.69,0,74.77,Yes,4,2,1,8,2,71,4,No,Yes,Networking,1,11.0,Network Engineer
+STU0289,Female,21,Electrical Engineering,Tier 3,Ahmedabad,91.5,83.62,5.94,0,81.71,No,0,3,0,8,3,81,1,Yes,No,Web Development,1,9.21,Web Developer
+STU0290,Female,24,Computer Engineering,Tier 3,Delhi,74.13,71.16,8.63,1,62.66,Yes,0,3,5,8,2,76,9,No,No,Networking,1,12.61,Software Developer
+STU0291,Male,22,Electrical Engineering,Tier 2,Ahmedabad,88.65,85.42,6.75,0,81.07,No,0,5,1,5,7,97,2,No,No,Software Development,0,0.0,Not Placed
+STU0292,Female,21,Information Technology,Tier 1,Rajkot,56.01,94.86,6.53,0,90.12,No,0,3,4,8,1,42,6,Yes,No,Networking,1,12.15,Network Engineer
+STU0293,Female,24,Information Technology,Tier 3,Chennai,64.32,57.88,8.66,0,60.72,Yes,3,5,5,3,1,51,1,No,Yes,Testing,1,12.84,QA Engineer
+STU0294,Male,20,Computer Engineering,Tier 2,Chennai,86.97,63.82,8.96,0,90.84,No,0,2,0,10,9,48,6,Yes,Yes,Cloud Computing,1,12.35,Cloud Support Engineer
+STU0295,Female,21,Civil Engineering,Tier 1,Pune,77.14,72.55,9.48,0,63.8,No,0,1,0,8,2,40,1,Yes,Yes,Networking,1,13.43,Network Engineer
+STU0296,Female,23,Electronics Engineering,Tier 1,Rajkot,60.72,65.84,7.44,0,66.63,Yes,9,1,5,8,10,100,2,No,No,Testing,1,12.95,QA Engineer
+STU0297,Male,24,Computer Engineering,Tier 3,Pune,89.51,94.47,7.68,0,83.81,Yes,4,0,1,2,3,83,8,No,Yes,Data Science,1,9.76,Data Analyst
+STU0298,Female,22,Information Technology,Tier 2,Mumbai,68.37,87.21,8.76,0,88.14,Yes,2,0,3,9,2,44,4,No,No,Testing,1,12.83,QA Engineer
+STU0299,Female,21,Computer Engineering,Tier 2,Rajkot,58.92,84.51,9.24,0,68.39,No,0,4,3,1,7,49,4,No,Yes,Testing,1,12.36,QA Engineer
+STU0300,Male,22,Mechanical Engineering,Tier 1,Pune,60.09,82.69,5.76,0,92.36,No,0,3,1,6,4,96,5,Yes,Yes,Cloud Computing,0,0.0,Not Placed
+STU0301,Male,20,Civil Engineering,Tier 3,Delhi,89.49,63.66,7.54,0,60.55,No,0,5,6,4,4,60,7,Yes,Yes,Cloud Computing,1,12.33,Cloud Support Engineer
+STU0302,Male,20,Civil Engineering,Tier 3,Hyderabad,56.34,76.24,7.56,1,91.21,No,0,3,1,2,9,88,1,No,Yes,Data Science,1,9.12,Web Developer
+STU0303,Male,20,Civil Engineering,Tier 3,Mumbai,61.47,73.37,7.95,0,97.1,No,0,1,6,7,3,90,6,No,Yes,Networking,1,12.48,Network Engineer
+STU0304,Female,24,Computer Engineering,Tier 2,Bangalore,85.12,82.92,8.13,0,67.87,Yes,9,2,5,1,9,100,6,Yes,Yes,Testing,1,13.25,QA Engineer
+STU0305,Female,22,Information Technology,Tier 3,Hyderabad,83.19,77.43,8.83,0,72.73,Yes,10,3,5,10,4,88,4,No,No,Web Development,1,14.34,Web Developer
+STU0306,Male,20,Mechanical Engineering,Tier 2,Delhi,74.45,76.07,6.03,1,85.78,No,0,3,4,6,2,52,8,Yes,Yes,Testing,0,0.0,Not Placed
+STU0307,Female,20,Computer Engineering,Tier 1,Mumbai,59.48,60.92,6.15,0,96.18,Yes,4,3,5,9,3,70,6,No,No,Networking,1,13.15,Network Engineer
+STU0308,Male,20,Information Technology,Tier 3,Pune,71.47,68.71,8.28,0,82.55,No,0,3,2,10,3,97,5,Yes,No,Data Science,1,13.41,Web Developer
+STU0309,Male,21,Mechanical Engineering,Tier 2,Delhi,93.25,79.75,6.19,0,66.93,Yes,11,5,5,3,3,55,2,Yes,No,Cloud Computing,1,12.18,Cloud Support Engineer
+STU0310,Male,21,Electrical Engineering,Tier 3,Surat,81.62,94.12,6.14,0,97.07,No,0,0,0,7,8,89,3,No,No,Data Science,1,9.33,Web Developer
+STU0311,Female,22,Civil Engineering,Tier 2,Chennai,81.68,86.98,8.63,2,72.87,Yes,11,3,0,3,9,47,5,Yes,No,Cloud Computing,1,13.44,Cloud Support Engineer
+STU0312,Male,22,Computer Engineering,Tier 3,Rajkot,78.34,63.89,9.52,0,60.86,No,0,5,5,2,9,65,4,No,No,Cloud Computing,1,13.58,Cloud Support Engineer
+STU0313,Female,23,Information Technology,Tier 3,Bangalore,69.79,69.91,6.72,0,97.15,Yes,3,5,3,7,8,58,3,No,No,Data Science,1,11.98,Web Developer
+STU0314,Male,21,Mechanical Engineering,Tier 2,Hyderabad,94.47,57.64,9.63,1,63.36,No,0,5,2,7,3,75,8,Yes,Yes,Data Science,1,14.39,Web Developer
+STU0315,Female,20,Mechanical Engineering,Tier 3,Mumbai,74.76,84.59,6.47,1,65.85,No,0,5,6,8,2,81,5,No,Yes,Testing,0,0.0,Not Placed
+STU0316,Male,20,Computer Engineering,Tier 2,Delhi,94.77,57.67,8.71,0,81.49,No,0,5,5,8,2,63,9,Yes,No,Data Science,1,14.24,Software Developer
+STU0317,Female,21,Mechanical Engineering,Tier 1,Surat,65.91,71.78,9.42,0,71.01,Yes,8,1,6,3,2,78,3,No,No,Networking,1,13.58,Network Engineer
+STU0318,Female,20,Electrical Engineering,Tier 3,Pune,87.93,55.52,7.73,0,78.43,No,0,1,0,4,3,72,4,Yes,Yes,Testing,1,9.05,QA Engineer
+STU0319,Male,20,Civil Engineering,Tier 2,Mumbai,82.64,60.56,7.4,3,79.88,No,0,1,5,5,1,87,2,Yes,Yes,Networking,1,10.21,Network Engineer
+STU0320,Male,21,Information Technology,Tier 1,Bangalore,82.63,86.36,5.83,1,88.78,Yes,3,0,0,9,10,43,8,Yes,No,Software Development,1,12.29,Software Developer
+STU0321,Male,20,Electrical Engineering,Tier 1,Chennai,91.05,62.39,7.01,0,92.14,No,0,4,2,6,3,94,9,Yes,Yes,Software Development,1,14.1,Data Analyst
+STU0322,Male,21,Mechanical Engineering,Tier 1,Hyderabad,55.17,84.01,9.47,2,92.35,No,0,2,5,10,3,68,2,Yes,No,Testing,1,14.18,QA Engineer
+STU0323,Female,20,Mechanical Engineering,Tier 1,Delhi,59.41,60.44,8.78,1,81.17,Yes,1,2,3,2,7,58,8,No,No,Data Science,1,12.96,Web Developer
+STU0324,Female,21,Computer Engineering,Tier 2,Pune,62.17,94.95,7.61,0,76.65,Yes,1,1,3,7,10,46,3,Yes,No,Data Science,1,11.56,Web Developer
+STU0325,Female,20,Information Technology,Tier 2,Delhi,66.14,83.54,8.0,0,90.0,No,0,2,3,10,7,71,9,No,Yes,Testing,1,13.06,Software Developer
+STU0326,Female,21,Electronics Engineering,Tier 1,Surat,58.98,57.11,5.79,0,96.94,No,0,4,5,6,3,59,10,Yes,Yes,Networking,1,13.88,Network Engineer
+STU0327,Female,21,Mechanical Engineering,Tier 3,Delhi,74.61,65.47,6.98,1,80.77,Yes,6,0,3,8,6,94,7,No,No,Software Development,1,11.75,Data Analyst
+STU0328,Female,21,Civil Engineering,Tier 2,Vadodara,67.5,70.56,8.79,0,78.64,No,0,3,4,3,9,43,7,No,No,Cloud Computing,0,0.0,Not Placed
+STU0329,Female,22,Mechanical Engineering,Tier 1,Surat,78.62,60.13,7.08,1,82.19,No,0,3,0,7,6,62,7,No,Yes,Networking,1,12.28,Network Engineer
+STU0330,Female,24,Computer Engineering,Tier 3,Ahmedabad,89.76,59.58,6.23,0,61.42,No,0,4,4,7,5,41,8,Yes,No,Testing,1,11.43,QA Engineer
+STU0331,Male,23,Computer Engineering,Tier 3,Rajkot,68.44,75.11,8.79,0,83.36,No,0,3,1,8,2,93,9,Yes,No,Web Development,1,14.12,Software Developer
+STU0332,Female,21,Electrical Engineering,Tier 3,Ahmedabad,83.71,78.13,8.05,0,81.52,No,0,3,1,6,2,81,5,No,No,Networking,1,10.88,Network Engineer
+STU0333,Female,22,Electrical Engineering,Tier 3,Delhi,81.86,76.9,9.29,0,79.62,Yes,9,3,1,8,5,99,9,No,Yes,Cloud Computing,1,14.72,Software Developer
+STU0334,Male,21,Electronics Engineering,Tier 3,Mumbai,88.76,71.41,9.2,2,84.09,No,0,2,6,5,3,56,10,Yes,No,Data Science,1,12.68,Web Developer
+STU0335,Male,22,Civil Engineering,Tier 2,Hyderabad,94.65,71.88,9.39,0,70.36,Yes,4,2,5,9,3,81,1,No,Yes,Software Development,1,12.69,Web Developer
+STU0336,Female,20,Civil Engineering,Tier 2,Ahmedabad,70.88,88.59,9.12,0,81.7,Yes,8,5,6,10,9,56,8,Yes,Yes,Cloud Computing,1,17.31,Software Developer
+STU0337,Female,24,Electronics Engineering,Tier 2,Rajkot,92.42,63.72,5.96,0,70.43,No,0,2,6,10,1,71,9,No,Yes,Web Development,1,12.54,Software Developer
+STU0338,Male,22,Information Technology,Tier 2,Delhi,83.63,87.85,5.59,2,83.02,Yes,11,5,1,5,9,64,5,No,Yes,Cloud Computing,1,13.47,Cloud Support Engineer
+STU0339,Female,20,Civil Engineering,Tier 2,Mumbai,58.61,87.91,6.51,0,93.83,No,0,5,2,7,1,57,2,No,No,Networking,1,12.26,Network Engineer
+STU0340,Female,20,Information Technology,Tier 3,Mumbai,75.25,69.07,8.09,1,88.04,No,0,5,0,1,3,80,8,Yes,Yes,Testing,1,11.4,Data Analyst
+STU0341,Male,20,Information Technology,Tier 1,Hyderabad,83.54,85.7,8.29,0,82.57,No,0,2,3,8,3,56,3,No,No,Data Science,1,12.72,Web Developer
+STU0342,Female,23,Electrical Engineering,Tier 1,Surat,92.92,91.92,8.28,0,94.46,No,0,1,2,3,1,65,10,No,No,Data Science,1,12.75,Web Developer
+STU0343,Male,20,Electronics Engineering,Tier 3,Bangalore,85.93,92.13,9.06,0,68.53,Yes,3,2,2,8,7,48,7,Yes,Yes,Web Development,1,12.5,Web Developer
+STU0344,Male,23,Information Technology,Tier 1,Mumbai,94.05,64.42,7.44,0,82.15,No,0,0,0,8,3,95,6,No,Yes,Networking,1,11.82,Network Engineer
+STU0345,Female,20,Computer Engineering,Tier 3,Surat,57.08,92.24,7.53,0,83.04,Yes,0,2,4,10,7,59,7,No,Yes,Cloud Computing,1,11.63,Cloud Support Engineer
+STU0346,Male,24,Civil Engineering,Tier 2,Delhi,60.28,67.69,7.78,0,64.44,Yes,2,3,6,5,6,99,7,No,No,Cloud Computing,1,13.98,Data Analyst
+STU0347,Female,23,Information Technology,Tier 2,Delhi,85.55,61.05,9.17,0,90.33,Yes,3,1,0,4,3,42,8,No,Yes,Networking,1,12.01,Network Engineer
+STU0348,Female,20,Civil Engineering,Tier 2,Hyderabad,74.41,74.72,9.14,1,64.7,Yes,3,2,1,3,9,92,5,Yes,Yes,Cloud Computing,1,11.81,Cloud Support Engineer
+STU0349,Male,21,Civil Engineering,Tier 3,Ahmedabad,90.49,56.04,8.43,0,74.98,Yes,5,1,0,2,8,93,8,No,No,Cloud Computing,1,11.2,Data Analyst
+STU0350,Male,24,Civil Engineering,Tier 2,Chennai,60.17,89.53,8.95,0,90.33,Yes,8,4,3,2,7,56,3,Yes,No,Software Development,1,12.85,Web Developer
+STU0351,Female,23,Mechanical Engineering,Tier 3,Vadodara,59.82,74.63,7.36,1,71.78,Yes,5,5,0,6,9,52,8,No,No,Testing,1,13.16,QA Engineer
+STU0352,Male,23,Mechanical Engineering,Tier 3,Vadodara,72.36,72.04,5.67,0,77.61,Yes,10,5,5,3,8,73,9,Yes,No,Testing,1,13.69,QA Engineer
+STU0353,Female,22,Information Technology,Tier 1,Mumbai,88.66,75.92,6.77,0,62.91,Yes,8,0,4,7,7,46,8,No,No,Web Development,1,13.98,Web Developer
+STU0354,Male,20,Electronics Engineering,Tier 3,Delhi,62.18,62.29,7.19,0,93.32,No,0,2,4,8,8,79,5,No,Yes,Data Science,1,11.79,Web Developer
+STU0355,Female,20,Civil Engineering,Tier 3,Surat,55.23,59.67,6.24,0,86.29,No,0,2,4,10,6,84,7,No,Yes,Data Science,1,10.82,Data Analyst
+STU0356,Male,21,Computer Engineering,Tier 1,Delhi,80.94,80.99,7.37,0,90.02,Yes,1,2,6,8,3,70,7,Yes,Yes,Data Science,1,14.18,Web Developer
+STU0357,Female,23,Civil Engineering,Tier 1,Delhi,78.41,63.05,7.95,1,61.94,Yes,1,5,6,7,7,94,8,No,Yes,Testing,1,15.17,Data Analyst
+STU0358,Female,21,Electronics Engineering,Tier 1,Hyderabad,55.76,78.06,7.88,0,84.64,No,0,0,3,10,6,68,7,Yes,Yes,Web Development,1,13.12,Web Developer
+STU0359,Female,21,Electrical Engineering,Tier 1,Chennai,91.36,68.57,8.09,1,84.96,Yes,4,5,5,7,7,93,6,No,Yes,Cloud Computing,1,15.55,Cloud Support Engineer
+STU0360,Male,23,Information Technology,Tier 1,Rajkot,61.25,74.69,8.91,2,78.76,Yes,3,4,0,1,6,96,5,No,Yes,Data Science,1,14.11,Web Developer
+STU0361,Male,20,Mechanical Engineering,Tier 2,Ahmedabad,79.7,59.83,6.46,0,72.93,No,0,0,6,9,5,97,3,Yes,Yes,Testing,0,0.0,Not Placed
+STU0362,Male,20,Electrical Engineering,Tier 3,Ahmedabad,87.94,56.68,5.95,0,93.09,No,0,1,5,5,8,88,9,No,Yes,Data Science,1,10.19,Data Analyst
+STU0363,Male,20,Information Technology,Tier 2,Bangalore,85.77,55.26,9.09,0,70.9,Yes,1,2,2,7,6,80,4,Yes,No,Data Science,1,12.62,Web Developer
+STU0364,Female,23,Electrical Engineering,Tier 3,Pune,92.75,72.7,8.81,1,79.66,Yes,1,2,2,7,3,67,1,No,Yes,Networking,0,0.0,Not Placed
+STU0365,Male,24,Computer Engineering,Tier 3,Hyderabad,93.91,71.77,9.31,1,93.19,No,0,2,0,5,9,79,3,No,No,Networking,1,11.34,Network Engineer
+STU0366,Female,22,Electronics Engineering,Tier 2,Rajkot,90.24,58.37,7.81,0,87.32,Yes,8,4,2,4,2,72,9,No,No,Networking,1,13.19,Network Engineer
+STU0367,Female,21,Mechanical Engineering,Tier 3,Bangalore,94.48,59.42,5.76,0,83.83,No,0,0,0,2,8,59,10,Yes,No,Web Development,0,0.0,Not Placed
+STU0368,Male,22,Mechanical Engineering,Tier 2,Chennai,81.9,83.57,7.73,0,72.46,Yes,12,2,3,2,3,85,7,No,Yes,Software Development,1,14.12,Data Analyst
+STU0369,Female,21,Civil Engineering,Tier 1,Pune,82.07,71.11,7.9,1,93.14,No,0,5,3,8,8,86,7,Yes,Yes,Cloud Computing,1,15.01,Data Analyst
+STU0370,Male,24,Electrical Engineering,Tier 1,Rajkot,73.22,56.3,6.17,0,95.02,Yes,9,3,0,2,6,76,5,Yes,Yes,Software Development,1,13.25,Web Developer
+STU0371,Female,22,Civil Engineering,Tier 1,Vadodara,60.69,78.58,5.71,2,93.78,Yes,2,5,3,1,2,75,6,Yes,Yes,Testing,1,11.62,QA Engineer
+STU0372,Female,22,Civil Engineering,Tier 2,Chennai,60.31,60.54,8.24,1,85.35,Yes,11,2,0,10,10,66,7,Yes,No,Web Development,1,15.52,Web Developer
+STU0373,Female,22,Electronics Engineering,Tier 1,Vadodara,83.29,77.88,8.92,1,81.32,Yes,10,4,0,4,10,74,10,Yes,Yes,Testing,1,14.96,QA Engineer
+STU0374,Male,20,Mechanical Engineering,Tier 1,Rajkot,88.19,88.56,7.99,0,80.27,No,0,3,4,1,8,95,1,No,No,Data Science,1,12.32,Web Developer
+STU0375,Female,23,Mechanical Engineering,Tier 1,Ahmedabad,94.19,76.67,6.73,0,89.2,Yes,4,3,5,3,1,79,6,Yes,Yes,Networking,1,12.64,Network Engineer
+STU0376,Female,21,Civil Engineering,Tier 2,Mumbai,70.02,88.11,6.02,0,88.58,Yes,7,4,6,9,7,100,2,No,Yes,Web Development,1,12.62,Web Developer
+STU0377,Female,20,Civil Engineering,Tier 3,Rajkot,91.55,55.74,7.88,0,63.86,Yes,4,4,3,8,2,94,9,Yes,Yes,Web Development,1,13.06,Software Developer
+STU0378,Male,24,Civil Engineering,Tier 3,Delhi,56.67,87.51,9.63,0,84.82,Yes,0,0,3,5,10,56,7,No,Yes,Cloud Computing,1,11.48,Cloud Support Engineer
+STU0379,Male,24,Electrical Engineering,Tier 1,Mumbai,58.59,82.94,9.07,1,97.96,No,0,1,4,9,6,96,6,No,No,Web Development,1,15.01,Web Developer
+STU0380,Female,21,Civil Engineering,Tier 3,Pune,55.63,82.67,8.28,0,78.11,Yes,10,1,3,9,8,88,7,Yes,Yes,Cloud Computing,1,14.28,Data Analyst
+STU0381,Female,20,Mechanical Engineering,Tier 2,Chennai,69.32,62.09,8.8,0,60.32,No,0,2,1,8,1,54,1,No,No,Data Science,1,12.11,Web Developer
+STU0382,Female,21,Information Technology,Tier 2,Pune,56.47,74.71,8.53,0,60.27,No,0,0,6,5,10,72,8,Yes,Yes,Networking,1,12.81,Network Engineer
+STU0383,Male,20,Electrical Engineering,Tier 1,Ahmedabad,60.1,92.34,9.18,2,87.7,No,0,1,6,1,9,79,5,No,Yes,Testing,1,13.6,QA Engineer
+STU0384,Male,22,Civil Engineering,Tier 2,Mumbai,59.87,75.73,7.63,0,61.65,Yes,0,2,3,9,8,60,1,No,Yes,Web Development,1,11.68,Web Developer
+STU0385,Male,21,Electronics Engineering,Tier 2,Ahmedabad,91.68,62.88,6.92,0,83.76,Yes,7,3,6,1,10,91,6,No,Yes,Software Development,1,13.32,Web Developer
+STU0386,Male,22,Electrical Engineering,Tier 1,Ahmedabad,86.03,79.78,8.79,0,82.0,Yes,0,0,3,6,2,90,3,Yes,No,Software Development,1,12.51,Web Developer
+STU0387,Male,20,Electronics Engineering,Tier 1,Hyderabad,57.09,89.0,7.23,0,75.62,Yes,7,3,3,7,10,79,2,No,Yes,Testing,1,13.5,QA Engineer
+STU0388,Male,20,Computer Engineering,Tier 3,Ahmedabad,78.72,88.63,9.39,0,79.34,No,0,3,3,10,8,51,4,Yes,Yes,Software Development,1,13.28,Web Developer
+STU0389,Female,22,Electrical Engineering,Tier 3,Vadodara,60.9,67.35,6.97,0,60.31,Yes,0,1,4,9,1,67,6,Yes,Yes,Networking,0,0.0,Not Placed
+STU0390,Male,22,Information Technology,Tier 3,Delhi,82.79,94.28,8.08,0,81.98,No,0,4,2,7,6,50,2,No,Yes,Testing,1,10.56,QA Engineer
+STU0391,Male,21,Civil Engineering,Tier 3,Rajkot,64.56,84.38,9.6,0,88.12,Yes,6,1,6,1,6,40,2,No,Yes,Cloud Computing,1,11.37,Cloud Support Engineer
+STU0392,Male,24,Mechanical Engineering,Tier 1,Surat,62.96,66.36,6.44,0,66.62,Yes,2,1,0,3,5,98,2,Yes,Yes,Testing,0,0.0,Not Placed
+STU0393,Male,22,Information Technology,Tier 2,Delhi,64.61,87.38,8.34,2,97.13,No,0,5,0,2,3,96,3,Yes,Yes,Cloud Computing,1,11.58,Cloud Support Engineer
+STU0394,Female,21,Computer Engineering,Tier 3,Chennai,62.56,76.42,8.9,0,62.02,No,0,1,6,9,10,96,8,Yes,Yes,Testing,1,13.3,Software Developer
+STU0395,Male,24,Civil Engineering,Tier 3,Hyderabad,69.97,75.76,6.27,1,79.97,No,0,5,3,8,5,77,7,Yes,Yes,Data Science,0,0.0,Not Placed
+STU0396,Female,21,Civil Engineering,Tier 1,Mumbai,72.0,70.08,6.18,1,69.67,Yes,2,0,2,8,9,62,4,Yes,No,Cloud Computing,1,11.15,Cloud Support Engineer
+STU0397,Female,23,Civil Engineering,Tier 2,Delhi,67.68,70.29,6.27,0,84.52,No,0,0,2,9,9,74,2,No,Yes,Software Development,1,9.76,Web Developer
+STU0398,Male,22,Information Technology,Tier 3,Pune,65.0,84.81,8.8,1,67.24,Yes,12,5,5,9,5,40,5,No,No,Testing,1,16.13,QA Engineer
+STU0399,Male,23,Electronics Engineering,Tier 3,Vadodara,89.62,64.1,8.61,0,68.88,No,0,5,6,8,6,90,2,No,Yes,Testing,1,13.3,QA Engineer
+STU0400,Male,23,Civil Engineering,Tier 3,Surat,69.99,78.1,6.05,2,60.37,No,0,2,1,7,7,83,7,No,No,Cloud Computing,1,10.98,Data Analyst
+STU0401,Male,21,Mechanical Engineering,Tier 3,Chennai,91.55,77.96,7.18,0,96.05,Yes,8,3,1,8,2,61,10,No,No,Software Development,1,13.83,Software Developer
+STU0402,Male,20,Electronics Engineering,Tier 3,Delhi,56.07,62.96,9.42,0,67.82,No,0,5,4,2,8,43,6,Yes,Yes,Web Development,1,12.73,Web Developer
+STU0403,Male,20,Information Technology,Tier 3,Bangalore,74.13,57.75,9.61,1,64.94,Yes,4,3,6,8,3,78,10,No,Yes,Cloud Computing,1,14.97,Software Developer
+STU0404,Male,20,Information Technology,Tier 2,Ahmedabad,87.98,79.19,6.56,0,81.63,No,0,3,3,10,1,87,2,No,No,Web Development,1,12.0,Web Developer
+STU0405,Female,23,Electrical Engineering,Tier 1,Bangalore,64.97,91.0,8.65,0,94.61,Yes,11,4,0,7,1,55,3,No,No,Networking,1,15.43,Network Engineer
+STU0406,Male,23,Civil Engineering,Tier 3,Ahmedabad,94.81,58.06,5.95,1,72.39,No,0,1,2,4,9,42,8,Yes,Yes,Networking,0,0.0,Not Placed
+STU0407,Female,23,Mechanical Engineering,Tier 3,Bangalore,89.23,70.87,5.55,0,94.85,No,0,5,5,8,8,69,2,Yes,Yes,Networking,0,0.0,Not Placed
+STU0408,Male,23,Mechanical Engineering,Tier 1,Vadodara,88.54,79.28,6.26,0,88.17,Yes,1,5,6,1,5,49,8,No,Yes,Data Science,1,13.75,Web Developer
+STU0409,Male,23,Electronics Engineering,Tier 1,Hyderabad,80.64,83.66,9.36,0,71.72,Yes,9,0,0,7,4,99,4,No,Yes,Data Science,1,13.84,Web Developer
+STU0410,Male,22,Information Technology,Tier 3,Ahmedabad,63.82,90.29,8.93,1,66.38,Yes,0,3,4,2,6,60,9,Yes,Yes,Cloud Computing,1,12.35,Cloud Support Engineer
+STU0411,Male,21,Computer Engineering,Tier 2,Pune,61.94,71.09,6.86,0,77.43,Yes,10,2,5,10,6,42,2,Yes,No,Web Development,1,13.16,Web Developer
+STU0412,Male,24,Electrical Engineering,Tier 1,Mumbai,93.36,78.99,9.72,0,85.76,Yes,5,1,5,6,8,44,6,Yes,No,Testing,1,15.28,QA Engineer
+STU0413,Male,21,Computer Engineering,Tier 3,Ahmedabad,67.35,84.52,8.76,0,62.28,No,0,3,2,4,3,64,4,Yes,Yes,Networking,1,12.4,Network Engineer
+STU0414,Female,21,Mechanical Engineering,Tier 2,Surat,75.83,94.1,8.29,0,60.9,No,0,2,1,4,9,43,4,Yes,No,Cloud Computing,1,11.31,Cloud Support Engineer
+STU0415,Male,20,Civil Engineering,Tier 1,Rajkot,57.08,94.68,9.53,0,66.6,Yes,3,4,0,7,8,59,3,Yes,Yes,Testing,1,13.9,QA Engineer
+STU0416,Female,24,Civil Engineering,Tier 3,Rajkot,65.87,86.25,5.84,3,75.13,Yes,7,3,3,9,10,87,7,Yes,No,Software Development,1,12.13,Data Analyst
+STU0417,Male,22,Electrical Engineering,Tier 3,Vadodara,77.11,62.03,7.14,0,70.76,No,0,0,2,3,8,52,3,Yes,Yes,Software Development,0,0.0,Not Placed
+STU0418,Female,23,Civil Engineering,Tier 2,Bangalore,93.82,69.93,7.61,0,82.36,No,0,0,0,7,10,50,4,No,No,Networking,1,11.12,Network Engineer
+STU0419,Female,20,Electronics Engineering,Tier 2,Bangalore,84.43,64.69,5.65,1,83.98,Yes,11,5,5,3,5,78,8,Yes,No,Data Science,1,14.42,Web Developer
+STU0420,Male,20,Computer Engineering,Tier 1,Bangalore,70.91,78.45,9.37,0,67.18,No,0,1,6,7,5,84,5,No,No,Networking,1,14.67,Network Engineer
+STU0421,Male,20,Electronics Engineering,Tier 3,Pune,87.57,65.76,6.4,1,86.56,Yes,2,3,0,2,2,89,7,No,No,Networking,1,9.62,Data Analyst
+STU0422,Male,21,Information Technology,Tier 2,Vadodara,75.1,59.41,7.94,0,67.64,Yes,12,1,2,7,8,80,10,Yes,Yes,Software Development,1,14.27,Data Analyst
+STU0423,Female,20,Mechanical Engineering,Tier 1,Chennai,64.39,74.41,8.77,0,70.11,Yes,10,4,6,1,2,53,9,Yes,No,Cloud Computing,1,16.72,Cloud Support Engineer
+STU0424,Female,23,Civil Engineering,Tier 2,Chennai,72.18,69.83,9.33,3,91.04,No,0,5,3,7,10,43,6,No,Yes,Software Development,1,14.73,Web Developer
+STU0425,Male,20,Electrical Engineering,Tier 1,Hyderabad,66.18,82.97,9.0,0,83.5,No,0,4,3,4,1,80,6,Yes,No,Software Development,1,14.5,Web Developer
+STU0426,Female,21,Electrical Engineering,Tier 2,Bangalore,84.57,86.76,7.0,2,95.78,No,0,5,6,2,7,58,10,Yes,Yes,Cloud Computing,1,13.65,Cloud Support Engineer
+STU0427,Male,21,Civil Engineering,Tier 1,Mumbai,88.29,94.85,9.75,0,94.06,Yes,7,5,4,4,4,53,3,Yes,Yes,Testing,1,14.5,QA Engineer
+STU0428,Female,23,Mechanical Engineering,Tier 1,Mumbai,81.64,93.06,8.38,0,95.06,No,0,0,6,6,4,99,10,Yes,No,Testing,1,14.23,Data Analyst
+STU0429,Female,24,Civil Engineering,Tier 1,Rajkot,65.36,66.64,5.98,0,82.5,Yes,11,0,4,6,3,94,6,No,Yes,Web Development,1,12.87,Web Developer
+STU0430,Female,23,Mechanical Engineering,Tier 2,Vadodara,75.79,79.06,6.46,0,80.46,No,0,2,1,5,4,71,8,Yes,No,Data Science,1,11.92,Web Developer
+STU0431,Male,24,Mechanical Engineering,Tier 2,Hyderabad,94.61,59.94,9.79,1,78.17,Yes,7,2,5,7,1,91,6,Yes,Yes,Networking,1,14.32,Network Engineer
+STU0432,Male,21,Civil Engineering,Tier 3,Bangalore,66.96,87.6,9.42,0,60.82,No,0,2,3,8,6,88,7,No,Yes,Cloud Computing,1,12.59,Data Analyst
+STU0433,Male,24,Civil Engineering,Tier 1,Vadodara,67.94,86.65,9.22,0,95.51,No,0,3,5,3,10,48,8,No,No,Data Science,1,14.89,Web Developer
+STU0434,Male,20,Mechanical Engineering,Tier 3,Chennai,59.08,86.42,9.19,0,97.34,Yes,0,0,2,8,3,100,1,Yes,No,Cloud Computing,1,10.15,Cloud Support Engineer
+STU0435,Female,21,Computer Engineering,Tier 1,Rajkot,70.87,67.11,8.06,0,88.32,Yes,12,3,6,7,5,80,8,No,Yes,Software Development,1,15.41,Data Analyst
+STU0436,Male,20,Electrical Engineering,Tier 3,Chennai,74.18,82.75,5.91,0,74.59,No,0,2,4,3,2,60,2,Yes,No,Networking,1,9.07,Network Engineer
+STU0437,Female,20,Electrical Engineering,Tier 3,Hyderabad,83.55,86.6,6.03,1,96.7,Yes,2,4,5,3,1,75,8,No,Yes,Software Development,1,10.77,Web Developer
+STU0438,Male,20,Electrical Engineering,Tier 2,Surat,58.38,59.99,6.78,2,66.52,Yes,3,2,0,9,5,82,9,No,Yes,Cloud Computing,1,12.3,Software Developer
+STU0439,Female,24,Electrical Engineering,Tier 3,Rajkot,82.52,81.5,5.69,0,65.38,Yes,2,4,4,4,10,62,5,Yes,No,Software Development,1,10.12,Web Developer
+STU0440,Male,23,Civil Engineering,Tier 1,Mumbai,82.06,92.61,6.12,0,83.92,No,0,5,5,4,6,76,9,Yes,No,Data Science,1,13.92,Web Developer
+STU0441,Female,20,Electrical Engineering,Tier 1,Ahmedabad,65.81,76.26,8.44,0,72.52,Yes,5,2,6,5,3,95,4,No,Yes,Software Development,1,14.79,Web Developer
+STU0442,Female,20,Computer Engineering,Tier 1,Hyderabad,84.13,67.26,9.03,0,80.1,No,0,4,2,10,2,97,1,Yes,No,Testing,1,14.62,QA Engineer
+STU0443,Female,23,Electrical Engineering,Tier 1,Mumbai,55.38,75.54,6.17,0,74.39,No,0,0,5,6,4,83,10,No,No,Data Science,1,11.9,Data Analyst
+STU0444,Female,24,Mechanical Engineering,Tier 2,Bangalore,75.82,83.74,9.47,0,84.15,Yes,4,3,6,6,2,80,2,Yes,Yes,Software Development,1,12.82,Web Developer
+STU0445,Female,24,Civil Engineering,Tier 1,Bangalore,82.08,92.3,6.09,0,86.03,Yes,6,0,4,4,1,85,7,No,Yes,Networking,1,12.8,Data Analyst
+STU0446,Male,24,Civil Engineering,Tier 1,Hyderabad,91.15,61.99,7.08,0,73.43,Yes,6,3,3,3,6,47,6,Yes,Yes,Web Development,1,12.74,Web Developer
+STU0447,Male,20,Electronics Engineering,Tier 3,Chennai,70.74,91.92,9.5,2,79.59,Yes,7,4,6,8,1,62,1,No,No,Web Development,1,13.0,Web Developer
+STU0448,Male,23,Mechanical Engineering,Tier 1,Ahmedabad,72.23,62.9,7.78,2,75.61,No,0,0,1,5,4,70,7,No,No,Web Development,0,0.0,Not Placed
+STU0449,Male,24,Mechanical Engineering,Tier 1,Delhi,81.25,72.57,6.1,1,60.22,Yes,1,1,2,1,3,65,7,No,Yes,Data Science,0,0.0,Not Placed
+STU0450,Female,22,Computer Engineering,Tier 2,Delhi,77.0,86.99,8.57,0,89.05,No,0,4,5,7,3,47,2,Yes,Yes,Data Science,1,11.96,Web Developer
+STU0451,Male,20,Electronics Engineering,Tier 2,Bangalore,94.06,84.5,7.37,0,78.47,No,0,1,4,3,9,51,4,No,Yes,Web Development,0,0.0,Not Placed
+STU0452,Male,23,Information Technology,Tier 2,Ahmedabad,83.05,75.09,6.28,3,82.47,Yes,3,0,1,7,1,57,4,Yes,No,Software Development,0,0.0,Not Placed
+STU0453,Male,20,Civil Engineering,Tier 2,Hyderabad,67.26,80.33,6.5,0,78.21,No,0,5,0,5,2,57,6,No,No,Networking,1,11.41,Network Engineer
+STU0454,Male,21,Computer Engineering,Tier 1,Surat,81.42,67.87,6.73,0,83.05,No,0,1,2,8,6,61,5,Yes,Yes,Networking,1,12.01,Network Engineer
+STU0455,Male,22,Mechanical Engineering,Tier 3,Pune,84.72,78.56,8.1,0,70.49,No,0,0,0,3,10,47,1,Yes,Yes,Networking,1,8.2,Network Engineer
+STU0456,Female,22,Electronics Engineering,Tier 2,Rajkot,76.34,61.15,6.05,0,87.04,No,0,2,3,2,7,44,8,No,Yes,Data Science,0,0.0,Not Placed
+STU0457,Male,22,Computer Engineering,Tier 3,Surat,86.78,82.75,8.69,0,86.02,Yes,2,3,6,9,7,75,7,No,No,Data Science,1,13.06,Web Developer
+STU0458,Male,24,Electronics Engineering,Tier 1,Hyderabad,73.22,83.31,7.76,0,68.37,No,0,4,0,3,4,42,9,Yes,No,Software Development,1,14.17,Web Developer
+STU0459,Female,21,Mechanical Engineering,Tier 1,Rajkot,94.58,63.4,6.0,0,84.04,No,0,2,0,9,5,86,3,No,No,Web Development,0,0.0,Not Placed
+STU0460,Male,22,Information Technology,Tier 3,Mumbai,62.07,93.86,7.81,3,89.57,Yes,11,5,5,7,5,95,10,Yes,No,Data Science,1,14.74,Data Analyst
+STU0461,Female,21,Civil Engineering,Tier 1,Bangalore,69.75,91.09,5.9,0,67.03,Yes,3,4,3,3,5,41,5,Yes,Yes,Testing,1,11.46,QA Engineer
+STU0462,Male,20,Civil Engineering,Tier 1,Delhi,91.37,93.82,5.93,0,87.62,Yes,9,0,3,7,1,47,1,Yes,Yes,Data Science,1,11.06,Web Developer
+STU0463,Male,20,Computer Engineering,Tier 3,Pune,89.11,58.4,6.1,1,93.91,Yes,4,2,3,3,4,43,9,No,Yes,Software Development,0,0.0,Not Placed
+STU0464,Male,24,Mechanical Engineering,Tier 1,Hyderabad,90.46,71.61,5.51,0,68.61,No,0,1,2,5,4,98,7,Yes,No,Data Science,0,0.0,Not Placed
+STU0465,Male,20,Mechanical Engineering,Tier 2,Ahmedabad,79.63,59.73,9.47,2,94.03,Yes,2,3,4,6,10,51,7,Yes,No,Cloud Computing,1,13.86,Cloud Support Engineer
+STU0466,Male,22,Civil Engineering,Tier 3,Pune,92.32,87.43,8.56,0,60.08,Yes,12,5,1,6,3,64,8,No,Yes,Software Development,1,15.83,Web Developer
+STU0467,Female,21,Computer Engineering,Tier 2,Vadodara,62.27,70.4,6.87,0,86.35,No,0,4,6,6,3,91,4,No,No,Cloud Computing,1,12.23,Cloud Support Engineer
+STU0468,Male,23,Computer Engineering,Tier 3,Bangalore,76.08,86.06,8.99,0,63.32,No,0,0,1,1,6,75,8,Yes,Yes,Software Development,0,0.0,Not Placed
+STU0469,Female,21,Mechanical Engineering,Tier 2,Vadodara,88.41,77.06,9.5,0,68.01,Yes,0,5,1,2,3,64,1,No,No,Software Development,1,12.63,Web Developer
+STU0470,Male,23,Electrical Engineering,Tier 1,Surat,60.88,60.65,6.55,0,91.58,No,0,1,6,3,8,87,3,No,No,Testing,0,0.0,Not Placed
+STU0471,Female,20,Mechanical Engineering,Tier 1,Vadodara,57.4,80.7,8.1,0,66.09,No,0,3,5,8,9,85,5,No,Yes,Testing,1,13.4,QA Engineer
+STU0472,Male,24,Civil Engineering,Tier 1,Rajkot,71.02,57.24,7.19,1,97.09,Yes,11,3,3,6,7,92,7,Yes,Yes,Web Development,1,14.1,Data Analyst
+STU0473,Male,20,Computer Engineering,Tier 2,Chennai,86.15,68.42,6.53,0,64.05,Yes,9,0,6,5,4,75,4,Yes,Yes,Web Development,1,11.85,Web Developer
+STU0474,Male,24,Civil Engineering,Tier 1,Surat,67.58,92.74,5.54,0,70.73,No,0,4,1,6,7,86,6,Yes,Yes,Web Development,1,12.38,Web Developer
+STU0475,Male,24,Information Technology,Tier 1,Chennai,86.84,74.08,9.24,0,66.13,No,0,0,5,2,4,96,4,Yes,Yes,Cloud Computing,1,12.72,Cloud Support Engineer
+STU0476,Female,23,Information Technology,Tier 2,Mumbai,69.41,89.24,7.35,2,89.42,No,0,1,1,10,10,44,3,No,Yes,Software Development,1,12.09,Web Developer
+STU0477,Male,23,Computer Engineering,Tier 2,Pune,61.79,66.82,5.79,0,73.43,Yes,2,5,6,8,5,70,5,No,Yes,Software Development,0,0.0,Not Placed
+STU0478,Female,20,Mechanical Engineering,Tier 2,Bangalore,71.36,79.79,8.43,0,79.47,No,0,2,0,7,9,68,5,Yes,Yes,Networking,1,12.54,Network Engineer
+STU0479,Male,21,Computer Engineering,Tier 2,Bangalore,61.33,70.97,5.81,0,77.57,Yes,5,3,3,9,8,46,2,Yes,Yes,Testing,1,11.06,QA Engineer
+STU0480,Female,20,Mechanical Engineering,Tier 2,Chennai,74.45,83.09,7.55,0,61.45,Yes,7,1,5,4,6,76,1,No,Yes,Web Development,1,12.48,Web Developer
+STU0481,Male,20,Information Technology,Tier 1,Bangalore,65.79,80.43,5.86,0,75.39,No,0,5,3,7,9,53,5,Yes,Yes,Software Development,1,12.54,Web Developer
+STU0482,Female,21,Information Technology,Tier 2,Bangalore,74.27,76.42,8.87,2,76.6,No,0,0,4,10,4,44,10,Yes,No,Networking,0,0.0,Not Placed
+STU0483,Female,20,Information Technology,Tier 2,Vadodara,74.98,67.66,8.91,0,69.99,Yes,7,1,5,8,10,46,1,Yes,Yes,Testing,1,13.68,QA Engineer
+STU0484,Female,21,Mechanical Engineering,Tier 1,Rajkot,93.87,78.07,5.56,1,60.62,No,0,4,6,2,8,81,8,No,No,Web Development,1,12.28,Data Analyst
+STU0485,Female,20,Information Technology,Tier 2,Bangalore,69.92,77.11,6.2,0,70.83,No,0,5,2,10,2,45,2,Yes,Yes,Cloud Computing,0,0.0,Not Placed
+STU0486,Male,23,Electronics Engineering,Tier 3,Hyderabad,58.99,72.76,8.0,0,71.02,No,0,1,1,8,9,64,2,Yes,No,Software Development,1,11.1,Web Developer
+STU0487,Female,23,Electronics Engineering,Tier 3,Bangalore,55.3,69.99,6.46,0,93.43,No,0,2,6,7,4,40,7,Yes,Yes,Software Development,1,11.03,Web Developer
+STU0488,Female,22,Information Technology,Tier 3,Bangalore,64.67,93.94,6.33,0,91.48,No,0,1,5,7,3,65,6,Yes,No,Data Science,1,11.13,Web Developer
+STU0489,Male,24,Civil Engineering,Tier 3,Mumbai,88.49,61.36,6.89,0,60.97,Yes,10,4,1,1,10,85,9,Yes,No,Software Development,1,11.74,Data Analyst
+STU0490,Female,22,Information Technology,Tier 1,Rajkot,66.88,76.42,6.55,1,89.87,No,0,5,0,5,2,99,3,Yes,Yes,Software Development,1,12.2,Web Developer
+STU0491,Male,21,Mechanical Engineering,Tier 2,Vadodara,58.71,74.77,7.05,1,74.85,No,0,0,3,2,8,80,2,Yes,No,Testing,0,0.0,Not Placed
+STU0492,Female,21,Information Technology,Tier 2,Surat,91.15,81.39,8.21,1,64.45,No,0,2,3,10,10,74,1,Yes,No,Software Development,1,11.16,Web Developer
+STU0493,Male,24,Electrical Engineering,Tier 1,Rajkot,89.67,59.59,6.43,0,68.35,Yes,4,2,3,4,2,62,9,No,No,Networking,1,12.73,Network Engineer
+STU0494,Female,21,Mechanical Engineering,Tier 1,Rajkot,82.48,90.49,6.71,0,82.18,No,0,1,6,4,8,67,8,No,No,Web Development,1,12.47,Web Developer
+STU0495,Female,21,Electrical Engineering,Tier 2,Pune,90.92,87.77,7.43,2,96.41,No,0,4,3,5,10,92,9,No,No,Software Development,1,13.61,Data Analyst
+STU0496,Female,21,Mechanical Engineering,Tier 1,Ahmedabad,63.61,69.87,6.12,0,60.37,Yes,11,2,1,8,10,90,6,Yes,Yes,Testing,1,13.01,QA Engineer
+STU0497,Male,20,Electrical Engineering,Tier 2,Chennai,92.85,87.3,8.39,0,84.56,No,0,2,6,6,4,52,1,No,No,Software Development,0,0.0,Not Placed
+STU0498,Female,20,Computer Engineering,Tier 2,Vadodara,79.06,78.65,6.52,0,60.68,Yes,7,2,1,7,1,97,9,Yes,No,Networking,1,12.81,Data Analyst
+STU0499,Female,22,Mechanical Engineering,Tier 2,Pune,71.01,77.26,6.85,0,74.95,No,0,3,6,2,6,100,10,Yes,Yes,Data Science,1,11.3,Data Analyst
+STU0500,Male,22,Electronics Engineering,Tier 3,Bangalore,64.05,58.52,8.61,1,91.01,Yes,11,0,2,1,2,43,5,Yes,No,Web Development,1,12.25,Web Developer
+STU0501,Female,22,Electronics Engineering,Tier 1,Vadodara,78.34,59.8,6.87,0,82.2,No,0,5,3,2,9,73,4,No,No,Web Development,1,12.7,Web Developer
+STU0502,Male,20,Mechanical Engineering,Tier 2,Ahmedabad,69.12,88.42,6.54,0,92.52,Yes,1,3,0,4,1,82,4,No,No,Data Science,1,10.35,Web Developer
+STU0503,Female,22,Electronics Engineering,Tier 2,Vadodara,88.91,59.23,6.06,2,74.65,No,0,4,4,4,7,52,2,No,No,Data Science,0,0.0,Not Placed
+STU0504,Male,21,Civil Engineering,Tier 1,Ahmedabad,64.62,90.76,6.3,0,85.15,No,0,2,2,2,9,45,6,No,Yes,Data Science,1,10.96,Web Developer
+STU0505,Female,20,Civil Engineering,Tier 2,Pune,58.91,80.94,8.65,0,71.17,No,0,1,4,5,9,78,8,No,Yes,Networking,1,12.15,Network Engineer
+STU0506,Male,21,Computer Engineering,Tier 1,Surat,78.01,64.55,7.79,0,93.54,No,0,3,3,2,4,86,5,No,Yes,Data Science,1,12.03,Web Developer
+STU0507,Female,24,Mechanical Engineering,Tier 3,Surat,58.77,75.13,8.51,0,71.6,Yes,2,2,5,2,3,51,6,No,Yes,Software Development,1,11.55,Web Developer
+STU0508,Male,21,Mechanical Engineering,Tier 1,Vadodara,82.17,89.12,8.05,2,82.16,No,0,1,3,2,1,92,1,No,Yes,Cloud Computing,0,0.0,Not Placed
+STU0509,Male,20,Computer Engineering,Tier 2,Pune,73.1,84.39,9.76,0,78.49,No,0,3,0,6,5,85,6,No,Yes,Web Development,1,13.83,Web Developer
+STU0510,Male,21,Civil Engineering,Tier 1,Vadodara,69.29,56.24,7.98,0,76.37,Yes,11,0,1,7,2,57,9,No,Yes,Web Development,1,14.21,Web Developer
+STU0511,Female,23,Electrical Engineering,Tier 2,Mumbai,67.37,56.64,7.74,0,83.27,No,0,3,4,6,5,47,1,No,Yes,Testing,1,11.59,QA Engineer
+STU0512,Female,24,Electrical Engineering,Tier 3,Vadodara,67.15,66.53,8.94,0,61.56,No,0,4,0,1,8,59,1,No,No,Networking,0,0.0,Not Placed
+STU0513,Male,22,Information Technology,Tier 2,Mumbai,86.41,75.08,9.62,0,96.24,No,0,1,5,4,7,77,2,No,Yes,Software Development,1,11.73,Web Developer
+STU0514,Female,23,Civil Engineering,Tier 1,Mumbai,91.81,78.88,6.25,0,93.29,Yes,10,1,2,3,7,75,4,No,No,Software Development,1,12.85,Web Developer
+STU0515,Female,24,Information Technology,Tier 2,Bangalore,58.84,76.06,8.48,0,86.04,No,0,3,2,7,8,66,7,No,Yes,Cloud Computing,1,13.7,Cloud Support Engineer
+STU0516,Male,21,Electrical Engineering,Tier 2,Rajkot,78.21,69.92,8.17,2,93.36,Yes,12,3,1,7,1,69,9,No,Yes,Software Development,1,15.7,Web Developer
+STU0517,Male,22,Electrical Engineering,Tier 1,Mumbai,77.62,82.62,9.22,0,82.22,Yes,11,1,4,3,9,87,8,Yes,Yes,Networking,1,14.42,Data Analyst
+STU0518,Female,20,Civil Engineering,Tier 3,Rajkot,59.59,55.0,8.1,0,63.68,Yes,1,3,0,9,8,65,1,Yes,No,Testing,1,10.65,QA Engineer
+STU0519,Male,24,Mechanical Engineering,Tier 3,Delhi,89.37,79.69,7.36,0,67.02,Yes,2,4,5,9,4,70,8,No,No,Networking,1,13.48,Software Developer
+STU0520,Female,22,Civil Engineering,Tier 2,Ahmedabad,73.56,87.54,6.14,0,64.56,No,0,0,4,5,1,81,10,No,Yes,Web Development,0,0.0,Not Placed
+STU0521,Female,23,Mechanical Engineering,Tier 1,Vadodara,69.31,89.23,7.66,0,86.84,No,0,4,0,3,3,62,10,No,No,Networking,1,12.7,Network Engineer
+STU0522,Female,23,Computer Engineering,Tier 3,Delhi,70.06,73.87,8.33,0,95.24,No,0,1,5,6,10,77,6,No,Yes,Software Development,1,12.11,Web Developer
+STU0523,Male,20,Electronics Engineering,Tier 1,Delhi,92.37,74.06,8.77,3,90.73,Yes,1,1,5,7,7,99,2,Yes,No,Software Development,1,13.46,Web Developer
+STU0524,Female,22,Electrical Engineering,Tier 3,Surat,91.94,67.85,8.5,0,97.58,Yes,3,2,3,8,5,54,4,Yes,No,Cloud Computing,1,11.66,Cloud Support Engineer
+STU0525,Male,20,Information Technology,Tier 1,Vadodara,90.73,69.38,7.25,0,62.73,Yes,10,5,5,9,8,52,4,No,No,Web Development,1,15.6,Web Developer
+STU0526,Male,20,Civil Engineering,Tier 2,Bangalore,89.96,77.77,6.05,0,63.83,No,0,1,0,10,9,61,1,Yes,No,Web Development,1,9.7,Web Developer
+STU0527,Male,22,Computer Engineering,Tier 3,Chennai,64.66,75.71,8.13,0,83.51,Yes,9,3,2,1,1,61,7,No,Yes,Web Development,1,11.62,Web Developer
+STU0528,Male,24,Electronics Engineering,Tier 2,Surat,64.42,57.92,9.58,2,86.72,Yes,5,0,3,10,10,99,2,No,Yes,Web Development,1,12.45,Web Developer
+STU0529,Female,24,Information Technology,Tier 3,Pune,72.26,67.14,9.15,3,60.81,Yes,0,1,4,10,7,83,1,No,Yes,Testing,1,12.17,QA Engineer
+STU0530,Female,23,Electrical Engineering,Tier 1,Ahmedabad,72.52,90.89,9.72,0,67.36,No,0,0,1,4,2,77,1,Yes,No,Networking,1,12.47,Network Engineer
+STU0531,Male,20,Electronics Engineering,Tier 1,Surat,58.06,60.07,6.28,0,73.29,Yes,4,1,4,7,8,82,2,Yes,Yes,Web Development,0,0.0,Not Placed
+STU0532,Male,23,Electronics Engineering,Tier 3,Pune,90.91,89.35,7.41,0,73.94,No,0,5,1,9,5,60,9,Yes,Yes,Web Development,1,13.52,Software Developer
+STU0533,Female,22,Computer Engineering,Tier 1,Vadodara,88.66,75.84,6.81,0,64.66,Yes,0,1,5,8,8,100,2,Yes,No,Software Development,1,11.89,Web Developer
+STU0534,Female,20,Computer Engineering,Tier 2,Chennai,70.36,55.75,7.15,0,68.53,No,0,1,5,7,9,43,5,Yes,No,Software Development,0,0.0,Not Placed
+STU0535,Female,22,Electrical Engineering,Tier 1,Surat,68.64,88.17,7.37,0,87.71,Yes,12,0,4,7,5,94,9,No,No,Cloud Computing,1,15.17,Data Analyst
+STU0536,Female,21,Civil Engineering,Tier 2,Rajkot,60.27,55.61,8.94,2,63.25,Yes,12,4,2,6,10,65,1,No,No,Web Development,1,14.8,Web Developer
+STU0537,Male,20,Mechanical Engineering,Tier 3,Pune,88.44,88.9,7.41,0,60.34,Yes,5,3,5,9,4,66,1,Yes,No,Cloud Computing,1,12.94,Cloud Support Engineer
+STU0538,Female,21,Mechanical Engineering,Tier 2,Mumbai,89.76,60.09,8.21,0,83.48,Yes,3,0,5,1,3,83,9,No,No,Software Development,1,11.52,Data Analyst
+STU0539,Female,22,Computer Engineering,Tier 3,Pune,76.62,56.79,6.51,0,79.26,Yes,8,0,1,4,6,76,6,No,Yes,Networking,1,10.04,Network Engineer
+STU0540,Male,22,Electrical Engineering,Tier 2,Pune,94.0,90.9,7.11,2,71.17,Yes,2,2,0,5,3,98,10,Yes,Yes,Cloud Computing,1,11.85,Data Analyst
+STU0541,Female,21,Civil Engineering,Tier 3,Surat,81.28,61.0,8.78,0,96.3,Yes,9,4,4,9,7,74,2,Yes,No,Networking,1,13.84,Network Engineer
+STU0542,Female,21,Electrical Engineering,Tier 2,Rajkot,68.15,86.96,9.7,0,71.96,Yes,11,1,3,7,6,45,6,Yes,No,Networking,1,14.29,Network Engineer
+STU0543,Female,21,Electrical Engineering,Tier 1,Hyderabad,64.8,91.37,8.4,0,83.01,No,0,2,2,2,2,66,7,Yes,No,Networking,1,12.06,Network Engineer
+STU0544,Male,23,Computer Engineering,Tier 1,Ahmedabad,71.75,85.62,8.56,0,63.84,Yes,6,0,5,3,2,48,9,No,No,Web Development,1,14.3,Web Developer
+STU0545,Male,22,Computer Engineering,Tier 2,Pune,78.66,79.67,9.77,0,88.07,No,0,3,3,8,7,58,8,Yes,Yes,Networking,1,15.33,Software Developer
+STU0546,Male,21,Computer Engineering,Tier 3,Chennai,69.79,80.98,7.13,0,79.33,No,0,0,1,5,8,61,1,No,No,Web Development,0,0.0,Not Placed
+STU0547,Male,21,Computer Engineering,Tier 3,Rajkot,72.22,66.13,9.28,0,73.2,Yes,1,2,2,8,8,54,3,No,No,Cloud Computing,1,13.01,Cloud Support Engineer
+STU0548,Female,21,Computer Engineering,Tier 1,Hyderabad,88.55,85.19,5.62,2,96.47,Yes,0,3,6,1,6,53,5,No,No,Cloud Computing,1,11.01,Cloud Support Engineer
+STU0549,Male,20,Civil Engineering,Tier 2,Delhi,65.52,89.58,9.77,1,64.43,No,0,0,5,4,2,60,3,No,No,Testing,1,12.0,QA Engineer
+STU0550,Male,22,Computer Engineering,Tier 2,Ahmedabad,92.29,86.77,6.87,1,85.12,Yes,10,5,0,4,3,77,7,Yes,Yes,Web Development,1,13.5,Web Developer
+STU0551,Male,23,Mechanical Engineering,Tier 1,Rajkot,80.39,58.55,7.72,1,68.14,No,0,0,3,9,10,53,3,Yes,No,Networking,1,11.86,Network Engineer
+STU0552,Male,22,Civil Engineering,Tier 3,Vadodara,90.12,88.63,9.26,0,78.63,No,0,4,2,9,8,58,2,Yes,Yes,Web Development,1,12.57,Web Developer
+STU0553,Male,23,Computer Engineering,Tier 1,Delhi,93.25,81.42,6.99,0,64.87,No,0,3,4,7,4,41,5,No,Yes,Testing,1,13.38,QA Engineer
+STU0554,Female,22,Civil Engineering,Tier 2,Delhi,72.01,65.43,5.73,0,68.32,Yes,4,3,3,4,10,96,3,Yes,Yes,Cloud Computing,1,10.01,Cloud Support Engineer
+STU0555,Male,20,Civil Engineering,Tier 1,Pune,91.49,85.67,7.88,0,79.71,No,0,4,1,3,9,65,4,No,Yes,Web Development,1,11.91,Web Developer
+STU0556,Male,20,Computer Engineering,Tier 1,Hyderabad,59.1,70.92,7.59,0,71.46,Yes,10,5,1,1,5,87,2,No,No,Data Science,1,14.14,Web Developer
+STU0557,Male,20,Computer Engineering,Tier 3,Bangalore,55.81,84.71,7.83,2,63.63,No,0,1,6,10,5,90,6,No,Yes,Web Development,1,11.56,Web Developer
+STU0558,Female,24,Civil Engineering,Tier 2,Mumbai,72.18,63.89,7.25,0,70.81,Yes,6,0,3,7,6,88,9,Yes,No,Data Science,1,11.78,Data Analyst
+STU0559,Male,23,Mechanical Engineering,Tier 2,Chennai,59.36,67.42,6.12,0,63.18,Yes,3,3,4,4,2,49,7,No,Yes,Software Development,0,0.0,Not Placed
+STU0560,Female,23,Mechanical Engineering,Tier 3,Pune,88.37,56.46,8.46,0,93.11,No,0,5,1,9,8,74,8,No,Yes,Web Development,1,13.55,Software Developer
+STU0561,Male,20,Civil Engineering,Tier 3,Ahmedabad,70.03,85.28,6.2,1,66.32,No,0,0,0,7,8,50,9,No,Yes,Networking,0,0.0,Not Placed
+STU0562,Female,23,Computer Engineering,Tier 2,Ahmedabad,72.42,66.77,9.46,0,79.85,No,0,4,5,3,3,58,9,Yes,No,Cloud Computing,1,14.13,Cloud Support Engineer
+STU0563,Male,22,Electronics Engineering,Tier 3,Vadodara,61.57,83.6,7.54,0,66.81,No,0,0,0,5,4,52,2,No,No,Software Development,1,9.14,Web Developer
+STU0564,Male,20,Mechanical Engineering,Tier 3,Hyderabad,90.33,68.8,5.56,0,70.8,No,0,4,5,5,6,79,7,No,Yes,Software Development,1,10.12,Web Developer
+STU0565,Male,22,Information Technology,Tier 2,Chennai,59.09,86.88,8.03,1,72.55,No,0,5,6,10,8,53,3,Yes,Yes,Data Science,1,14.4,Web Developer
+STU0566,Male,21,Information Technology,Tier 2,Surat,67.93,90.84,5.72,0,76.71,No,0,2,2,9,2,55,9,No,No,Testing,0,0.0,Not Placed
+STU0567,Female,22,Electrical Engineering,Tier 2,Hyderabad,58.13,79.22,6.42,0,84.08,No,0,5,1,7,9,68,8,No,Yes,Cloud Computing,1,12.91,Cloud Support Engineer
+STU0568,Male,20,Mechanical Engineering,Tier 2,Pune,84.14,63.55,7.91,3,95.7,No,0,2,1,1,4,68,6,Yes,Yes,Cloud Computing,1,10.23,Cloud Support Engineer
+STU0569,Female,22,Electrical Engineering,Tier 1,Chennai,65.92,80.89,8.26,0,97.84,No,0,2,5,1,10,92,1,No,No,Testing,1,12.05,QA Engineer
+STU0570,Male,20,Mechanical Engineering,Tier 1,Chennai,90.77,61.13,8.67,1,65.0,No,0,0,0,8,1,60,2,No,Yes,Networking,0,0.0,Not Placed
+STU0571,Male,22,Electronics Engineering,Tier 2,Vadodara,91.23,78.47,9.56,0,95.74,No,0,3,6,1,2,52,9,Yes,No,Software Development,1,12.75,Web Developer
+STU0572,Male,24,Civil Engineering,Tier 1,Surat,67.45,77.42,6.01,0,91.77,Yes,9,3,0,2,2,51,2,Yes,No,Cloud Computing,1,10.61,Cloud Support Engineer
+STU0573,Male,20,Information Technology,Tier 3,Pune,73.41,90.09,9.56,0,85.87,Yes,11,5,1,5,1,64,5,Yes,No,Data Science,1,14.46,Web Developer
+STU0574,Male,22,Information Technology,Tier 1,Mumbai,65.37,72.58,5.9,0,73.82,No,0,5,5,3,1,100,10,No,Yes,Cloud Computing,1,14.21,Data Analyst
+STU0575,Female,22,Electronics Engineering,Tier 3,Mumbai,63.3,82.99,7.67,1,90.18,Yes,8,1,2,4,8,56,1,Yes,Yes,Testing,1,10.87,QA Engineer
+STU0576,Female,24,Civil Engineering,Tier 3,Chennai,91.05,67.89,5.95,0,94.24,Yes,6,3,2,6,2,51,6,No,Yes,Testing,1,11.84,QA Engineer
+STU0577,Female,24,Civil Engineering,Tier 3,Chennai,82.78,84.24,7.54,0,87.49,No,0,3,5,7,5,42,4,Yes,No,Testing,1,12.52,QA Engineer
+STU0578,Female,24,Computer Engineering,Tier 1,Hyderabad,61.66,67.02,8.07,0,79.92,Yes,2,5,2,1,2,59,3,No,No,Testing,1,11.82,QA Engineer
+STU0579,Male,21,Information Technology,Tier 2,Mumbai,58.22,64.45,6.37,0,69.3,No,0,0,3,3,6,46,8,No,Yes,Testing,0,0.0,Not Placed
+STU0580,Female,21,Computer Engineering,Tier 2,Vadodara,67.73,92.41,7.22,0,70.76,No,0,4,3,9,2,62,8,Yes,Yes,Cloud Computing,1,12.84,Software Developer
+STU0581,Female,22,Electrical Engineering,Tier 1,Chennai,78.97,70.93,5.83,0,79.0,Yes,3,2,3,2,6,64,3,No,Yes,Web Development,1,11.11,Web Developer
+STU0582,Female,20,Mechanical Engineering,Tier 2,Vadodara,61.54,82.29,9.09,0,63.14,Yes,10,3,6,1,3,60,3,No,No,Software Development,1,14.58,Web Developer
+STU0583,Female,23,Computer Engineering,Tier 2,Bangalore,65.35,80.36,8.1,1,77.11,No,0,3,5,6,9,63,2,Yes,No,Cloud Computing,1,12.84,Cloud Support Engineer
+STU0584,Male,21,Computer Engineering,Tier 2,Chennai,65.31,75.6,8.14,1,76.53,No,0,2,0,2,8,69,6,Yes,No,Web Development,1,11.6,Web Developer
+STU0585,Male,24,Mechanical Engineering,Tier 1,Mumbai,69.28,55.7,6.9,0,82.64,No,0,5,0,9,7,55,3,Yes,Yes,Data Science,1,13.22,Web Developer
+STU0586,Female,22,Mechanical Engineering,Tier 2,Chennai,64.76,88.02,9.09,1,79.9,No,0,0,0,6,6,42,3,Yes,No,Cloud Computing,0,0.0,Not Placed
+STU0587,Male,22,Electronics Engineering,Tier 3,Mumbai,71.9,55.9,9.59,0,84.81,Yes,6,0,6,4,10,56,5,Yes,Yes,Web Development,1,12.0,Web Developer
+STU0588,Female,22,Electronics Engineering,Tier 3,Vadodara,66.07,81.86,8.1,2,85.77,No,0,0,3,4,1,90,7,Yes,No,Web Development,1,11.33,Data Analyst
+STU0589,Female,20,Information Technology,Tier 1,Surat,83.36,63.84,8.13,1,83.15,No,0,4,3,10,6,74,7,No,Yes,Web Development,1,14.44,Web Developer
+STU0590,Female,21,Civil Engineering,Tier 3,Delhi,63.43,82.91,8.39,0,61.23,Yes,10,3,4,6,2,53,9,No,No,Web Development,1,14.27,Web Developer
+STU0591,Female,20,Information Technology,Tier 3,Chennai,61.67,69.07,7.36,3,60.89,No,0,4,5,8,4,64,9,Yes,No,Cloud Computing,0,0.0,Not Placed
+STU0592,Male,20,Civil Engineering,Tier 1,Rajkot,94.69,77.83,6.27,0,89.55,No,0,4,3,6,4,66,10,No,No,Web Development,1,13.74,Web Developer
+STU0593,Female,24,Electrical Engineering,Tier 3,Bangalore,64.0,71.16,8.75,0,95.13,Yes,2,3,2,1,9,93,6,No,Yes,Networking,1,11.42,Network Engineer
+STU0594,Female,23,Civil Engineering,Tier 1,Surat,79.76,60.54,8.17,3,82.78,No,0,0,2,10,4,50,10,No,Yes,Web Development,1,14.05,Software Developer
+STU0595,Female,24,Electrical Engineering,Tier 1,Vadodara,73.31,83.92,6.53,0,87.09,Yes,5,1,2,2,1,53,10,No,No,Data Science,1,12.33,Web Developer
+STU0596,Male,21,Civil Engineering,Tier 3,Ahmedabad,87.15,88.52,9.25,2,69.3,Yes,0,5,0,7,9,70,7,Yes,No,Web Development,1,13.5,Web Developer
+STU0597,Male,23,Civil Engineering,Tier 3,Surat,66.72,70.94,9.04,1,73.81,No,0,3,6,2,2,49,5,Yes,Yes,Web Development,1,11.69,Web Developer
+STU0598,Male,23,Information Technology,Tier 2,Ahmedabad,68.2,82.75,7.47,1,88.6,No,0,2,2,8,6,90,8,No,No,Cloud Computing,1,11.82,Software Developer
+STU0599,Female,20,Information Technology,Tier 2,Chennai,69.51,66.65,9.56,0,84.09,No,0,5,3,5,3,87,3,Yes,No,Testing,1,12.98,QA Engineer
+STU0600,Male,24,Mechanical Engineering,Tier 1,Chennai,55.48,69.57,7.69,1,79.64,No,0,4,1,6,3,77,9,No,No,Testing,0,0.0,Not Placed
+STU0601,Female,21,Electrical Engineering,Tier 2,Vadodara,74.36,70.19,8.38,0,68.54,Yes,3,1,2,10,2,81,4,No,No,Testing,1,13.06,QA Engineer
+STU0602,Male,24,Information Technology,Tier 3,Rajkot,69.54,56.31,8.19,2,79.28,No,0,4,4,9,2,91,1,No,Yes,Data Science,1,12.5,Web Developer
+STU0603,Male,21,Electronics Engineering,Tier 3,Delhi,62.1,94.18,6.64,0,88.24,Yes,2,4,2,1,4,54,4,No,No,Software Development,1,10.8,Web Developer
+STU0604,Female,20,Information Technology,Tier 2,Ahmedabad,72.68,74.04,5.93,0,82.74,No,0,4,0,10,7,95,2,No,Yes,Cloud Computing,0,0.0,Not Placed
+STU0605,Female,20,Mechanical Engineering,Tier 2,Chennai,65.83,80.25,6.91,0,70.78,No,0,2,6,9,4,61,5,No,No,Software Development,0,0.0,Not Placed
+STU0606,Male,23,Computer Engineering,Tier 2,Hyderabad,73.82,61.53,5.78,0,71.58,No,0,2,5,9,3,52,2,Yes,Yes,Web Development,0,0.0,Not Placed
+STU0607,Female,24,Civil Engineering,Tier 1,Mumbai,92.1,63.41,8.39,0,67.29,No,0,1,6,3,10,82,3,No,No,Networking,1,12.0,Network Engineer
+STU0608,Female,21,Mechanical Engineering,Tier 2,Mumbai,69.83,67.25,8.62,1,71.98,No,0,3,4,7,7,40,7,Yes,No,Web Development,1,12.77,Web Developer
+STU0609,Female,22,Computer Engineering,Tier 3,Rajkot,63.34,83.67,6.77,0,72.23,No,0,2,4,9,4,91,4,No,No,Software Development,1,10.32,Web Developer
+STU0610,Female,24,Civil Engineering,Tier 1,Bangalore,82.51,91.36,7.59,0,83.05,No,0,0,0,1,6,57,9,No,No,Web Development,1,10.68,Web Developer
+STU0611,Male,22,Electronics Engineering,Tier 2,Vadodara,89.96,78.59,7.97,0,76.65,No,0,4,4,5,9,73,5,Yes,Yes,Software Development,1,13.06,Web Developer
+STU0612,Female,22,Civil Engineering,Tier 3,Rajkot,62.37,73.73,7.48,0,85.75,No,0,2,4,1,3,47,7,No,No,Testing,0,0.0,Not Placed
+STU0613,Male,24,Mechanical Engineering,Tier 1,Chennai,72.49,56.28,7.67,1,90.03,No,0,2,4,6,2,87,2,Yes,Yes,Cloud Computing,1,12.17,Cloud Support Engineer
+STU0614,Male,24,Civil Engineering,Tier 3,Rajkot,85.08,85.68,7.35,0,77.15,Yes,10,2,0,3,10,61,8,No,Yes,Testing,1,11.13,QA Engineer
+STU0615,Female,20,Computer Engineering,Tier 1,Pune,72.09,65.35,6.46,0,72.41,No,0,5,5,4,10,99,6,Yes,Yes,Data Science,1,12.33,Web Developer
+STU0616,Male,24,Electrical Engineering,Tier 1,Vadodara,76.6,93.19,6.91,0,68.74,Yes,3,2,1,7,5,54,4,No,Yes,Data Science,1,13.21,Web Developer
+STU0617,Male,23,Computer Engineering,Tier 2,Rajkot,70.22,72.87,7.22,0,74.46,Yes,1,1,4,10,9,47,3,Yes,Yes,Testing,1,11.49,QA Engineer
+STU0618,Female,23,Information Technology,Tier 1,Ahmedabad,86.99,69.39,6.6,0,77.36,Yes,6,3,3,2,6,63,5,Yes,No,Networking,1,13.46,Network Engineer
+STU0619,Male,23,Civil Engineering,Tier 1,Mumbai,84.19,90.89,5.7,1,66.74,Yes,2,4,1,3,8,88,1,Yes,Yes,Networking,1,10.51,Network Engineer
+STU0620,Female,21,Civil Engineering,Tier 1,Vadodara,92.45,93.61,8.69,1,66.9,Yes,12,1,0,8,4,59,7,No,No,Cloud Computing,1,15.71,Cloud Support Engineer
+STU0621,Female,20,Civil Engineering,Tier 1,Vadodara,91.54,56.86,7.12,0,79.96,Yes,1,0,2,4,2,66,2,Yes,No,Testing,0,0.0,Not Placed
+STU0622,Female,21,Electrical Engineering,Tier 3,Surat,67.46,73.78,9.38,0,84.94,No,0,4,5,2,8,71,10,Yes,Yes,Data Science,1,14.07,Web Developer
+STU0623,Male,21,Electronics Engineering,Tier 1,Ahmedabad,83.69,66.29,8.14,0,69.53,No,0,2,5,8,10,73,9,No,Yes,Web Development,1,14.65,Software Developer
+STU0624,Male,23,Electronics Engineering,Tier 1,Rajkot,94.18,55.57,8.23,1,69.04,No,0,2,0,10,8,70,6,Yes,No,Testing,0,0.0,Not Placed
+STU0625,Female,24,Mechanical Engineering,Tier 3,Delhi,59.71,66.17,8.8,2,72.82,Yes,4,2,6,8,9,69,2,No,No,Software Development,1,12.43,Web Developer
+STU0626,Male,24,Information Technology,Tier 1,Rajkot,94.0,88.2,6.02,1,64.8,No,0,2,3,7,9,100,2,Yes,No,Cloud Computing,1,11.81,Cloud Support Engineer
+STU0627,Male,20,Information Technology,Tier 3,Pune,76.02,86.2,7.92,0,61.79,No,0,4,1,9,3,63,3,Yes,Yes,Networking,1,12.12,Network Engineer
+STU0628,Male,24,Electrical Engineering,Tier 2,Rajkot,66.14,93.36,9.58,0,94.24,No,0,3,3,6,3,86,5,Yes,Yes,Web Development,1,13.75,Web Developer
+STU0629,Male,24,Electrical Engineering,Tier 1,Surat,85.21,60.61,7.57,0,96.94,Yes,6,1,5,7,7,77,4,Yes,No,Software Development,1,14.23,Web Developer
+STU0630,Male,23,Computer Engineering,Tier 3,Chennai,92.77,61.07,7.41,0,88.9,Yes,10,0,4,5,9,46,10,No,Yes,Networking,1,13.34,Network Engineer
+STU0631,Female,21,Computer Engineering,Tier 3,Pune,90.01,92.98,5.68,1,69.71,No,0,3,4,3,8,88,5,Yes,Yes,Software Development,0,0.0,Not Placed
+STU0632,Female,21,Electronics Engineering,Tier 2,Bangalore,71.87,80.52,9.22,0,87.51,No,0,2,5,9,6,66,5,No,Yes,Software Development,1,14.22,Web Developer
+STU0633,Male,24,Civil Engineering,Tier 1,Chennai,72.35,65.63,9.79,1,78.54,No,0,4,4,7,1,78,2,Yes,Yes,Software Development,1,13.88,Web Developer
+STU0634,Female,23,Electronics Engineering,Tier 3,Surat,68.89,86.53,9.16,0,79.87,No,0,5,5,7,1,53,10,Yes,Yes,Networking,1,13.76,Network Engineer
+STU0635,Female,20,Electronics Engineering,Tier 2,Mumbai,69.34,82.32,7.02,2,70.51,Yes,5,3,5,5,3,53,9,No,No,Web Development,1,12.71,Web Developer
+STU0636,Female,20,Mechanical Engineering,Tier 2,Chennai,76.53,87.21,9.65,0,71.62,Yes,10,3,2,10,8,80,3,No,Yes,Web Development,1,15.13,Web Developer
+STU0637,Female,23,Mechanical Engineering,Tier 1,Vadodara,67.91,59.46,8.0,2,86.61,No,0,4,4,3,7,79,2,Yes,Yes,Software Development,1,13.35,Web Developer
+STU0638,Female,22,Information Technology,Tier 3,Pune,76.31,70.87,9.46,0,96.33,No,0,4,4,2,6,54,8,Yes,Yes,Cloud Computing,1,13.97,Cloud Support Engineer
+STU0639,Male,23,Information Technology,Tier 3,Rajkot,64.81,64.03,8.29,0,60.47,Yes,0,4,3,8,7,75,9,Yes,No,Data Science,1,13.55,Software Developer
+STU0640,Female,22,Electronics Engineering,Tier 2,Mumbai,72.25,69.58,9.48,0,80.53,Yes,11,1,2,4,9,77,3,Yes,No,Cloud Computing,1,14.04,Cloud Support Engineer
+STU0641,Male,22,Electronics Engineering,Tier 3,Hyderabad,87.84,63.96,6.66,1,77.49,No,0,3,4,7,2,50,1,No,Yes,Web Development,0,0.0,Not Placed
+STU0642,Male,20,Electronics Engineering,Tier 2,Ahmedabad,93.19,66.04,6.58,2,61.05,No,0,3,5,3,7,53,8,No,No,Web Development,1,12.36,Web Developer
+STU0643,Female,21,Electrical Engineering,Tier 3,Chennai,67.58,55.27,8.12,1,73.62,Yes,12,0,4,2,9,66,3,Yes,Yes,Cloud Computing,1,12.5,Cloud Support Engineer
+STU0644,Male,20,Electronics Engineering,Tier 2,Ahmedabad,68.27,58.77,7.24,1,86.04,No,0,3,5,8,3,94,6,Yes,Yes,Web Development,1,13.11,Web Developer
+STU0645,Female,23,Computer Engineering,Tier 1,Mumbai,71.06,64.07,9.74,0,72.91,Yes,8,2,0,10,1,75,1,No,Yes,Data Science,1,15.7,Web Developer
+STU0646,Male,20,Mechanical Engineering,Tier 2,Mumbai,56.11,91.21,7.92,1,96.32,Yes,10,4,3,3,9,53,6,Yes,Yes,Cloud Computing,1,13.2,Cloud Support Engineer
+STU0647,Female,21,Electrical Engineering,Tier 1,Delhi,56.21,56.55,7.81,2,95.75,No,0,2,0,6,3,77,9,Yes,Yes,Testing,1,12.47,QA Engineer
+STU0648,Female,23,Electronics Engineering,Tier 3,Bangalore,86.36,92.76,8.38,0,69.36,Yes,3,3,1,7,1,62,1,No,Yes,Cloud Computing,1,11.84,Cloud Support Engineer
+STU0649,Female,24,Electronics Engineering,Tier 1,Mumbai,67.81,72.92,6.35,2,76.2,No,0,3,0,8,1,71,2,No,No,Cloud Computing,0,0.0,Not Placed
+STU0650,Female,22,Electronics Engineering,Tier 3,Surat,76.1,56.67,9.57,0,82.32,Yes,10,2,5,1,9,41,1,No,No,Data Science,1,12.48,Web Developer
+STU0651,Female,24,Electrical Engineering,Tier 1,Hyderabad,69.83,82.97,9.42,0,96.1,Yes,11,2,0,4,8,53,10,Yes,Yes,Testing,1,16.07,QA Engineer
+STU0652,Female,20,Information Technology,Tier 3,Pune,94.38,94.48,9.05,0,91.84,Yes,2,1,4,4,10,82,5,No,No,Data Science,1,12.04,Web Developer
+STU0653,Female,23,Electronics Engineering,Tier 1,Bangalore,87.94,70.09,9.12,0,89.61,No,0,4,0,7,1,84,8,Yes,Yes,Software Development,1,13.92,Data Analyst
+STU0654,Female,20,Information Technology,Tier 3,Pune,61.69,84.6,9.61,1,86.41,No,0,4,2,5,10,56,2,Yes,No,Data Science,1,12.3,Web Developer
+STU0655,Female,21,Information Technology,Tier 3,Surat,73.76,59.37,6.48,1,67.01,Yes,3,3,4,6,8,87,3,No,Yes,Networking,0,0.0,Not Placed
+STU0656,Male,21,Electronics Engineering,Tier 2,Surat,77.75,92.94,6.97,2,95.03,No,0,3,1,1,7,64,3,No,Yes,Data Science,1,9.57,Web Developer
+STU0657,Female,20,Civil Engineering,Tier 1,Rajkot,79.07,66.51,6.19,0,72.07,Yes,10,0,3,9,9,41,10,Yes,No,Web Development,1,14.81,Software Developer
+STU0658,Male,20,Civil Engineering,Tier 1,Chennai,57.34,70.5,7.94,1,88.96,Yes,9,4,0,1,8,99,10,No,No,Networking,1,14.49,Data Analyst
+STU0659,Male,23,Electrical Engineering,Tier 2,Pune,94.21,80.47,7.56,2,77.26,No,0,1,1,5,3,64,5,Yes,No,Networking,1,11.59,Network Engineer
+STU0660,Male,20,Civil Engineering,Tier 2,Hyderabad,89.07,94.5,6.04,0,67.91,No,0,3,3,8,8,68,7,No,No,Web Development,1,11.67,Web Developer
+STU0661,Male,21,Information Technology,Tier 3,Rajkot,77.74,92.92,8.64,1,73.81,No,0,4,6,7,6,81,5,Yes,No,Data Science,1,13.08,Web Developer
+STU0662,Female,22,Electrical Engineering,Tier 2,Surat,62.98,68.51,9.33,0,95.61,No,0,1,3,1,4,64,10,Yes,No,Networking,1,13.19,Network Engineer
+STU0663,Female,24,Information Technology,Tier 1,Bangalore,67.66,64.83,8.68,1,78.49,Yes,10,0,6,2,2,41,1,Yes,No,Software Development,1,13.73,Web Developer
+STU0664,Male,21,Information Technology,Tier 2,Ahmedabad,69.52,91.37,8.01,1,78.05,Yes,4,2,0,9,3,97,3,Yes,No,Software Development,1,12.66,Web Developer
+STU0665,Male,24,Electrical Engineering,Tier 3,Delhi,82.99,66.25,9.15,0,64.31,Yes,7,0,6,1,3,96,7,No,No,Testing,1,11.34,Data Analyst
+STU0666,Female,23,Electrical Engineering,Tier 3,Vadodara,72.89,55.79,7.61,0,73.07,No,0,0,2,2,3,48,10,No,No,Data Science,1,11.42,Web Developer
+STU0667,Male,22,Mechanical Engineering,Tier 3,Ahmedabad,69.19,94.34,7.63,0,82.43,Yes,5,2,1,9,5,73,1,No,No,Data Science,1,10.83,Web Developer
+STU0668,Female,22,Civil Engineering,Tier 2,Pune,56.62,85.0,8.77,0,63.05,Yes,2,4,0,10,1,59,7,Yes,No,Testing,1,14.69,QA Engineer
+STU0669,Female,23,Mechanical Engineering,Tier 2,Hyderabad,89.15,86.36,7.25,0,95.83,No,0,4,1,8,5,57,2,No,Yes,Networking,1,12.5,Network Engineer
+STU0670,Male,20,Information Technology,Tier 1,Rajkot,57.98,69.94,6.16,1,89.6,Yes,0,5,0,6,10,44,3,No,No,Networking,1,11.18,Network Engineer
+STU0671,Male,21,Electronics Engineering,Tier 1,Vadodara,58.67,93.06,5.52,1,68.86,Yes,11,0,3,6,9,52,8,Yes,No,Cloud Computing,1,12.72,Cloud Support Engineer
+STU0672,Male,23,Information Technology,Tier 3,Surat,58.18,93.97,6.63,1,81.87,Yes,11,0,5,2,4,51,6,Yes,Yes,Testing,1,11.3,QA Engineer
+STU0673,Female,24,Electronics Engineering,Tier 2,Rajkot,72.06,87.98,8.66,0,84.88,No,0,2,6,3,2,43,2,No,No,Networking,1,12.2,Network Engineer
+STU0674,Female,20,Electronics Engineering,Tier 3,Delhi,55.48,84.77,5.88,0,94.82,No,0,5,5,10,2,76,5,No,No,Web Development,1,11.93,Web Developer
+STU0675,Female,22,Civil Engineering,Tier 2,Hyderabad,94.96,62.61,8.03,0,73.41,No,0,3,2,7,8,95,8,No,Yes,Data Science,1,12.84,Data Analyst
+STU0676,Male,21,Mechanical Engineering,Tier 2,Vadodara,70.98,55.56,8.9,0,66.57,Yes,3,0,0,7,8,49,5,No,Yes,Software Development,1,11.51,Web Developer
+STU0677,Female,21,Information Technology,Tier 2,Chennai,83.95,72.31,9.57,0,96.83,Yes,5,0,0,6,8,78,5,Yes,Yes,Cloud Computing,1,13.36,Cloud Support Engineer
+STU0678,Female,23,Computer Engineering,Tier 2,Vadodara,68.54,67.42,8.16,0,82.77,No,0,2,5,6,3,63,10,No,Yes,Software Development,1,13.22,Web Developer
+STU0679,Male,22,Electronics Engineering,Tier 1,Pune,80.35,91.07,7.55,0,72.95,No,0,5,1,3,6,90,10,Yes,Yes,Data Science,1,13.76,Data Analyst
+STU0680,Male,22,Electrical Engineering,Tier 1,Bangalore,85.01,79.94,5.85,0,82.9,No,0,0,3,7,4,90,5,Yes,No,Software Development,1,10.37,Web Developer
+STU0681,Male,22,Mechanical Engineering,Tier 3,Delhi,77.48,86.35,9.61,0,71.94,Yes,12,5,1,10,10,47,5,Yes,Yes,Cloud Computing,1,15.28,Cloud Support Engineer
+STU0682,Female,23,Electronics Engineering,Tier 1,Mumbai,65.44,60.76,5.61,0,88.97,Yes,5,3,6,3,8,80,7,Yes,No,Web Development,1,12.15,Data Analyst
+STU0683,Female,21,Electronics Engineering,Tier 3,Delhi,66.39,78.46,6.89,0,61.99,No,0,4,3,6,3,60,7,Yes,No,Networking,1,11.07,Network Engineer
+STU0684,Male,22,Mechanical Engineering,Tier 3,Chennai,56.58,75.47,8.61,1,78.87,Yes,2,1,0,9,3,100,4,Yes,No,Web Development,1,11.49,Web Developer
+STU0685,Male,23,Civil Engineering,Tier 3,Surat,75.99,80.67,7.2,0,91.27,Yes,7,1,0,5,4,55,1,Yes,Yes,Networking,0,0.0,Not Placed
+STU0686,Male,23,Computer Engineering,Tier 1,Rajkot,85.34,93.0,9.6,0,72.14,No,0,5,5,7,1,72,5,No,Yes,Networking,1,15.18,Network Engineer
+STU0687,Male,20,Information Technology,Tier 3,Surat,63.35,78.31,5.53,1,82.1,No,0,4,6,3,7,53,3,Yes,No,Web Development,0,0.0,Not Placed
+STU0688,Female,21,Information Technology,Tier 3,Mumbai,68.38,68.08,6.62,0,70.84,Yes,7,4,5,9,7,53,3,Yes,Yes,Testing,1,13.06,QA Engineer
+STU0689,Male,21,Electrical Engineering,Tier 3,Mumbai,88.32,81.97,9.31,1,73.72,Yes,10,5,1,10,5,53,9,Yes,No,Software Development,1,15.38,Software Developer
+STU0690,Female,21,Civil Engineering,Tier 3,Bangalore,83.8,73.32,7.18,1,94.99,No,0,4,4,5,4,44,10,Yes,Yes,Software Development,1,13.16,Web Developer
+STU0691,Female,20,Mechanical Engineering,Tier 2,Bangalore,84.15,93.45,5.92,0,84.54,No,0,5,2,2,5,66,1,No,Yes,Software Development,1,9.62,Web Developer
+STU0692,Male,20,Electronics Engineering,Tier 3,Surat,90.21,92.28,6.25,0,87.54,No,0,4,5,9,5,57,1,No,Yes,Networking,1,10.31,Network Engineer
+STU0693,Female,23,Computer Engineering,Tier 1,Delhi,72.3,73.63,6.25,0,94.1,Yes,12,2,5,5,8,52,5,Yes,No,Data Science,1,13.46,Web Developer
+STU0694,Male,20,Electrical Engineering,Tier 2,Hyderabad,93.09,74.54,6.5,1,61.8,No,0,0,4,6,8,92,8,Yes,No,Networking,0,0.0,Not Placed
+STU0695,Male,22,Electronics Engineering,Tier 3,Pune,71.28,78.21,7.1,3,89.16,Yes,10,3,5,9,7,63,7,Yes,No,Data Science,1,13.5,Web Developer
+STU0696,Female,23,Electrical Engineering,Tier 3,Vadodara,90.59,68.74,9.45,3,65.51,No,0,4,5,3,10,48,4,No,Yes,Testing,0,0.0,Not Placed
+STU0697,Male,24,Computer Engineering,Tier 3,Surat,65.19,77.02,9.55,1,85.99,No,0,3,0,6,6,75,7,No,Yes,Cloud Computing,1,12.55,Cloud Support Engineer
+STU0698,Male,21,Electronics Engineering,Tier 3,Delhi,61.23,82.76,8.74,1,93.94,Yes,7,1,0,5,4,88,7,No,Yes,Cloud Computing,1,13.28,Data Analyst
+STU0699,Male,20,Computer Engineering,Tier 1,Mumbai,59.84,62.43,8.84,0,69.63,Yes,6,2,5,7,1,84,10,No,No,Testing,1,15.31,Data Analyst
+STU0700,Female,24,Electrical Engineering,Tier 1,Delhi,94.08,75.0,7.01,0,78.0,No,0,4,6,2,7,84,10,No,No,Software Development,1,14.46,Data Analyst
+STU0701,Male,23,Mechanical Engineering,Tier 3,Ahmedabad,58.32,83.97,8.58,2,77.28,No,0,1,4,8,1,60,5,No,Yes,Cloud Computing,1,10.87,Cloud Support Engineer
+STU0702,Male,24,Electronics Engineering,Tier 1,Hyderabad,72.78,75.08,7.49,0,74.75,Yes,4,4,0,9,8,51,8,No,Yes,Software Development,1,14.25,Software Developer
+STU0703,Male,21,Computer Engineering,Tier 1,Delhi,74.45,55.23,8.84,1,94.41,No,0,0,2,3,4,61,10,No,Yes,Networking,1,13.43,Network Engineer
+STU0704,Male,20,Information Technology,Tier 1,Vadodara,84.61,92.87,7.92,0,73.93,No,0,0,5,9,6,80,9,Yes,No,Testing,1,13.54,Software Developer
+STU0705,Female,20,Computer Engineering,Tier 1,Mumbai,90.11,81.59,7.54,0,69.24,Yes,1,0,1,2,10,51,4,No,No,Cloud Computing,1,9.96,Cloud Support Engineer
+STU0706,Male,24,Civil Engineering,Tier 1,Hyderabad,56.59,63.1,6.79,1,74.85,No,0,0,4,1,2,73,5,Yes,No,Data Science,0,0.0,Not Placed
+STU0707,Male,23,Information Technology,Tier 1,Delhi,74.13,63.56,6.24,0,83.83,Yes,2,5,1,9,3,95,2,No,Yes,Cloud Computing,1,13.0,Cloud Support Engineer
+STU0708,Female,22,Information Technology,Tier 2,Bangalore,57.39,72.27,9.24,1,61.05,No,0,3,3,10,4,87,3,No,No,Networking,1,13.79,Network Engineer
+STU0709,Male,24,Electrical Engineering,Tier 2,Delhi,85.92,72.31,5.63,0,63.22,Yes,12,5,0,6,5,65,5,No,No,Web Development,1,13.2,Web Developer
+STU0710,Female,23,Electrical Engineering,Tier 2,Bangalore,85.3,88.58,8.04,0,85.92,Yes,7,2,0,8,6,74,9,Yes,No,Networking,1,13.46,Software Developer
+STU0711,Female,24,Electrical Engineering,Tier 1,Pune,92.07,67.97,6.53,0,96.95,Yes,5,4,5,7,5,56,10,No,Yes,Cloud Computing,1,14.03,Cloud Support Engineer
+STU0712,Female,21,Electronics Engineering,Tier 3,Pune,83.5,77.12,6.38,0,79.76,Yes,11,5,2,4,4,78,6,Yes,No,Web Development,1,12.68,Web Developer
+STU0713,Female,24,Civil Engineering,Tier 3,Pune,60.85,79.24,6.59,2,90.9,No,0,0,0,4,5,99,8,No,No,Cloud Computing,0,0.0,Not Placed
+STU0714,Male,22,Computer Engineering,Tier 2,Delhi,78.81,74.05,7.16,0,66.88,No,0,0,0,2,5,46,9,No,Yes,Software Development,0,0.0,Not Placed
+STU0715,Female,21,Computer Engineering,Tier 3,Chennai,57.4,59.46,9.7,1,70.8,Yes,3,1,4,10,10,88,5,No,Yes,Data Science,1,13.55,Web Developer
+STU0716,Male,21,Civil Engineering,Tier 1,Hyderabad,79.65,93.18,5.89,1,97.19,No,0,3,0,2,4,94,7,Yes,Yes,Testing,1,11.92,Data Analyst
+STU0717,Male,22,Computer Engineering,Tier 1,Rajkot,81.85,72.41,9.2,1,76.95,Yes,1,0,3,8,8,49,7,No,Yes,Cloud Computing,1,13.24,Cloud Support Engineer
+STU0718,Female,23,Electrical Engineering,Tier 2,Pune,55.83,75.3,7.17,0,67.81,Yes,11,0,4,7,3,90,7,Yes,Yes,Web Development,1,12.7,Data Analyst
+STU0719,Female,21,Civil Engineering,Tier 3,Delhi,93.43,82.46,7.92,0,62.46,Yes,6,4,2,6,7,41,8,No,No,Testing,1,12.88,QA Engineer
+STU0720,Male,22,Mechanical Engineering,Tier 2,Delhi,61.32,63.77,8.02,0,80.18,Yes,0,3,2,1,4,45,3,Yes,Yes,Web Development,1,11.85,Web Developer
+STU0721,Female,21,Mechanical Engineering,Tier 1,Bangalore,66.14,91.64,6.49,0,79.78,Yes,1,4,0,10,3,58,9,No,No,Data Science,1,14.48,Software Developer
+STU0722,Male,24,Electronics Engineering,Tier 1,Ahmedabad,85.91,65.76,8.87,0,89.6,No,0,5,1,3,9,99,3,Yes,Yes,Web Development,1,13.81,Web Developer
+STU0723,Male,24,Electrical Engineering,Tier 1,Bangalore,60.4,56.93,6.17,0,92.74,No,0,4,6,5,8,55,8,Yes,Yes,Networking,1,13.41,Network Engineer
+STU0724,Male,20,Civil Engineering,Tier 1,Surat,66.49,76.16,7.61,1,80.91,No,0,4,3,9,6,90,10,No,No,Cloud Computing,1,14.16,Software Developer
+STU0725,Female,21,Computer Engineering,Tier 1,Ahmedabad,78.99,69.7,6.78,0,75.67,No,0,2,2,1,6,71,4,Yes,Yes,Testing,0,0.0,Not Placed
+STU0726,Male,23,Electrical Engineering,Tier 3,Vadodara,80.96,67.08,6.55,0,68.63,No,0,2,3,7,8,85,8,No,Yes,Testing,1,12.1,Data Analyst
+STU0727,Male,21,Electronics Engineering,Tier 1,Mumbai,69.96,69.02,9.41,2,93.14,Yes,9,2,2,9,9,70,1,No,Yes,Web Development,1,14.35,Web Developer
+STU0728,Male,20,Computer Engineering,Tier 1,Hyderabad,65.78,55.99,6.44,0,60.92,No,0,2,6,10,8,62,10,No,No,Web Development,1,13.94,Software Developer
+STU0729,Male,23,Civil Engineering,Tier 2,Hyderabad,56.45,86.17,8.63,0,62.56,Yes,6,2,5,8,5,49,3,Yes,Yes,Cloud Computing,1,13.34,Cloud Support Engineer
+STU0730,Male,20,Mechanical Engineering,Tier 1,Vadodara,62.78,77.77,7.3,1,65.76,No,0,1,0,2,3,94,1,No,No,Software Development,0,0.0,Not Placed
+STU0731,Male,23,Computer Engineering,Tier 1,Delhi,87.47,68.71,8.63,0,77.82,No,0,4,4,9,6,80,6,Yes,No,Cloud Computing,1,14.3,Cloud Support Engineer
+STU0732,Male,23,Civil Engineering,Tier 2,Pune,92.6,67.02,9.68,3,61.95,No,0,2,0,3,9,54,4,Yes,No,Data Science,0,0.0,Not Placed
+STU0733,Female,23,Electronics Engineering,Tier 2,Bangalore,77.66,66.96,6.54,0,96.04,Yes,12,2,0,7,7,92,7,Yes,No,Testing,1,12.78,Data Analyst
+STU0734,Female,20,Mechanical Engineering,Tier 1,Delhi,90.16,74.67,9.62,0,75.4,Yes,4,1,4,3,6,50,10,No,No,Software Development,1,13.89,Web Developer
+STU0735,Male,21,Electrical Engineering,Tier 2,Delhi,90.86,92.37,8.91,0,65.77,Yes,0,3,1,1,3,58,6,No,Yes,Software Development,1,11.66,Web Developer
+STU0736,Male,20,Electrical Engineering,Tier 1,Surat,79.57,87.86,6.33,0,74.85,No,0,0,2,10,5,79,9,Yes,No,Data Science,1,12.67,Software Developer
+STU0737,Female,21,Electronics Engineering,Tier 3,Hyderabad,58.84,79.26,8.46,0,92.38,Yes,11,3,6,8,6,100,9,No,No,Networking,1,14.96,Software Developer
+STU0738,Male,22,Electronics Engineering,Tier 2,Rajkot,64.63,60.95,6.17,0,82.33,Yes,2,0,3,3,3,86,2,No,No,Networking,0,0.0,Not Placed
+STU0739,Male,23,Civil Engineering,Tier 2,Ahmedabad,92.19,81.73,8.39,1,71.5,Yes,7,5,0,6,3,65,4,No,Yes,Software Development,1,14.54,Web Developer
+STU0740,Female,23,Information Technology,Tier 2,Delhi,81.33,70.9,8.55,0,65.05,No,0,5,5,7,6,98,10,Yes,Yes,Data Science,1,14.7,Data Analyst
+STU0741,Female,22,Information Technology,Tier 1,Vadodara,64.6,79.16,9.62,2,87.39,No,0,0,6,1,6,85,6,No,No,Software Development,1,13.4,Web Developer
+STU0742,Male,21,Information Technology,Tier 2,Hyderabad,65.94,70.63,7.77,0,95.21,Yes,6,5,6,1,8,86,10,No,No,Software Development,1,13.34,Data Analyst
+STU0743,Male,23,Civil Engineering,Tier 2,Chennai,77.88,91.92,9.09,0,70.06,Yes,3,5,4,5,7,56,1,Yes,Yes,Data Science,1,13.29,Web Developer
+STU0744,Female,20,Civil Engineering,Tier 1,Ahmedabad,87.1,65.95,9.0,0,75.84,No,0,4,5,1,8,77,4,No,Yes,Data Science,1,13.11,Web Developer
+STU0745,Female,21,Electrical Engineering,Tier 3,Rajkot,55.57,72.18,6.91,0,78.23,Yes,2,5,5,5,3,82,5,No,No,Data Science,0,0.0,Not Placed
+STU0746,Male,21,Mechanical Engineering,Tier 1,Mumbai,67.38,76.69,7.86,0,97.35,Yes,0,1,0,5,3,47,8,No,Yes,Cloud Computing,1,13.02,Cloud Support Engineer
+STU0747,Female,24,Computer Engineering,Tier 2,Chennai,66.13,58.33,8.89,0,74.74,Yes,8,2,5,1,10,91,2,Yes,Yes,Data Science,1,12.6,Web Developer
+STU0748,Male,23,Electronics Engineering,Tier 2,Surat,68.61,70.57,8.75,0,79.47,No,0,1,1,4,10,80,8,Yes,Yes,Networking,1,12.74,Data Analyst
+STU0749,Female,23,Mechanical Engineering,Tier 3,Pune,62.96,56.68,7.45,0,73.51,No,0,5,2,7,1,60,8,Yes,Yes,Software Development,1,12.82,Web Developer
+STU0750,Male,24,Information Technology,Tier 2,Delhi,77.14,77.06,8.77,0,90.81,No,0,1,2,9,7,58,1,Yes,Yes,Web Development,1,12.81,Web Developer
+STU0751,Female,23,Information Technology,Tier 2,Pune,88.99,94.25,9.69,0,78.93,No,0,3,0,1,5,60,3,Yes,Yes,Cloud Computing,1,12.53,Cloud Support Engineer
+STU0752,Female,20,Computer Engineering,Tier 2,Pune,67.73,59.95,7.98,0,63.0,Yes,4,2,6,9,9,98,2,No,No,Software Development,1,13.43,Web Developer
+STU0753,Male,22,Civil Engineering,Tier 1,Pune,65.76,57.08,5.8,2,82.36,Yes,7,0,3,6,7,74,2,No,Yes,Cloud Computing,0,0.0,Not Placed
+STU0754,Male,20,Mechanical Engineering,Tier 1,Vadodara,80.94,77.76,9.23,0,60.64,Yes,11,5,1,3,9,55,7,Yes,No,Cloud Computing,1,16.51,Cloud Support Engineer
+STU0755,Male,23,Electrical Engineering,Tier 1,Surat,72.19,79.53,7.17,1,71.12,Yes,6,4,3,10,5,57,4,Yes,No,Web Development,1,14.42,Web Developer
+STU0756,Male,23,Electrical Engineering,Tier 1,Mumbai,82.65,78.06,9.0,0,96.75,Yes,2,5,0,4,4,87,1,Yes,No,Data Science,1,12.87,Web Developer
+STU0757,Male,24,Computer Engineering,Tier 3,Rajkot,83.69,88.2,5.56,0,67.84,Yes,2,5,5,2,6,60,7,No,No,Testing,1,11.74,QA Engineer
+STU0758,Male,21,Civil Engineering,Tier 2,Rajkot,89.8,89.32,8.35,0,96.07,No,0,0,2,1,7,69,3,Yes,Yes,Networking,1,9.73,Network Engineer
+STU0759,Female,20,Mechanical Engineering,Tier 1,Mumbai,66.17,72.05,5.56,1,80.12,No,0,2,2,4,8,52,5,No,No,Web Development,1,10.22,Web Developer
+STU0760,Male,20,Information Technology,Tier 3,Delhi,70.38,94.46,7.87,0,65.5,No,0,5,2,9,5,84,2,No,No,Networking,1,11.25,Network Engineer
+STU0761,Male,21,Mechanical Engineering,Tier 2,Rajkot,85.31,81.74,7.89,0,90.36,Yes,10,3,4,1,3,41,6,No,No,Software Development,1,12.61,Web Developer
+STU0762,Female,23,Mechanical Engineering,Tier 3,Mumbai,78.45,80.15,8.38,2,81.48,No,0,0,3,8,10,52,4,No,Yes,Web Development,1,11.56,Web Developer
+STU0763,Female,23,Information Technology,Tier 2,Hyderabad,55.66,58.05,7.93,0,75.61,Yes,3,3,3,9,2,46,9,No,Yes,Data Science,1,13.57,Software Developer
+STU0764,Male,20,Mechanical Engineering,Tier 1,Chennai,71.37,94.65,8.26,2,93.94,Yes,5,1,4,2,2,91,5,Yes,Yes,Testing,1,12.89,QA Engineer
+STU0765,Male,23,Information Technology,Tier 2,Pune,59.0,75.15,6.49,0,60.0,No,0,2,6,8,9,84,3,Yes,Yes,Networking,1,11.71,Network Engineer
+STU0766,Male,21,Information Technology,Tier 1,Surat,84.3,62.83,6.4,0,77.51,No,0,1,4,3,1,47,4,No,No,Networking,0,0.0,Not Placed
+STU0767,Male,21,Civil Engineering,Tier 2,Surat,61.86,56.41,6.25,1,75.97,Yes,12,1,1,2,3,66,2,No,Yes,Networking,0,0.0,Not Placed
+STU0768,Female,24,Electronics Engineering,Tier 3,Hyderabad,93.0,92.28,9.37,2,97.41,No,0,1,6,10,9,82,10,Yes,No,Testing,1,14.63,Software Developer
+STU0769,Female,22,Mechanical Engineering,Tier 2,Chennai,63.57,84.34,8.82,0,75.42,No,0,4,3,2,10,47,3,Yes,Yes,Networking,1,13.05,Network Engineer
+STU0770,Male,24,Civil Engineering,Tier 2,Chennai,83.5,87.67,5.73,0,93.28,Yes,3,0,4,10,9,96,2,Yes,Yes,Web Development,1,9.74,Web Developer
+STU0771,Female,22,Electrical Engineering,Tier 1,Vadodara,56.76,74.62,9.1,0,90.02,Yes,8,1,4,8,2,67,9,Yes,No,Testing,1,15.24,Software Developer
+STU0772,Female,20,Computer Engineering,Tier 1,Surat,86.01,82.64,9.21,1,63.18,Yes,12,5,6,10,2,45,4,No,Yes,Testing,1,17.43,QA Engineer
+STU0773,Female,20,Electronics Engineering,Tier 3,Chennai,56.03,60.99,7.02,0,64.38,No,0,2,2,3,2,74,3,No,No,Testing,0,0.0,Not Placed
+STU0774,Male,21,Information Technology,Tier 2,Hyderabad,79.87,56.7,7.13,0,76.52,Yes,0,4,0,1,5,96,4,No,No,Networking,1,10.44,Network Engineer
+STU0775,Female,24,Information Technology,Tier 2,Bangalore,77.52,64.43,6.14,0,68.66,No,0,2,5,1,6,59,3,No,Yes,Cloud Computing,0,0.0,Not Placed
+STU0776,Female,20,Civil Engineering,Tier 1,Rajkot,71.41,89.24,7.9,0,89.89,Yes,12,4,6,9,3,48,2,Yes,No,Software Development,1,16.31,Web Developer
+STU0777,Female,24,Computer Engineering,Tier 3,Hyderabad,84.54,65.46,8.65,2,84.46,No,0,3,1,9,4,64,4,Yes,No,Web Development,1,12.56,Web Developer
+STU0778,Male,23,Electrical Engineering,Tier 3,Mumbai,84.04,75.87,8.27,0,71.68,No,0,1,0,4,7,88,3,No,No,Data Science,1,10.97,Web Developer
+STU0779,Female,20,Civil Engineering,Tier 1,Bangalore,66.67,94.29,7.18,0,88.51,No,0,0,1,7,4,86,6,No,Yes,Web Development,1,12.48,Web Developer
+STU0780,Male,20,Civil Engineering,Tier 2,Mumbai,71.45,66.19,6.75,0,90.96,Yes,12,1,5,2,6,55,9,Yes,No,Web Development,1,12.27,Web Developer
+STU0781,Male,22,Computer Engineering,Tier 2,Surat,94.73,66.66,6.38,0,96.85,No,0,1,6,9,5,77,6,Yes,No,Networking,1,11.02,Network Engineer
+STU0782,Male,20,Computer Engineering,Tier 3,Chennai,73.19,73.66,9.28,0,61.84,Yes,3,4,0,4,8,53,3,No,No,Data Science,1,12.02,Web Developer
+STU0783,Male,20,Computer Engineering,Tier 3,Hyderabad,74.87,93.47,9.76,0,96.51,No,0,4,5,9,1,40,3,Yes,Yes,Software Development,1,13.23,Web Developer
+STU0784,Female,20,Electrical Engineering,Tier 1,Chennai,75.95,55.52,8.46,0,84.2,No,0,2,5,5,10,47,7,Yes,Yes,Testing,1,14.18,QA Engineer
+STU0785,Male,20,Computer Engineering,Tier 2,Chennai,57.84,59.93,7.76,1,70.9,No,0,1,1,7,9,70,6,Yes,Yes,Testing,1,12.3,QA Engineer
+STU0786,Male,21,Electrical Engineering,Tier 3,Hyderabad,60.92,64.61,6.68,0,62.92,No,0,0,5,5,3,73,9,No,Yes,Web Development,0,0.0,Not Placed
+STU0787,Female,21,Civil Engineering,Tier 2,Bangalore,72.41,86.63,5.7,0,64.43,Yes,6,0,0,4,1,73,4,No,No,Testing,0,0.0,Not Placed
+STU0788,Male,20,Civil Engineering,Tier 1,Delhi,57.91,92.61,6.42,2,89.17,No,0,2,2,1,7,72,9,Yes,No,Cloud Computing,1,11.85,Cloud Support Engineer
+STU0789,Female,23,Electrical Engineering,Tier 3,Vadodara,79.85,94.36,9.07,0,96.6,Yes,3,2,4,1,9,68,4,No,No,Data Science,1,11.84,Web Developer
+STU0790,Male,23,Computer Engineering,Tier 1,Rajkot,80.81,79.58,6.03,0,74.08,Yes,9,0,4,6,10,77,2,No,No,Cloud Computing,1,10.76,Cloud Support Engineer
+STU0791,Female,22,Electrical Engineering,Tier 1,Bangalore,85.25,83.25,8.18,0,89.13,No,0,5,2,9,10,88,10,No,Yes,Cloud Computing,1,15.5,Software Developer
+STU0792,Female,24,Civil Engineering,Tier 3,Chennai,64.93,68.21,5.94,0,79.02,No,0,4,4,4,3,96,4,Yes,Yes,Data Science,1,9.54,Web Developer
+STU0793,Female,23,Electrical Engineering,Tier 3,Surat,71.31,82.99,9.76,0,75.12,Yes,7,3,0,8,3,87,4,No,Yes,Cloud Computing,1,13.34,Cloud Support Engineer
+STU0794,Female,21,Electrical Engineering,Tier 1,Hyderabad,85.28,88.44,9.72,1,94.1,No,0,5,0,3,10,79,7,No,Yes,Cloud Computing,1,15.08,Cloud Support Engineer
+STU0795,Female,24,Mechanical Engineering,Tier 3,Vadodara,72.37,65.64,8.87,0,74.38,No,0,5,0,4,1,75,8,No,Yes,Networking,1,13.6,Network Engineer
+STU0796,Male,24,Mechanical Engineering,Tier 3,Pune,94.22,85.02,6.58,0,70.15,Yes,3,4,6,5,9,57,1,Yes,Yes,Testing,1,9.95,QA Engineer
+STU0797,Female,24,Civil Engineering,Tier 2,Ahmedabad,94.94,59.67,9.71,0,67.68,Yes,10,1,6,10,6,92,1,Yes,Yes,Testing,1,14.81,QA Engineer
+STU0798,Female,20,Mechanical Engineering,Tier 3,Chennai,57.93,84.51,5.73,0,66.73,Yes,9,3,5,7,3,43,6,Yes,No,Web Development,1,12.18,Web Developer
+STU0799,Female,24,Mechanical Engineering,Tier 2,Vadodara,57.33,92.72,9.31,1,88.99,No,0,5,1,10,3,62,1,Yes,No,Networking,1,13.57,Network Engineer
+STU0800,Female,20,Information Technology,Tier 3,Chennai,57.67,86.11,5.6,2,85.64,No,0,0,1,4,4,69,4,Yes,Yes,Web Development,0,0.0,Not Placed
+STU0801,Male,21,Mechanical Engineering,Tier 2,Ahmedabad,73.69,92.09,7.5,0,97.85,Yes,10,0,0,10,3,40,7,Yes,Yes,Testing,1,13.3,QA Engineer
+STU0802,Female,21,Civil Engineering,Tier 2,Hyderabad,77.94,68.8,6.02,0,62.82,No,0,2,2,10,1,86,3,No,Yes,Data Science,0,0.0,Not Placed
+STU0803,Female,24,Computer Engineering,Tier 1,Bangalore,66.02,94.8,6.52,0,69.5,Yes,6,3,4,2,3,97,8,No,Yes,Data Science,1,13.8,Data Analyst
+STU0804,Male,23,Electrical Engineering,Tier 3,Vadodara,59.09,62.74,7.73,3,66.52,No,0,5,6,8,10,68,4,No,Yes,Cloud Computing,1,11.96,Cloud Support Engineer
+STU0805,Male,24,Electronics Engineering,Tier 2,Bangalore,56.17,64.16,8.73,2,60.87,No,0,3,5,2,8,70,1,No,No,Data Science,0,0.0,Not Placed
+STU0806,Male,20,Mechanical Engineering,Tier 1,Bangalore,76.62,58.37,9.11,0,83.91,No,0,5,1,2,7,83,6,Yes,No,Cloud Computing,0,0.0,Not Placed
+STU0807,Male,22,Civil Engineering,Tier 3,Vadodara,84.3,75.91,8.81,0,97.3,Yes,5,4,3,8,10,42,9,No,Yes,Testing,1,14.56,Software Developer
+STU0808,Male,21,Information Technology,Tier 1,Pune,86.94,93.06,8.47,0,91.99,No,0,5,4,5,9,58,3,No,No,Networking,1,13.84,Network Engineer
+STU0809,Male,20,Mechanical Engineering,Tier 2,Delhi,80.04,75.3,9.64,1,61.36,No,0,0,2,3,4,97,9,No,No,Testing,1,12.62,Data Analyst
+STU0810,Male,20,Electrical Engineering,Tier 2,Mumbai,70.22,58.12,8.14,1,85.22,No,0,3,4,9,8,64,9,Yes,No,Cloud Computing,1,14.63,Software Developer
+STU0811,Male,22,Electrical Engineering,Tier 3,Rajkot,74.76,84.99,8.9,0,85.9,Yes,6,5,1,4,6,43,5,Yes,No,Testing,1,13.51,QA Engineer
+STU0812,Female,24,Computer Engineering,Tier 1,Ahmedabad,61.72,90.99,6.26,1,92.39,No,0,2,1,9,7,69,10,No,Yes,Data Science,1,13.64,Software Developer
+STU0813,Female,21,Electronics Engineering,Tier 1,Vadodara,82.34,84.57,9.14,1,91.55,Yes,3,4,4,2,6,65,3,No,Yes,Networking,1,13.39,Network Engineer
+STU0814,Female,23,Information Technology,Tier 2,Bangalore,61.71,78.02,7.24,0,93.0,Yes,5,4,4,6,2,54,9,Yes,No,Web Development,1,14.82,Web Developer
+STU0815,Female,24,Mechanical Engineering,Tier 2,Hyderabad,67.98,79.4,8.75,1,70.92,No,0,1,0,4,5,80,10,Yes,Yes,Software Development,1,12.66,Data Analyst
+STU0816,Male,20,Information Technology,Tier 3,Pune,78.28,65.77,5.66,1,67.99,No,0,0,2,5,8,46,6,No,Yes,Software Development,0,0.0,Not Placed
+STU0817,Male,22,Electrical Engineering,Tier 1,Bangalore,74.03,88.84,7.76,0,76.2,No,0,0,0,10,5,100,3,Yes,No,Software Development,1,11.65,Web Developer
+STU0818,Female,23,Electrical Engineering,Tier 3,Ahmedabad,82.84,75.95,7.91,0,91.73,No,0,0,2,6,3,55,9,No,No,Data Science,0,0.0,Not Placed
+STU0819,Female,24,Civil Engineering,Tier 2,Surat,93.22,89.56,8.01,0,88.66,No,0,2,2,3,3,71,6,No,No,Cloud Computing,1,12.05,Cloud Support Engineer
+STU0820,Female,22,Mechanical Engineering,Tier 3,Chennai,66.52,75.08,6.81,0,64.51,Yes,12,5,3,6,1,48,1,Yes,Yes,Data Science,1,12.36,Web Developer
+STU0821,Male,24,Electronics Engineering,Tier 1,Ahmedabad,93.34,60.25,9.27,2,91.43,No,0,2,0,4,1,60,6,No,Yes,Cloud Computing,1,13.41,Cloud Support Engineer
+STU0822,Male,20,Mechanical Engineering,Tier 2,Mumbai,89.04,75.99,7.15,0,97.81,No,0,1,3,4,7,68,8,No,No,Data Science,1,10.64,Web Developer
+STU0823,Male,22,Mechanical Engineering,Tier 1,Ahmedabad,76.03,87.22,6.24,0,91.02,Yes,3,0,1,4,10,49,1,No,Yes,Software Development,1,9.06,Web Developer
+STU0824,Male,24,Information Technology,Tier 2,Mumbai,74.58,63.16,7.88,0,80.24,No,0,3,4,2,8,51,3,No,No,Testing,1,11.81,QA Engineer
+STU0825,Female,24,Electronics Engineering,Tier 2,Delhi,60.43,61.19,7.96,0,65.41,Yes,8,5,5,8,7,97,9,Yes,Yes,Testing,1,16.4,Software Developer
+STU0826,Female,20,Electronics Engineering,Tier 2,Vadodara,57.53,82.5,6.35,1,87.68,Yes,0,2,1,3,3,76,10,Yes,No,Data Science,0,0.0,Not Placed
+STU0827,Female,22,Electronics Engineering,Tier 3,Ahmedabad,80.61,64.45,7.87,0,66.33,No,0,5,1,10,9,53,6,No,No,Testing,1,13.44,QA Engineer
+STU0828,Female,23,Information Technology,Tier 1,Bangalore,66.59,92.68,7.96,0,69.65,No,0,4,5,2,3,97,8,No,Yes,Data Science,1,13.51,Data Analyst
+STU0829,Male,20,Mechanical Engineering,Tier 1,Chennai,73.74,76.08,7.64,0,78.63,No,0,1,4,9,9,55,3,Yes,Yes,Networking,1,11.71,Network Engineer
+STU0830,Female,23,Electronics Engineering,Tier 3,Surat,76.92,61.93,9.3,0,81.06,No,0,4,4,9,10,68,6,Yes,No,Networking,1,13.11,Network Engineer
+STU0831,Female,20,Computer Engineering,Tier 1,Surat,66.13,67.08,9.47,0,90.96,No,0,0,3,2,6,93,3,Yes,Yes,Software Development,1,12.26,Web Developer
+STU0832,Male,24,Electronics Engineering,Tier 2,Surat,58.7,62.95,6.69,1,79.43,Yes,9,1,0,10,7,70,2,Yes,No,Software Development,1,11.18,Web Developer
+STU0833,Female,20,Electronics Engineering,Tier 1,Vadodara,59.62,61.3,9.23,2,96.48,No,0,3,6,3,1,47,10,Yes,Yes,Software Development,1,14.02,Web Developer
+STU0834,Male,20,Computer Engineering,Tier 3,Surat,72.86,83.92,8.35,2,88.88,Yes,3,4,5,4,1,58,10,Yes,No,Testing,1,13.67,QA Engineer
+STU0835,Male,23,Electronics Engineering,Tier 3,Mumbai,86.07,59.15,8.79,0,63.82,No,0,0,6,9,7,80,9,Yes,No,Software Development,1,12.51,Software Developer
+STU0836,Male,21,Electrical Engineering,Tier 2,Bangalore,60.15,88.6,8.04,1,73.94,No,0,5,3,2,1,91,4,No,Yes,Networking,1,12.84,Network Engineer
+STU0837,Male,21,Civil Engineering,Tier 1,Vadodara,66.02,71.95,7.04,0,73.93,No,0,1,1,1,5,100,2,Yes,Yes,Data Science,0,0.0,Not Placed
+STU0838,Male,23,Computer Engineering,Tier 2,Chennai,61.48,64.23,7.63,0,82.76,Yes,7,5,5,2,7,67,10,Yes,No,Data Science,1,15.14,Web Developer
+STU0839,Male,22,Mechanical Engineering,Tier 2,Vadodara,88.11,82.38,8.26,0,86.99,No,0,0,1,1,2,41,10,No,No,Testing,1,11.91,QA Engineer
+STU0840,Female,22,Civil Engineering,Tier 2,Chennai,57.6,72.71,8.41,3,74.13,No,0,1,1,5,8,93,2,Yes,No,Testing,0,0.0,Not Placed
+STU0841,Male,20,Electrical Engineering,Tier 1,Ahmedabad,86.89,75.57,5.67,0,94.64,No,0,4,1,2,8,65,5,Yes,No,Data Science,1,10.15,Web Developer
+STU0842,Male,24,Computer Engineering,Tier 3,Pune,72.91,60.93,5.63,1,97.02,Yes,7,0,1,9,1,66,8,Yes,Yes,Software Development,1,10.51,Software Developer
+STU0843,Male,20,Mechanical Engineering,Tier 2,Hyderabad,93.16,74.68,6.36,0,64.34,Yes,0,0,4,7,3,62,9,No,No,Testing,1,11.57,QA Engineer
+STU0844,Female,20,Information Technology,Tier 1,Hyderabad,55.22,62.96,8.39,1,67.61,No,0,1,6,8,5,93,7,No,No,Data Science,1,14.03,Data Analyst
+STU0845,Male,21,Electronics Engineering,Tier 2,Surat,56.28,94.19,7.23,0,71.8,No,0,5,4,1,2,90,2,Yes,No,Cloud Computing,1,11.14,Cloud Support Engineer
+STU0846,Female,20,Computer Engineering,Tier 3,Mumbai,78.42,76.76,9.55,0,87.17,No,0,4,0,6,4,82,2,No,Yes,Software Development,1,12.31,Web Developer
+STU0847,Male,24,Mechanical Engineering,Tier 3,Chennai,87.87,92.17,7.2,0,97.61,Yes,10,0,1,8,10,68,2,No,No,Cloud Computing,1,10.73,Cloud Support Engineer
+STU0848,Female,23,Computer Engineering,Tier 1,Rajkot,74.4,93.1,7.59,0,69.43,Yes,12,2,3,3,4,87,9,No,Yes,Cloud Computing,1,13.66,Data Analyst
+STU0849,Female,21,Civil Engineering,Tier 3,Vadodara,56.05,73.69,7.72,1,80.54,Yes,1,0,3,1,3,82,1,No,Yes,Cloud Computing,0,0.0,Not Placed
+STU0850,Male,21,Mechanical Engineering,Tier 3,Chennai,77.86,78.82,9.31,1,77.05,Yes,1,0,3,1,9,72,10,No,Yes,Software Development,0,0.0,Not Placed
+STU0851,Female,22,Mechanical Engineering,Tier 3,Vadodara,61.43,59.81,9.57,2,79.83,Yes,9,3,4,6,8,99,1,Yes,Yes,Software Development,1,12.47,Web Developer
+STU0852,Female,22,Civil Engineering,Tier 3,Ahmedabad,88.15,62.19,6.31,0,71.38,No,0,0,6,2,3,72,8,No,Yes,Cloud Computing,0,0.0,Not Placed
+STU0853,Male,23,Electronics Engineering,Tier 2,Chennai,92.73,81.81,9.15,0,61.9,Yes,9,2,1,2,5,97,2,No,Yes,Web Development,1,12.57,Web Developer
+STU0854,Male,21,Civil Engineering,Tier 2,Hyderabad,77.33,68.33,7.12,0,95.38,No,0,1,2,1,10,99,7,No,No,Testing,1,10.94,Data Analyst
+STU0855,Female,20,Mechanical Engineering,Tier 2,Hyderabad,67.5,57.59,5.55,0,63.88,Yes,2,2,4,4,7,57,9,Yes,Yes,Cloud Computing,0,0.0,Not Placed
+STU0856,Male,22,Electrical Engineering,Tier 2,Hyderabad,82.87,64.12,5.68,0,97.43,No,0,3,1,9,8,78,10,Yes,No,Software Development,1,11.31,Software Developer
+STU0857,Female,20,Information Technology,Tier 1,Chennai,90.84,94.77,6.57,0,97.51,Yes,3,5,3,2,4,53,8,No,Yes,Web Development,1,12.79,Web Developer
+STU0858,Female,22,Electrical Engineering,Tier 3,Ahmedabad,71.02,86.19,8.51,2,73.69,No,0,2,3,3,5,47,10,Yes,No,Web Development,1,12.88,Web Developer
+STU0859,Female,22,Computer Engineering,Tier 3,Bangalore,71.08,57.53,8.75,0,94.64,Yes,12,4,1,5,10,74,10,Yes,Yes,Testing,1,15.01,QA Engineer
+STU0860,Male,22,Computer Engineering,Tier 2,Mumbai,71.55,88.91,5.95,0,72.41,Yes,6,5,3,5,9,67,10,Yes,No,Networking,1,13.36,Network Engineer
+STU0861,Female,24,Mechanical Engineering,Tier 3,Ahmedabad,68.09,78.53,9.71,1,61.87,Yes,9,1,5,10,3,43,8,No,Yes,Networking,1,15.79,Software Developer
+STU0862,Male,22,Computer Engineering,Tier 1,Delhi,58.14,82.31,5.77,1,80.44,No,0,1,3,6,4,66,3,Yes,No,Web Development,0,0.0,Not Placed
+STU0863,Male,23,Civil Engineering,Tier 1,Surat,55.99,81.24,7.96,1,71.35,No,0,1,0,5,7,64,5,No,No,Testing,1,11.58,QA Engineer
+STU0864,Female,22,Information Technology,Tier 1,Mumbai,67.59,89.61,7.61,0,80.43,Yes,9,3,6,5,6,54,4,Yes,No,Data Science,1,14.83,Web Developer
+STU0865,Female,23,Civil Engineering,Tier 1,Vadodara,85.82,68.46,6.74,0,84.04,No,0,1,0,1,7,50,3,Yes,Yes,Data Science,1,10.94,Web Developer
+STU0866,Female,23,Civil Engineering,Tier 3,Delhi,67.42,60.37,6.86,0,61.05,Yes,2,2,5,2,2,63,9,No,No,Software Development,1,12.03,Web Developer
+STU0867,Male,20,Civil Engineering,Tier 3,Hyderabad,94.28,74.25,7.63,0,67.44,Yes,2,4,4,6,8,99,1,No,No,Data Science,0,0.0,Not Placed
+STU0868,Female,22,Information Technology,Tier 3,Bangalore,58.05,84.22,9.45,0,80.09,Yes,11,3,2,4,7,62,10,No,Yes,Testing,1,15.75,QA Engineer
+STU0869,Male,22,Mechanical Engineering,Tier 3,Vadodara,67.39,59.94,7.9,1,79.13,No,0,2,6,5,1,42,7,No,No,Networking,1,12.16,Network Engineer
+STU0870,Female,21,Information Technology,Tier 1,Ahmedabad,60.6,62.74,9.52,3,70.85,No,0,5,4,2,8,68,7,Yes,Yes,Networking,1,14.96,Network Engineer
+STU0871,Male,23,Information Technology,Tier 1,Rajkot,89.7,77.2,7.13,0,62.77,No,0,2,5,1,9,43,2,No,Yes,Software Development,1,11.44,Web Developer
+STU0872,Male,20,Civil Engineering,Tier 3,Rajkot,68.0,76.81,9.07,0,93.96,No,0,1,2,1,1,94,2,Yes,No,Testing,1,9.64,QA Engineer
+STU0873,Male,23,Mechanical Engineering,Tier 1,Mumbai,65.16,91.67,9.61,0,76.24,Yes,8,2,5,2,8,78,10,Yes,No,Networking,1,14.82,Network Engineer
+STU0874,Female,21,Electronics Engineering,Tier 3,Ahmedabad,60.88,73.26,7.66,0,93.22,No,0,4,4,10,7,77,9,Yes,Yes,Web Development,0,0.0,Not Placed
+STU0875,Female,23,Electrical Engineering,Tier 3,Vadodara,88.5,59.19,9.11,0,69.64,Yes,0,0,6,10,9,87,7,No,Yes,Web Development,1,12.25,Data Analyst
+STU0876,Male,24,Civil Engineering,Tier 1,Hyderabad,64.42,77.72,5.94,3,97.44,No,0,0,3,3,10,53,3,Yes,Yes,Data Science,0,0.0,Not Placed
+STU0877,Male,20,Computer Engineering,Tier 1,Rajkot,62.03,55.08,5.77,0,77.53,No,0,0,0,1,9,93,10,No,No,Software Development,1,9.6,Data Analyst
+STU0878,Female,21,Mechanical Engineering,Tier 2,Ahmedabad,66.55,91.69,6.51,0,95.29,Yes,10,0,4,9,1,90,8,No,No,Cloud Computing,1,12.52,Software Developer
+STU0879,Female,23,Electrical Engineering,Tier 2,Ahmedabad,56.39,62.94,8.82,0,91.74,No,0,1,0,6,5,100,6,No,No,Software Development,1,12.87,Web Developer
+STU0880,Male,23,Civil Engineering,Tier 3,Bangalore,71.88,58.68,5.56,0,94.81,No,0,0,5,2,4,58,1,No,No,Software Development,0,0.0,Not Placed
+STU0881,Female,24,Civil Engineering,Tier 1,Hyderabad,79.61,69.69,7.92,0,75.95,Yes,4,4,1,7,9,86,10,No,Yes,Testing,1,15.6,Data Analyst
+STU0882,Male,24,Civil Engineering,Tier 3,Hyderabad,75.8,80.41,6.01,0,85.92,No,0,4,0,6,1,63,10,No,Yes,Web Development,1,10.54,Web Developer
+STU0883,Female,23,Computer Engineering,Tier 3,Chennai,64.47,55.89,5.87,0,86.66,No,0,3,6,9,10,75,3,No,Yes,Web Development,0,0.0,Not Placed
+STU0884,Male,24,Mechanical Engineering,Tier 1,Ahmedabad,86.36,69.45,7.7,3,64.48,No,0,3,2,2,3,71,5,No,Yes,Software Development,1,12.5,Web Developer
+STU0885,Male,22,Computer Engineering,Tier 3,Chennai,71.11,60.51,6.64,0,82.92,No,0,2,4,10,2,68,1,No,No,Web Development,0,0.0,Not Placed
+STU0886,Male,24,Mechanical Engineering,Tier 3,Mumbai,69.91,88.34,5.7,0,79.22,Yes,9,1,1,6,8,93,1,Yes,Yes,Software Development,1,9.24,Web Developer
+STU0887,Female,23,Mechanical Engineering,Tier 1,Delhi,61.87,88.09,6.7,1,97.69,Yes,8,4,2,5,1,43,2,No,Yes,Data Science,1,13.43,Web Developer
+STU0888,Male,20,Information Technology,Tier 2,Ahmedabad,70.58,92.36,9.47,1,74.18,No,0,0,0,6,9,81,1,Yes,Yes,Cloud Computing,1,10.14,Cloud Support Engineer
+STU0889,Male,23,Computer Engineering,Tier 3,Ahmedabad,67.6,72.1,8.71,0,73.78,No,0,0,6,10,3,52,1,Yes,No,Software Development,1,11.57,Web Developer
+STU0890,Male,20,Civil Engineering,Tier 2,Ahmedabad,90.09,77.96,6.84,1,86.57,Yes,12,5,1,10,9,69,7,Yes,No,Web Development,1,14.53,Web Developer
+STU0891,Female,20,Civil Engineering,Tier 3,Ahmedabad,93.37,86.72,7.71,0,78.02,No,0,4,0,4,2,42,5,No,Yes,Data Science,1,11.25,Web Developer
+STU0892,Female,21,Electronics Engineering,Tier 1,Ahmedabad,73.73,66.87,9.67,1,87.68,No,0,2,4,4,6,95,3,No,Yes,Testing,1,14.24,QA Engineer
+STU0893,Female,20,Electronics Engineering,Tier 2,Delhi,62.75,76.92,9.76,3,93.86,Yes,8,2,1,6,4,64,5,No,Yes,Cloud Computing,1,13.81,Cloud Support Engineer
+STU0894,Female,23,Mechanical Engineering,Tier 3,Surat,70.74,72.96,6.94,0,96.51,Yes,3,4,1,1,10,42,9,No,No,Software Development,1,11.72,Web Developer
+STU0895,Female,20,Electronics Engineering,Tier 3,Ahmedabad,90.58,58.99,5.86,0,89.6,No,0,0,4,1,3,61,5,No,No,Software Development,0,0.0,Not Placed
+STU0896,Male,21,Electronics Engineering,Tier 1,Bangalore,83.68,69.84,6.51,1,95.42,Yes,10,1,0,2,3,51,8,No,No,Software Development,1,13.26,Web Developer
+STU0897,Male,20,Mechanical Engineering,Tier 1,Pune,63.58,83.78,6.29,1,96.73,No,0,3,5,10,6,42,8,No,Yes,Testing,1,13.52,Software Developer
+STU0898,Male,21,Civil Engineering,Tier 3,Hyderabad,56.98,69.15,8.7,0,84.47,Yes,10,0,0,1,7,58,10,Yes,No,Networking,1,12.72,Network Engineer
+STU0899,Male,20,Mechanical Engineering,Tier 2,Vadodara,92.51,90.13,7.34,0,86.55,No,0,0,0,9,5,80,10,Yes,Yes,Networking,1,12.32,Software Developer
+STU0900,Male,24,Mechanical Engineering,Tier 2,Rajkot,91.37,82.44,6.96,0,74.74,Yes,0,3,3,10,10,40,1,No,No,Cloud Computing,1,11.73,Cloud Support Engineer
+STU0901,Female,23,Mechanical Engineering,Tier 1,Rajkot,94.84,75.04,8.49,0,93.81,Yes,10,1,4,5,5,77,6,Yes,Yes,Software Development,1,14.37,Web Developer
+STU0902,Male,22,Mechanical Engineering,Tier 1,Rajkot,61.43,68.92,5.55,0,97.44,No,0,2,1,7,3,58,2,No,No,Data Science,0,0.0,Not Placed
+STU0903,Male,24,Electronics Engineering,Tier 1,Rajkot,86.57,67.31,9.18,0,88.01,Yes,9,0,5,7,1,62,4,Yes,No,Cloud Computing,1,13.5,Cloud Support Engineer
+STU0904,Male,20,Civil Engineering,Tier 2,Delhi,63.8,60.44,9.49,0,85.78,No,0,2,6,10,9,90,9,No,No,Cloud Computing,1,14.06,Software Developer
+STU0905,Female,22,Information Technology,Tier 2,Surat,64.24,88.73,7.3,1,66.81,Yes,11,1,3,6,6,73,3,Yes,No,Testing,0,0.0,Not Placed
+STU0906,Male,24,Information Technology,Tier 1,Delhi,59.58,87.05,9.12,0,88.57,Yes,2,1,3,3,2,81,10,Yes,Yes,Web Development,1,14.03,Data Analyst
+STU0907,Male,24,Electrical Engineering,Tier 2,Surat,82.46,77.62,7.37,1,79.12,Yes,8,2,2,9,9,45,10,No,No,Networking,1,13.59,Software Developer
+STU0908,Male,23,Electrical Engineering,Tier 3,Surat,83.35,85.02,8.82,2,78.19,Yes,1,4,3,10,3,72,10,No,Yes,Cloud Computing,1,15.37,Software Developer
+STU0909,Female,20,Electronics Engineering,Tier 1,Hyderabad,60.52,83.9,7.55,0,66.75,Yes,9,2,4,3,4,48,3,Yes,No,Software Development,1,13.05,Web Developer
+STU0910,Female,21,Electronics Engineering,Tier 1,Hyderabad,84.91,57.64,9.69,2,81.94,Yes,11,0,5,3,1,48,1,Yes,Yes,Web Development,1,14.18,Web Developer
+STU0911,Male,21,Information Technology,Tier 3,Delhi,74.92,89.02,6.05,1,69.26,Yes,0,1,4,2,7,61,1,No,No,Testing,0,0.0,Not Placed
+STU0912,Male,22,Electronics Engineering,Tier 3,Rajkot,92.4,72.6,7.48,0,82.21,Yes,2,0,5,1,3,78,2,No,Yes,Testing,1,10.07,QA Engineer
+STU0913,Male,21,Electrical Engineering,Tier 3,Hyderabad,63.73,92.76,5.63,0,96.68,No,0,0,4,7,7,50,3,Yes,Yes,Software Development,1,8.03,Web Developer
+STU0914,Male,22,Civil Engineering,Tier 3,Pune,93.75,71.71,9.67,0,96.25,Yes,6,1,5,7,3,45,10,No,No,Web Development,1,14.56,Web Developer
+STU0915,Female,22,Electronics Engineering,Tier 1,Delhi,93.61,70.66,6.34,0,89.27,Yes,9,3,2,1,5,81,10,No,Yes,Testing,1,14.13,Data Analyst
+STU0916,Female,21,Civil Engineering,Tier 1,Ahmedabad,66.82,60.87,6.43,0,65.22,No,0,5,4,6,5,83,3,Yes,Yes,Cloud Computing,1,13.49,Cloud Support Engineer
+STU0917,Male,24,Civil Engineering,Tier 1,Rajkot,83.97,91.3,8.56,0,81.69,No,0,2,1,4,9,61,4,Yes,No,Testing,1,11.78,QA Engineer
+STU0918,Female,20,Mechanical Engineering,Tier 3,Rajkot,64.0,65.43,6.37,1,90.74,Yes,1,0,5,6,9,71,7,Yes,No,Networking,1,11.1,Network Engineer
+STU0919,Female,24,Electronics Engineering,Tier 2,Delhi,68.23,73.14,8.02,2,90.3,No,0,5,6,6,4,63,4,No,No,Cloud Computing,1,13.98,Cloud Support Engineer
+STU0920,Female,23,Electronics Engineering,Tier 3,Hyderabad,70.29,87.28,7.35,2,64.81,Yes,5,2,2,1,9,84,1,No,No,Cloud Computing,1,9.53,Cloud Support Engineer
+STU0921,Female,24,Information Technology,Tier 2,Pune,78.03,70.88,9.13,0,92.43,Yes,0,3,6,5,3,55,6,Yes,No,Data Science,1,14.37,Web Developer
+STU0922,Female,20,Electronics Engineering,Tier 2,Hyderabad,78.34,64.91,9.36,2,91.03,No,0,2,2,4,1,68,10,No,Yes,Networking,1,12.9,Network Engineer
+STU0923,Male,20,Electrical Engineering,Tier 3,Ahmedabad,74.83,76.23,7.03,0,95.41,Yes,5,5,4,8,2,98,9,No,No,Data Science,1,14.42,Software Developer
+STU0924,Female,21,Civil Engineering,Tier 3,Delhi,65.39,88.77,8.3,0,61.85,No,0,1,5,3,1,84,9,No,No,Networking,1,11.13,Data Analyst
+STU0925,Female,23,Civil Engineering,Tier 1,Chennai,72.2,82.28,7.25,0,60.13,No,0,0,5,1,6,92,3,No,Yes,Software Development,0,0.0,Not Placed
+STU0926,Female,22,Electronics Engineering,Tier 3,Surat,56.45,91.83,7.58,0,87.72,Yes,4,1,2,8,4,47,7,Yes,No,Data Science,0,0.0,Not Placed
+STU0927,Male,21,Civil Engineering,Tier 3,Ahmedabad,74.78,61.58,5.65,0,74.37,No,0,2,5,3,9,89,7,Yes,Yes,Cloud Computing,0,0.0,Not Placed
+STU0928,Female,21,Mechanical Engineering,Tier 1,Pune,93.65,69.09,9.34,0,68.1,Yes,2,1,1,8,4,84,10,Yes,Yes,Software Development,1,15.49,Software Developer
+STU0929,Male,22,Information Technology,Tier 1,Rajkot,71.93,58.48,7.01,0,75.09,Yes,8,3,0,9,3,64,10,No,Yes,Cloud Computing,1,15.59,Software Developer
+STU0930,Male,23,Computer Engineering,Tier 1,Surat,74.66,61.24,5.93,0,96.18,Yes,8,5,4,3,2,94,8,No,No,Cloud Computing,1,14.48,Data Analyst
+STU0931,Female,21,Mechanical Engineering,Tier 2,Mumbai,60.24,63.39,9.67,0,86.25,Yes,2,1,5,9,1,80,2,No,No,Data Science,1,14.24,Web Developer
+STU0932,Male,21,Information Technology,Tier 3,Pune,71.2,70.08,9.03,0,97.74,Yes,5,5,0,7,4,93,8,Yes,Yes,Networking,1,13.34,Data Analyst
+STU0933,Female,23,Mechanical Engineering,Tier 1,Rajkot,55.25,81.76,6.49,0,71.59,Yes,10,4,2,3,1,96,2,Yes,No,Data Science,1,11.91,Web Developer
+STU0934,Female,23,Information Technology,Tier 3,Delhi,81.27,70.44,6.85,0,78.09,No,0,2,2,10,2,91,3,Yes,No,Software Development,1,11.23,Web Developer
+STU0935,Male,20,Electrical Engineering,Tier 3,Pune,68.2,65.86,7.95,0,81.9,No,0,4,1,10,6,68,9,No,No,Data Science,1,13.89,Software Developer
+STU0936,Male,20,Mechanical Engineering,Tier 1,Bangalore,94.06,81.67,5.81,1,78.85,Yes,11,5,0,3,5,44,4,Yes,No,Cloud Computing,1,13.08,Cloud Support Engineer
+STU0937,Female,23,Computer Engineering,Tier 3,Hyderabad,73.98,57.97,7.33,2,68.79,Yes,2,3,5,7,1,69,6,No,No,Web Development,1,12.45,Web Developer
+STU0938,Male,24,Electronics Engineering,Tier 3,Mumbai,63.12,79.1,8.21,0,71.73,Yes,8,5,5,10,6,51,4,Yes,Yes,Software Development,1,14.66,Web Developer
+STU0939,Female,20,Mechanical Engineering,Tier 2,Bangalore,65.89,66.31,8.25,1,70.8,Yes,11,0,0,3,7,75,8,No,No,Web Development,1,13.38,Web Developer
+STU0940,Female,23,Mechanical Engineering,Tier 3,Delhi,78.72,91.93,9.3,0,91.02,No,0,2,3,1,5,94,6,Yes,Yes,Testing,1,11.11,QA Engineer
+STU0941,Male,23,Information Technology,Tier 1,Chennai,84.56,94.0,7.93,0,96.59,No,0,0,0,10,6,48,10,No,Yes,Web Development,1,13.84,Software Developer
+STU0942,Female,20,Information Technology,Tier 2,Pune,59.4,76.16,7.49,0,76.21,Yes,1,2,4,5,9,79,9,No,No,Web Development,1,12.43,Web Developer
+STU0943,Female,21,Mechanical Engineering,Tier 2,Mumbai,89.99,92.68,6.76,0,86.94,Yes,12,2,4,2,7,76,10,Yes,Yes,Networking,1,12.95,Network Engineer
+STU0944,Female,22,Information Technology,Tier 3,Mumbai,90.08,65.55,7.76,0,84.98,Yes,2,1,0,10,6,72,7,Yes,No,Networking,1,12.87,Network Engineer
+STU0945,Female,20,Information Technology,Tier 1,Ahmedabad,93.69,94.91,8.77,0,62.33,Yes,1,3,6,1,8,60,5,No,Yes,Web Development,1,13.87,Web Developer
+STU0946,Female,22,Civil Engineering,Tier 3,Vadodara,89.37,60.03,6.55,0,70.57,No,0,2,3,2,3,86,10,Yes,Yes,Software Development,1,11.15,Data Analyst
+STU0947,Female,20,Information Technology,Tier 1,Rajkot,84.35,73.46,9.19,1,80.09,No,0,1,2,10,6,80,8,Yes,No,Software Development,1,14.68,Software Developer
+STU0948,Male,22,Electronics Engineering,Tier 2,Hyderabad,66.93,65.37,6.91,0,63.22,Yes,8,4,2,1,4,58,3,Yes,No,Data Science,0,0.0,Not Placed
+STU0949,Male,20,Information Technology,Tier 1,Mumbai,73.3,62.32,7.25,0,60.71,Yes,10,3,5,10,7,72,7,Yes,Yes,Cloud Computing,1,16.54,Cloud Support Engineer
+STU0950,Female,21,Electrical Engineering,Tier 2,Bangalore,85.13,93.37,6.16,1,63.41,No,0,3,2,2,8,56,4,Yes,No,Data Science,0,0.0,Not Placed
+STU0951,Male,21,Information Technology,Tier 3,Pune,92.89,61.53,9.0,0,70.65,No,0,2,1,8,6,86,3,Yes,Yes,Data Science,1,11.02,Web Developer
+STU0952,Male,20,Information Technology,Tier 1,Vadodara,68.21,77.94,5.96,0,60.38,Yes,3,1,2,7,8,68,2,Yes,No,Testing,1,11.71,QA Engineer
+STU0953,Female,23,Information Technology,Tier 2,Chennai,79.4,85.04,6.86,2,62.15,No,0,5,2,4,1,45,3,Yes,No,Testing,1,10.53,QA Engineer
+STU0954,Female,21,Computer Engineering,Tier 1,Hyderabad,66.84,57.72,9.68,0,88.17,Yes,1,3,5,3,3,82,3,No,Yes,Web Development,1,14.36,Web Developer
+STU0955,Female,22,Electronics Engineering,Tier 3,Delhi,84.19,93.34,9.08,0,84.17,No,0,2,6,5,7,46,10,Yes,No,Software Development,1,13.5,Web Developer
+STU0956,Male,24,Civil Engineering,Tier 1,Delhi,80.16,68.58,9.25,0,65.91,Yes,12,4,6,6,7,65,9,No,No,Cloud Computing,1,16.61,Cloud Support Engineer
+STU0957,Male,23,Information Technology,Tier 3,Rajkot,73.05,85.78,5.83,0,64.94,Yes,0,0,4,8,9,42,4,No,No,Networking,0,0.0,Not Placed
+STU0958,Male,23,Computer Engineering,Tier 2,Mumbai,82.74,86.92,9.51,0,73.4,No,0,5,2,3,10,60,2,No,Yes,Data Science,1,13.62,Web Developer
+STU0959,Female,22,Information Technology,Tier 1,Hyderabad,73.18,61.54,7.05,0,65.48,No,0,1,3,6,5,77,7,Yes,Yes,Networking,1,12.66,Network Engineer
+STU0960,Male,21,Mechanical Engineering,Tier 2,Mumbai,72.71,91.19,5.58,0,79.71,No,0,0,2,8,1,91,3,Yes,No,Cloud Computing,0,0.0,Not Placed
+STU0961,Female,20,Electrical Engineering,Tier 2,Rajkot,86.52,72.93,6.61,1,66.9,No,0,5,5,4,3,100,10,No,No,Data Science,1,12.97,Data Analyst
+STU0962,Female,23,Mechanical Engineering,Tier 1,Vadodara,91.48,77.69,5.58,0,75.18,Yes,2,4,1,1,6,76,3,Yes,No,Software Development,1,11.58,Web Developer
+STU0963,Female,21,Computer Engineering,Tier 1,Chennai,67.71,85.3,8.51,0,76.56,No,0,5,5,3,7,51,10,No,Yes,Software Development,1,14.07,Web Developer
+STU0964,Female,24,Electrical Engineering,Tier 1,Hyderabad,68.59,62.78,8.61,0,80.46,Yes,0,2,4,9,4,85,3,Yes,Yes,Data Science,1,12.69,Web Developer
+STU0965,Male,20,Mechanical Engineering,Tier 3,Mumbai,75.45,91.47,5.98,0,65.84,No,0,4,3,9,8,65,5,Yes,Yes,Cloud Computing,1,10.92,Cloud Support Engineer
+STU0966,Male,23,Mechanical Engineering,Tier 2,Vadodara,88.49,81.95,5.68,0,81.66,No,0,3,5,9,8,55,6,No,No,Networking,1,12.75,Network Engineer
+STU0967,Female,22,Electronics Engineering,Tier 1,Chennai,72.41,60.17,6.77,0,83.2,No,0,1,1,2,4,51,1,No,Yes,Software Development,0,0.0,Not Placed
+STU0968,Female,24,Information Technology,Tier 1,Mumbai,84.31,92.51,9.44,0,92.75,Yes,1,3,6,10,8,49,7,No,Yes,Networking,1,16.15,Network Engineer
+STU0969,Male,24,Computer Engineering,Tier 1,Rajkot,90.01,71.89,5.59,0,66.39,Yes,0,0,2,4,3,74,6,Yes,No,Data Science,0,0.0,Not Placed
+STU0970,Male,22,Electronics Engineering,Tier 1,Pune,87.38,65.81,9.31,2,80.89,Yes,5,4,5,3,7,93,10,Yes,Yes,Software Development,1,15.91,Data Analyst
+STU0971,Female,21,Civil Engineering,Tier 2,Rajkot,89.31,62.09,7.89,2,93.52,No,0,5,6,4,4,92,8,No,Yes,Cloud Computing,1,12.85,Data Analyst
+STU0972,Female,21,Civil Engineering,Tier 2,Ahmedabad,64.91,77.09,9.65,0,96.98,Yes,2,5,4,3,4,97,4,Yes,Yes,Networking,1,13.86,Network Engineer
+STU0973,Male,22,Information Technology,Tier 2,Chennai,84.13,57.53,7.55,1,89.04,Yes,6,3,3,7,2,81,1,No,No,Cloud Computing,1,12.65,Cloud Support Engineer
+STU0974,Male,22,Information Technology,Tier 1,Chennai,60.1,79.27,9.61,0,94.89,Yes,5,4,3,10,9,81,4,No,No,Networking,1,16.33,Network Engineer
+STU0975,Male,21,Electronics Engineering,Tier 2,Bangalore,69.75,93.13,7.22,0,66.49,No,0,4,6,2,3,60,8,Yes,No,Cloud Computing,1,12.6,Cloud Support Engineer
+STU0976,Male,22,Mechanical Engineering,Tier 1,Chennai,65.91,72.41,8.24,1,88.05,Yes,9,4,0,8,5,80,8,Yes,No,Testing,1,16.64,Software Developer
+STU0977,Male,23,Electrical Engineering,Tier 3,Bangalore,74.38,77.5,7.88,0,71.67,No,0,2,4,6,10,94,10,No,No,Web Development,1,12.4,Data Analyst
+STU0978,Female,20,Civil Engineering,Tier 2,Rajkot,66.56,73.33,9.56,0,75.15,Yes,6,2,6,10,9,41,5,No,No,Software Development,1,14.37,Web Developer
+STU0979,Female,20,Mechanical Engineering,Tier 1,Ahmedabad,88.43,94.46,6.21,0,77.43,No,0,3,2,9,10,97,1,Yes,Yes,Web Development,1,11.15,Web Developer
+STU0980,Male,21,Computer Engineering,Tier 3,Hyderabad,77.93,62.6,8.36,0,78.33,Yes,9,4,5,8,5,93,2,No,No,Data Science,1,14.47,Web Developer
+STU0981,Female,22,Computer Engineering,Tier 1,Surat,63.51,82.19,8.6,1,75.33,No,0,5,1,1,6,64,5,Yes,No,Cloud Computing,1,13.02,Cloud Support Engineer
+STU0982,Female,23,Civil Engineering,Tier 3,Surat,75.11,74.19,8.6,0,64.5,No,0,1,3,1,1,47,4,No,No,Networking,1,9.74,Network Engineer
+STU0983,Female,22,Mechanical Engineering,Tier 1,Chennai,78.81,56.73,7.58,0,96.28,No,0,2,1,5,1,64,3,Yes,Yes,Web Development,0,0.0,Not Placed
+STU0984,Female,23,Information Technology,Tier 2,Bangalore,85.72,62.37,9.18,0,60.3,Yes,3,5,5,5,8,90,1,No,No,Web Development,1,13.34,Web Developer
+STU0985,Female,22,Mechanical Engineering,Tier 3,Rajkot,79.03,68.05,5.91,1,68.81,Yes,5,0,3,2,3,58,6,No,Yes,Software Development,1,10.17,Web Developer
+STU0986,Male,20,Electronics Engineering,Tier 1,Bangalore,60.11,62.39,5.89,1,95.31,No,0,1,6,3,8,71,3,No,No,Cloud Computing,0,0.0,Not Placed
+STU0987,Male,24,Mechanical Engineering,Tier 3,Pune,83.49,67.85,6.9,0,85.41,Yes,10,2,1,6,2,65,2,No,No,Web Development,1,11.18,Web Developer
+STU0988,Male,22,Computer Engineering,Tier 3,Surat,69.53,78.97,6.61,0,70.23,Yes,12,2,5,4,6,89,3,No,No,Cloud Computing,1,12.42,Cloud Support Engineer
+STU0989,Female,20,Civil Engineering,Tier 1,Pune,78.22,83.09,9.71,0,69.88,Yes,0,2,1,8,9,74,1,Yes,Yes,Software Development,1,13.11,Web Developer
+STU0990,Male,21,Information Technology,Tier 3,Hyderabad,91.74,94.22,7.34,0,78.03,Yes,12,4,0,6,3,70,9,No,Yes,Software Development,1,13.96,Web Developer
+STU0991,Male,22,Electronics Engineering,Tier 1,Pune,62.26,72.81,6.81,0,85.11,No,0,5,1,8,9,43,2,Yes,No,Testing,1,12.01,QA Engineer
+STU0992,Female,23,Civil Engineering,Tier 1,Delhi,72.71,70.16,6.2,1,82.38,Yes,4,1,1,7,3,77,10,No,No,Networking,1,12.38,Network Engineer
+STU0993,Female,20,Electrical Engineering,Tier 3,Chennai,78.43,56.16,5.66,0,82.63,No,0,3,1,10,1,74,4,No,Yes,Software Development,0,0.0,Not Placed
+STU0994,Female,24,Mechanical Engineering,Tier 2,Vadodara,81.02,70.59,8.67,0,79.63,No,0,4,2,8,3,75,6,No,No,Networking,1,13.31,Network Engineer
+STU0995,Male,24,Electronics Engineering,Tier 1,Chennai,57.05,60.74,7.4,0,87.78,Yes,2,2,4,9,4,80,10,No,Yes,Testing,1,14.07,Software Developer
+STU0996,Female,22,Mechanical Engineering,Tier 1,Mumbai,86.79,63.24,7.63,1,79.88,No,0,4,0,2,3,86,4,Yes,Yes,Cloud Computing,1,12.52,Cloud Support Engineer
+STU0997,Male,20,Electrical Engineering,Tier 1,Chennai,94.44,74.67,7.82,0,94.82,Yes,0,5,6,10,10,80,3,Yes,No,Testing,1,14.19,QA Engineer
+STU0998,Male,24,Civil Engineering,Tier 2,Chennai,63.31,87.92,7.11,0,84.97,Yes,12,5,3,1,6,52,3,No,Yes,Networking,1,12.26,Network Engineer
+STU0999,Male,24,Computer Engineering,Tier 1,Rajkot,93.34,76.31,9.17,3,71.68,No,0,2,0,4,7,42,10,Yes,No,Cloud Computing,1,14.59,Cloud Support Engineer
+STU1000,Male,20,Mechanical Engineering,Tier 2,Surat,90.17,66.97,8.57,0,62.65,No,0,5,6,9,8,53,7,No,Yes,Testing,1,15.14,QA Engineer
+STU1001,Female,24,Information Technology,Tier 1,Pune,64.68,79.75,8.53,0,80.69,No,0,0,2,5,8,82,4,Yes,No,Testing,1,11.46,QA Engineer
+STU1002,Female,24,Information Technology,Tier 2,Pune,86.59,59.63,7.13,0,96.35,Yes,10,1,6,9,4,70,8,Yes,No,Software Development,1,14.21,Software Developer
+STU1003,Female,23,Civil Engineering,Tier 1,Pune,91.56,66.8,7.74,0,69.69,Yes,11,5,3,2,1,97,2,No,No,Networking,1,13.72,Network Engineer
+STU1004,Female,23,Mechanical Engineering,Tier 1,Pune,93.53,56.5,8.38,0,65.14,Yes,0,2,1,8,7,53,7,Yes,Yes,Web Development,1,13.96,Web Developer
+STU1005,Female,20,Electrical Engineering,Tier 3,Rajkot,78.68,86.77,9.48,0,81.86,Yes,6,3,3,5,10,80,1,Yes,Yes,Cloud Computing,1,13.29,Cloud Support Engineer
+STU1006,Female,22,Mechanical Engineering,Tier 2,Ahmedabad,89.23,64.49,9.08,0,88.45,No,0,1,6,8,2,69,5,Yes,Yes,Networking,1,13.72,Network Engineer
+STU1007,Male,20,Civil Engineering,Tier 2,Surat,63.12,92.88,8.04,1,94.24,No,0,1,4,8,8,81,6,Yes,Yes,Data Science,1,12.92,Web Developer
+STU1008,Female,20,Mechanical Engineering,Tier 1,Rajkot,83.7,79.2,8.18,0,96.16,Yes,8,5,6,7,1,51,9,Yes,No,Data Science,1,17.12,Web Developer
+STU1009,Male,22,Computer Engineering,Tier 3,Vadodara,89.49,64.31,5.87,0,84.79,No,0,3,1,1,5,88,5,Yes,Yes,Software Development,0,0.0,Not Placed
+STU1010,Female,24,Electronics Engineering,Tier 2,Ahmedabad,77.6,61.38,7.1,1,91.93,Yes,0,4,3,10,5,46,3,Yes,No,Cloud Computing,0,0.0,Not Placed
+STU1011,Male,24,Electronics Engineering,Tier 3,Hyderabad,73.99,84.78,9.73,1,81.82,Yes,2,1,2,2,8,93,5,Yes,Yes,Web Development,1,12.24,Web Developer
+STU1012,Male,21,Civil Engineering,Tier 1,Ahmedabad,76.34,79.87,5.65,0,79.98,Yes,11,3,1,1,8,40,3,No,No,Networking,1,10.88,Network Engineer
+STU1013,Male,20,Computer Engineering,Tier 3,Pune,86.18,64.46,9.34,0,65.15,No,0,1,3,9,10,41,1,No,No,Testing,1,10.66,QA Engineer
+STU1014,Male,23,Information Technology,Tier 1,Pune,93.21,77.52,5.55,1,68.22,No,0,0,1,1,8,50,3,Yes,Yes,Data Science,0,0.0,Not Placed
+STU1015,Female,24,Computer Engineering,Tier 3,Hyderabad,73.9,58.02,7.18,0,64.56,No,0,2,6,5,7,90,2,No,Yes,Cloud Computing,1,11.0,Cloud Support Engineer
+STU1016,Male,23,Computer Engineering,Tier 2,Mumbai,67.26,71.28,9.73,0,68.57,No,0,2,6,3,3,63,3,Yes,No,Software Development,1,11.95,Web Developer
+STU1017,Female,20,Information Technology,Tier 3,Surat,78.33,67.2,9.04,1,78.03,Yes,6,4,0,4,3,66,6,No,Yes,Data Science,1,13.04,Web Developer
+STU1018,Male,23,Electrical Engineering,Tier 2,Hyderabad,55.96,93.83,6.08,2,91.43,No,0,4,4,6,2,64,1,Yes,Yes,Software Development,0,0.0,Not Placed
+STU1019,Male,22,Electrical Engineering,Tier 3,Ahmedabad,61.83,72.19,9.29,3,86.72,No,0,2,3,9,7,90,9,No,Yes,Data Science,1,14.52,Software Developer
+STU1020,Male,24,Electrical Engineering,Tier 2,Mumbai,73.25,55.95,8.72,0,84.98,Yes,9,0,4,1,8,58,10,Yes,Yes,Testing,1,12.48,QA Engineer
+STU1021,Male,23,Electrical Engineering,Tier 3,Vadodara,88.34,86.42,9.71,0,70.22,No,0,2,3,1,9,50,2,Yes,No,Web Development,1,10.33,Web Developer
+STU1022,Male,21,Computer Engineering,Tier 1,Rajkot,84.74,74.67,9.54,0,60.55,No,0,0,1,4,1,43,1,Yes,No,Data Science,0,0.0,Not Placed
+STU1023,Female,23,Information Technology,Tier 3,Ahmedabad,79.49,55.13,7.74,1,81.59,Yes,1,2,0,7,1,41,10,Yes,No,Cloud Computing,1,12.4,Cloud Support Engineer
+STU1024,Male,21,Electronics Engineering,Tier 2,Rajkot,92.35,84.69,8.0,0,89.39,No,0,5,5,10,1,64,1,No,No,Cloud Computing,0,0.0,Not Placed
+STU1025,Male,24,Civil Engineering,Tier 2,Mumbai,70.54,56.63,5.6,0,91.96,No,0,5,1,4,7,47,2,Yes,No,Software Development,0,0.0,Not Placed
+STU1026,Male,22,Computer Engineering,Tier 3,Chennai,77.21,69.78,6.61,0,88.85,No,0,1,0,4,5,91,1,Yes,No,Data Science,0,0.0,Not Placed
+STU1027,Male,22,Civil Engineering,Tier 2,Surat,72.86,70.0,7.97,0,70.77,No,0,3,3,8,3,85,1,Yes,Yes,Cloud Computing,1,12.69,Cloud Support Engineer
+STU1028,Male,21,Electronics Engineering,Tier 3,Ahmedabad,82.55,61.09,6.09,0,76.98,No,0,0,1,7,3,42,9,No,Yes,Testing,1,9.79,QA Engineer
+STU1029,Male,23,Information Technology,Tier 2,Rajkot,71.46,61.39,9.5,0,77.27,Yes,4,0,1,10,2,89,9,Yes,No,Software Development,1,14.57,Software Developer
+STU1030,Male,21,Electronics Engineering,Tier 2,Pune,77.58,66.47,9.22,0,93.57,Yes,7,4,1,4,1,56,7,No,Yes,Software Development,1,14.51,Web Developer
+STU1031,Male,23,Computer Engineering,Tier 1,Ahmedabad,83.94,84.83,6.26,3,64.83,No,0,0,2,2,3,41,5,No,Yes,Testing,0,0.0,Not Placed
+STU1032,Female,22,Information Technology,Tier 3,Mumbai,67.48,84.02,9.67,0,66.75,Yes,7,3,1,5,7,92,1,Yes,Yes,Web Development,1,12.34,Web Developer
+STU1033,Male,22,Civil Engineering,Tier 1,Mumbai,64.4,77.33,7.31,0,75.57,Yes,2,2,6,2,3,92,8,Yes,No,Testing,0,0.0,Not Placed
+STU1034,Female,23,Electronics Engineering,Tier 2,Pune,92.28,86.33,9.6,1,70.49,Yes,9,3,3,9,8,72,5,No,No,Testing,1,15.64,QA Engineer
+STU1035,Male,21,Mechanical Engineering,Tier 1,Surat,71.51,92.31,8.97,0,81.49,No,0,1,1,4,6,95,5,Yes,No,Software Development,1,12.36,Web Developer
+STU1036,Female,24,Information Technology,Tier 1,Vadodara,58.48,86.63,7.36,0,88.05,No,0,1,2,5,10,90,3,Yes,No,Networking,1,11.98,Network Engineer
+STU1037,Male,20,Computer Engineering,Tier 3,Chennai,74.72,62.82,7.87,0,77.62,Yes,10,3,1,5,4,61,10,No,Yes,Networking,1,13.72,Network Engineer
+STU1038,Female,24,Computer Engineering,Tier 2,Bangalore,65.39,85.97,6.99,0,63.83,Yes,2,0,1,6,5,52,5,Yes,Yes,Data Science,0,0.0,Not Placed
+STU1039,Male,23,Computer Engineering,Tier 2,Chennai,84.76,76.12,5.52,2,78.87,Yes,11,5,5,9,7,43,1,Yes,Yes,Software Development,0,0.0,Not Placed
+STU1040,Male,20,Electrical Engineering,Tier 2,Hyderabad,88.12,79.92,9.42,0,63.4,No,0,0,0,4,5,98,8,Yes,Yes,Software Development,1,12.14,Data Analyst
+STU1041,Male,24,Civil Engineering,Tier 3,Hyderabad,71.6,86.23,5.95,0,74.74,Yes,12,2,5,10,1,86,9,No,Yes,Cloud Computing,1,14.26,Software Developer
+STU1042,Female,24,Mechanical Engineering,Tier 2,Surat,80.15,58.08,9.62,0,72.83,Yes,11,0,0,8,3,75,9,No,Yes,Testing,1,14.78,Software Developer
+STU1043,Male,21,Civil Engineering,Tier 1,Bangalore,59.23,56.1,8.47,0,83.39,Yes,2,1,5,10,10,80,7,No,No,Testing,1,14.53,Data Analyst
+STU1044,Female,22,Information Technology,Tier 1,Delhi,90.13,77.39,5.96,2,66.92,No,0,4,0,9,6,90,6,No,Yes,Software Development,1,12.11,Web Developer
+STU1045,Female,21,Information Technology,Tier 1,Bangalore,93.56,61.49,9.04,0,61.45,No,0,4,5,7,9,62,8,No,No,Networking,1,15.01,Network Engineer
+STU1046,Female,22,Computer Engineering,Tier 2,Chennai,82.6,64.84,9.15,2,73.86,Yes,1,2,0,2,7,97,5,Yes,No,Software Development,1,12.71,Web Developer
+STU1047,Male,21,Mechanical Engineering,Tier 1,Hyderabad,85.67,90.71,6.17,1,86.71,Yes,9,4,6,4,10,48,5,No,Yes,Data Science,1,13.3,Web Developer
+STU1048,Male,23,Electrical Engineering,Tier 1,Surat,67.66,64.15,6.13,0,62.71,No,0,5,2,9,7,84,5,No,Yes,Data Science,1,13.97,Web Developer
+STU1049,Female,21,Mechanical Engineering,Tier 3,Ahmedabad,58.74,68.03,9.03,2,70.49,No,0,3,2,3,8,72,10,No,Yes,Web Development,1,12.8,Web Developer
+STU1050,Female,20,Information Technology,Tier 3,Ahmedabad,91.23,91.3,6.92,0,68.9,No,0,4,3,9,2,61,6,No,Yes,Testing,1,12.36,QA Engineer
+STU1051,Female,21,Information Technology,Tier 3,Bangalore,55.75,66.83,6.76,1,92.02,No,0,2,3,8,8,49,1,No,Yes,Testing,1,10.02,QA Engineer
+STU1052,Male,24,Civil Engineering,Tier 1,Pune,70.37,65.54,8.31,0,84.37,Yes,7,5,5,1,4,46,8,No,No,Data Science,1,15.63,Web Developer
+STU1053,Female,22,Computer Engineering,Tier 2,Hyderabad,88.87,83.23,8.39,0,66.16,Yes,5,2,6,7,9,65,3,No,Yes,Cloud Computing,1,12.78,Cloud Support Engineer
+STU1054,Male,23,Civil Engineering,Tier 2,Mumbai,60.44,72.81,9.34,0,65.47,Yes,11,1,2,4,9,98,7,No,No,Networking,1,14.34,Data Analyst
+STU1055,Male,24,Civil Engineering,Tier 3,Hyderabad,88.44,79.3,7.25,0,61.15,No,0,4,4,7,10,83,4,Yes,Yes,Networking,1,11.39,Network Engineer
+STU1056,Male,22,Computer Engineering,Tier 2,Surat,82.49,92.74,8.1,0,67.6,No,0,5,0,6,10,94,8,No,No,Software Development,1,13.76,Data Analyst
+STU1057,Female,23,Civil Engineering,Tier 1,Delhi,75.01,90.27,7.65,0,69.68,No,0,0,4,1,4,93,9,No,Yes,Data Science,1,12.65,Data Analyst
+STU1058,Male,23,Electronics Engineering,Tier 1,Vadodara,57.39,62.04,9.56,0,63.92,Yes,7,2,5,8,7,78,2,No,Yes,Testing,1,15.46,QA Engineer
+STU1059,Male,24,Electrical Engineering,Tier 2,Ahmedabad,66.56,88.49,7.24,0,61.23,Yes,1,3,4,1,4,77,3,Yes,Yes,Data Science,1,11.86,Web Developer
+STU1060,Male,20,Mechanical Engineering,Tier 1,Bangalore,65.75,88.15,5.76,0,93.0,No,0,3,6,1,4,91,2,No,Yes,Testing,0,0.0,Not Placed
+STU1061,Male,22,Electronics Engineering,Tier 1,Surat,66.65,62.93,6.29,1,66.97,No,0,3,4,4,2,95,8,Yes,No,Testing,1,11.92,Data Analyst
+STU1062,Male,24,Information Technology,Tier 3,Surat,84.66,85.25,6.9,0,93.48,No,0,0,5,10,4,87,10,Yes,Yes,Testing,1,12.87,Software Developer
+STU1063,Female,21,Electrical Engineering,Tier 1,Vadodara,90.79,59.71,7.17,0,61.81,No,0,0,1,7,7,68,7,No,Yes,Testing,0,0.0,Not Placed
+STU1064,Female,22,Information Technology,Tier 3,Delhi,65.59,84.96,8.02,0,87.47,No,0,2,6,1,7,87,8,No,No,Software Development,1,11.5,Data Analyst
+STU1065,Male,24,Information Technology,Tier 3,Surat,61.64,85.87,9.39,1,95.89,Yes,9,0,2,5,9,76,1,Yes,Yes,Data Science,1,11.18,Web Developer
+STU1066,Male,21,Computer Engineering,Tier 1,Rajkot,69.3,56.63,8.98,2,90.6,No,0,0,0,10,4,61,5,No,Yes,Data Science,0,0.0,Not Placed
+STU1067,Female,21,Electrical Engineering,Tier 1,Rajkot,62.71,61.49,9.15,0,66.2,No,0,1,0,9,1,62,10,Yes,Yes,Data Science,1,14.99,Software Developer
+STU1068,Female,20,Information Technology,Tier 3,Surat,72.77,68.33,8.07,0,93.23,Yes,0,0,1,4,8,65,4,Yes,No,Testing,1,9.63,QA Engineer
+STU1069,Male,20,Computer Engineering,Tier 2,Vadodara,78.81,89.68,8.26,0,94.26,No,0,4,6,2,10,48,3,No,No,Software Development,1,11.35,Web Developer
+STU1070,Female,21,Electronics Engineering,Tier 2,Vadodara,92.77,89.2,6.68,0,85.38,No,0,2,3,2,3,84,1,No,Yes,Testing,0,0.0,Not Placed
+STU1071,Male,20,Computer Engineering,Tier 3,Chennai,61.33,84.67,7.79,0,93.23,No,0,0,1,3,2,44,6,Yes,No,Web Development,1,9.11,Web Developer
+STU1072,Male,21,Computer Engineering,Tier 3,Ahmedabad,66.98,81.65,5.71,1,78.43,No,0,5,1,5,8,78,3,No,No,Data Science,1,9.27,Web Developer
+STU1073,Male,22,Electronics Engineering,Tier 3,Pune,83.02,76.59,5.97,0,95.25,Yes,4,4,3,8,1,67,8,No,Yes,Data Science,1,12.8,Software Developer
+STU1074,Female,22,Computer Engineering,Tier 2,Chennai,92.71,61.64,7.51,0,71.01,No,0,2,0,9,6,80,9,No,Yes,Networking,1,13.65,Software Developer
+STU1075,Female,23,Electronics Engineering,Tier 2,Vadodara,71.18,61.88,8.68,0,78.33,Yes,5,2,1,6,6,45,10,No,Yes,Cloud Computing,1,13.36,Cloud Support Engineer
+STU1076,Female,20,Computer Engineering,Tier 3,Vadodara,69.11,86.83,9.52,0,88.76,No,0,3,1,9,7,52,10,No,Yes,Networking,1,14.68,Software Developer
+STU1077,Male,21,Information Technology,Tier 2,Ahmedabad,66.5,77.94,8.05,1,83.01,No,0,3,1,8,1,48,7,No,Yes,Web Development,0,0.0,Not Placed
+STU1078,Female,20,Electrical Engineering,Tier 2,Bangalore,62.77,57.67,9.09,0,60.71,Yes,9,0,0,2,10,54,4,No,Yes,Cloud Computing,1,11.39,Cloud Support Engineer
+STU1079,Female,23,Computer Engineering,Tier 1,Chennai,63.89,89.09,8.49,0,60.81,Yes,7,3,5,1,6,65,5,No,Yes,Networking,1,14.56,Network Engineer
+STU1080,Male,23,Civil Engineering,Tier 1,Bangalore,66.26,83.35,8.57,0,60.56,No,0,1,3,3,4,57,7,Yes,No,Testing,1,13.44,QA Engineer
+STU1081,Male,21,Information Technology,Tier 2,Ahmedabad,55.5,92.47,8.15,0,63.54,No,0,2,1,4,2,64,6,No,No,Software Development,0,0.0,Not Placed
+STU1082,Male,23,Information Technology,Tier 2,Delhi,81.34,70.53,7.06,2,93.98,Yes,6,5,1,5,10,58,3,Yes,No,Testing,1,12.51,QA Engineer
+STU1083,Female,20,Electrical Engineering,Tier 3,Delhi,55.79,58.46,9.14,0,81.46,Yes,4,5,1,1,3,58,9,Yes,No,Web Development,1,12.93,Web Developer
+STU1084,Female,21,Information Technology,Tier 2,Pune,72.14,68.41,6.34,1,81.76,No,0,4,6,1,3,62,5,No,Yes,Testing,0,0.0,Not Placed
+STU1085,Male,23,Electrical Engineering,Tier 3,Surat,66.23,73.7,6.35,0,86.83,Yes,10,0,0,10,6,54,9,No,No,Testing,1,11.76,Software Developer
+STU1086,Male,23,Electronics Engineering,Tier 2,Rajkot,67.85,78.6,5.57,1,82.1,Yes,7,4,0,5,7,43,5,No,No,Networking,1,11.11,Network Engineer
+STU1087,Female,22,Information Technology,Tier 2,Surat,70.85,70.01,7.83,0,84.77,No,0,3,2,7,8,48,7,Yes,No,Cloud Computing,1,13.54,Cloud Support Engineer
+STU1088,Male,22,Electronics Engineering,Tier 2,Ahmedabad,75.78,87.66,8.71,0,95.66,Yes,7,3,5,3,10,93,2,Yes,No,Web Development,1,12.91,Web Developer
+STU1089,Female,20,Mechanical Engineering,Tier 1,Pune,71.48,90.29,5.64,2,68.66,Yes,7,2,3,10,9,55,4,Yes,No,Testing,1,13.21,QA Engineer
+STU1090,Male,23,Civil Engineering,Tier 3,Ahmedabad,76.92,60.43,8.66,0,93.74,No,0,4,5,5,2,79,1,No,No,Web Development,1,12.25,Web Developer
+STU1091,Male,23,Civil Engineering,Tier 1,Chennai,71.59,67.19,9.0,0,86.36,No,0,3,0,6,6,94,1,No,Yes,Data Science,1,13.07,Web Developer
+STU1092,Male,22,Electronics Engineering,Tier 3,Bangalore,85.6,85.59,7.84,0,87.48,Yes,6,3,1,3,1,88,2,No,Yes,Cloud Computing,1,11.46,Cloud Support Engineer
+STU1093,Male,23,Information Technology,Tier 3,Chennai,62.09,88.48,9.11,0,97.82,Yes,7,0,4,3,7,84,6,Yes,Yes,Testing,1,12.67,QA Engineer
+STU1094,Male,24,Civil Engineering,Tier 2,Chennai,65.5,71.21,6.76,0,87.28,Yes,1,5,6,4,6,59,10,Yes,Yes,Web Development,1,13.57,Web Developer
+STU1095,Female,23,Computer Engineering,Tier 2,Chennai,62.19,79.68,9.02,0,60.08,No,0,4,4,3,5,54,9,No,Yes,Software Development,1,14.35,Web Developer
+STU1096,Male,23,Electronics Engineering,Tier 3,Ahmedabad,71.57,75.08,9.49,0,74.32,No,0,5,1,2,6,96,9,Yes,Yes,Testing,1,12.7,Data Analyst
+STU1097,Male,24,Computer Engineering,Tier 2,Surat,62.99,72.95,5.7,0,95.6,Yes,6,5,2,1,8,96,1,Yes,Yes,Cloud Computing,1,9.74,Cloud Support Engineer
+STU1098,Male,23,Information Technology,Tier 2,Vadodara,76.15,79.03,7.28,0,93.06,No,0,2,6,9,6,88,1,Yes,No,Data Science,1,11.99,Web Developer
+STU1099,Female,24,Information Technology,Tier 3,Delhi,80.25,58.55,7.3,0,95.61,Yes,11,4,3,2,3,91,8,No,No,Data Science,1,12.18,Data Analyst
+STU1100,Male,20,Information Technology,Tier 3,Ahmedabad,73.25,80.42,8.96,3,76.01,No,0,2,2,4,6,91,10,No,Yes,Networking,1,13.48,Data Analyst
+STU1101,Female,20,Computer Engineering,Tier 1,Surat,84.43,66.81,8.35,0,71.33,No,0,1,3,10,1,77,2,Yes,Yes,Testing,1,11.86,QA Engineer
+STU1102,Female,24,Civil Engineering,Tier 2,Surat,65.0,70.07,8.77,0,94.9,No,0,1,3,6,3,94,5,Yes,No,Web Development,1,12.72,Web Developer
+STU1103,Female,24,Computer Engineering,Tier 3,Hyderabad,87.61,86.59,8.85,0,60.62,Yes,6,5,2,9,9,49,2,No,No,Testing,1,13.4,QA Engineer
+STU1104,Female,23,Information Technology,Tier 1,Vadodara,64.23,56.54,7.23,0,89.47,No,0,2,4,2,3,63,10,No,No,Networking,0,0.0,Not Placed
+STU1105,Male,20,Mechanical Engineering,Tier 1,Chennai,75.98,62.38,9.63,0,64.89,No,0,3,3,2,8,100,10,No,Yes,Data Science,1,14.28,Data Analyst
+STU1106,Male,24,Electronics Engineering,Tier 3,Hyderabad,64.92,67.82,7.88,0,96.96,No,0,5,3,8,10,51,6,No,Yes,Web Development,1,12.38,Web Developer
+STU1107,Male,20,Electrical Engineering,Tier 2,Chennai,87.52,58.83,6.36,0,67.2,Yes,2,1,3,1,1,40,2,No,No,Software Development,0,0.0,Not Placed
+STU1108,Female,23,Information Technology,Tier 3,Ahmedabad,93.26,67.2,8.3,0,61.28,No,0,5,4,2,4,59,2,Yes,Yes,Cloud Computing,1,11.38,Cloud Support Engineer
+STU1109,Male,24,Civil Engineering,Tier 1,Surat,78.66,76.61,8.27,1,74.58,Yes,11,5,5,3,5,98,1,No,Yes,Software Development,1,14.08,Web Developer
+STU1110,Male,20,Electrical Engineering,Tier 2,Bangalore,72.12,92.7,5.94,2,81.23,No,0,1,4,9,1,81,6,No,Yes,Software Development,1,11.53,Web Developer
+STU1111,Male,20,Civil Engineering,Tier 3,Bangalore,71.36,92.46,7.35,0,78.25,No,0,0,2,4,5,71,5,Yes,Yes,Web Development,1,8.88,Web Developer
+STU1112,Male,23,Electronics Engineering,Tier 3,Pune,89.02,58.88,5.72,0,67.47,Yes,1,3,2,1,4,66,2,Yes,Yes,Data Science,0,0.0,Not Placed
+STU1113,Male,24,Information Technology,Tier 3,Delhi,62.74,73.38,6.32,1,90.79,No,0,2,6,8,5,75,10,Yes,No,Testing,1,11.86,Software Developer
+STU1114,Female,21,Information Technology,Tier 2,Ahmedabad,91.92,90.39,8.47,0,72.21,Yes,12,3,5,1,9,94,6,Yes,No,Networking,1,14.35,Network Engineer
+STU1115,Female,20,Mechanical Engineering,Tier 2,Bangalore,62.7,65.23,8.1,0,90.2,Yes,5,2,4,2,2,60,8,No,No,Networking,1,12.64,Network Engineer
+STU1116,Female,21,Electrical Engineering,Tier 3,Ahmedabad,91.87,56.88,7.62,0,61.92,Yes,9,1,6,1,5,60,5,Yes,No,Software Development,0,0.0,Not Placed
+STU1117,Male,24,Electronics Engineering,Tier 3,Vadodara,62.13,87.17,5.6,0,74.54,Yes,12,5,5,1,4,72,6,No,No,Networking,0,0.0,Not Placed
+STU1118,Male,23,Electrical Engineering,Tier 3,Surat,61.06,67.87,8.11,0,96.89,No,0,2,5,7,10,53,4,Yes,No,Networking,1,11.03,Network Engineer
+STU1119,Male,24,Civil Engineering,Tier 2,Mumbai,89.0,75.13,7.68,0,89.21,No,0,3,0,9,10,75,8,Yes,Yes,Software Development,1,13.39,Software Developer
+STU1120,Male,24,Electronics Engineering,Tier 3,Mumbai,89.63,58.15,6.36,1,65.52,No,0,3,0,2,6,74,5,No,Yes,Web Development,1,9.34,Web Developer
+STU1121,Male,20,Computer Engineering,Tier 3,Bangalore,56.29,94.77,8.93,0,66.04,Yes,5,1,4,8,1,70,8,No,No,Networking,1,13.38,Software Developer
+STU1122,Male,24,Electronics Engineering,Tier 3,Vadodara,91.74,90.82,5.84,1,70.99,Yes,9,4,2,4,10,57,7,No,No,Testing,1,11.72,QA Engineer
+STU1123,Male,22,Electronics Engineering,Tier 3,Bangalore,91.91,69.53,9.7,0,74.61,No,0,0,1,6,8,92,9,No,Yes,Data Science,1,12.34,Data Analyst
+STU1124,Male,22,Computer Engineering,Tier 2,Rajkot,56.66,70.83,7.37,0,61.67,Yes,10,5,3,5,1,79,9,Yes,Yes,Data Science,1,14.99,Web Developer
+STU1125,Male,20,Electronics Engineering,Tier 1,Surat,60.73,60.41,8.12,0,86.17,No,0,2,4,8,10,63,4,Yes,Yes,Testing,1,13.44,QA Engineer
+STU1126,Female,20,Information Technology,Tier 2,Pune,91.69,92.9,9.52,0,69.8,No,0,5,4,3,1,60,5,No,No,Web Development,1,12.84,Web Developer
+STU1127,Male,24,Computer Engineering,Tier 3,Hyderabad,78.81,68.91,7.01,0,93.68,No,0,2,3,7,3,95,3,No,Yes,Software Development,1,10.47,Web Developer
+STU1128,Female,23,Civil Engineering,Tier 1,Rajkot,93.78,71.34,8.99,1,71.76,No,0,0,3,1,5,68,3,No,No,Software Development,1,11.19,Web Developer
+STU1129,Male,22,Electrical Engineering,Tier 2,Surat,57.84,93.2,8.43,0,68.76,Yes,6,3,6,2,6,67,1,No,No,Cloud Computing,1,11.67,Cloud Support Engineer
+STU1130,Female,22,Computer Engineering,Tier 1,Rajkot,78.63,67.3,7.94,0,74.26,No,0,5,5,6,4,46,6,No,Yes,Web Development,1,13.54,Web Developer
+STU1131,Male,24,Electronics Engineering,Tier 3,Hyderabad,70.91,93.58,9.53,1,75.38,Yes,6,2,3,2,9,55,4,No,No,Web Development,1,12.43,Web Developer
+STU1132,Female,24,Computer Engineering,Tier 2,Delhi,56.97,62.43,6.54,1,78.17,No,0,5,0,9,5,55,1,Yes,Yes,Data Science,1,11.24,Web Developer
+STU1133,Female,21,Information Technology,Tier 1,Vadodara,82.61,79.15,7.56,1,65.06,No,0,2,2,1,3,95,9,Yes,No,Data Science,1,12.96,Data Analyst
+STU1134,Female,23,Electrical Engineering,Tier 3,Vadodara,65.33,72.57,9.45,0,86.95,Yes,11,4,6,6,3,42,3,Yes,Yes,Software Development,1,14.1,Web Developer
+STU1135,Male,20,Civil Engineering,Tier 3,Rajkot,64.12,86.94,7.72,0,68.07,No,0,3,5,2,10,77,9,Yes,Yes,Networking,1,12.47,Network Engineer
+STU1136,Male,22,Mechanical Engineering,Tier 3,Pune,60.07,70.56,9.43,0,76.58,Yes,3,4,1,2,1,40,7,No,Yes,Data Science,1,12.23,Web Developer
+STU1137,Female,21,Information Technology,Tier 2,Delhi,73.7,63.73,9.54,0,87.59,Yes,6,3,2,8,1,99,8,Yes,Yes,Cloud Computing,1,14.61,Software Developer
+STU1138,Male,22,Electrical Engineering,Tier 2,Vadodara,79.96,86.85,6.08,0,87.66,Yes,10,3,6,5,1,48,8,No,Yes,Networking,1,13.29,Network Engineer
+STU1139,Female,24,Information Technology,Tier 2,Delhi,71.81,69.85,9.48,1,76.33,Yes,0,0,1,7,4,91,9,No,No,Web Development,1,13.5,Data Analyst
+STU1140,Female,24,Civil Engineering,Tier 2,Pune,78.8,80.83,6.4,0,68.27,No,0,5,4,9,5,93,10,Yes,No,Cloud Computing,1,13.72,Software Developer
+STU1141,Male,24,Electronics Engineering,Tier 3,Pune,87.55,55.57,6.71,1,85.15,Yes,6,3,2,4,3,48,4,No,No,Software Development,1,10.39,Web Developer
+STU1142,Male,20,Mechanical Engineering,Tier 3,Mumbai,77.5,68.58,6.58,0,62.78,No,0,3,5,3,3,98,4,No,No,Web Development,1,11.05,Web Developer
+STU1143,Male,22,Civil Engineering,Tier 3,Delhi,84.86,82.84,5.78,0,79.05,Yes,2,1,3,9,9,81,8,Yes,No,Networking,1,11.68,Software Developer
+STU1144,Male,23,Electrical Engineering,Tier 1,Bangalore,82.9,94.5,6.36,1,81.87,No,0,3,2,8,10,78,9,No,No,Software Development,1,12.81,Software Developer
+STU1145,Female,23,Electrical Engineering,Tier 2,Chennai,86.0,70.47,9.3,0,96.9,No,0,1,1,7,2,43,9,Yes,Yes,Testing,1,13.08,QA Engineer
+STU1146,Male,20,Civil Engineering,Tier 2,Pune,91.03,84.3,8.44,0,70.56,No,0,5,4,7,6,60,6,No,No,Software Development,0,0.0,Not Placed
+STU1147,Male,22,Civil Engineering,Tier 2,Mumbai,55.23,57.09,7.75,0,89.9,No,0,4,6,3,5,83,1,No,Yes,Testing,1,11.11,QA Engineer
+STU1148,Male,21,Information Technology,Tier 2,Mumbai,65.4,85.79,8.03,0,71.25,Yes,12,1,1,9,7,98,9,No,Yes,Cloud Computing,1,15.28,Software Developer
+STU1149,Female,20,Electronics Engineering,Tier 1,Delhi,55.8,64.81,6.33,2,71.34,No,0,1,1,9,7,43,3,Yes,No,Networking,1,11.53,Network Engineer
+STU1150,Male,20,Electrical Engineering,Tier 2,Ahmedabad,63.5,81.72,5.55,1,84.24,No,0,4,3,10,8,48,5,No,Yes,Cloud Computing,1,11.29,Cloud Support Engineer
+STU1151,Female,24,Mechanical Engineering,Tier 3,Surat,66.95,91.57,7.5,0,89.26,No,0,2,4,1,10,60,8,Yes,No,Networking,1,10.51,Network Engineer
+STU1152,Male,21,Electronics Engineering,Tier 2,Surat,61.74,79.68,6.66,0,90.73,Yes,12,1,0,6,9,78,3,No,No,Cloud Computing,1,10.89,Cloud Support Engineer
+STU1153,Male,22,Information Technology,Tier 1,Rajkot,58.85,84.76,8.36,0,80.24,No,0,2,4,6,2,82,5,Yes,No,Networking,1,14.01,Network Engineer
+STU1154,Male,21,Computer Engineering,Tier 3,Hyderabad,85.18,60.17,8.11,1,79.76,No,0,5,4,5,2,76,7,Yes,Yes,Networking,1,12.14,Network Engineer
+STU1155,Female,20,Electronics Engineering,Tier 3,Pune,83.9,70.07,8.18,0,77.45,No,0,2,4,4,2,94,8,Yes,Yes,Testing,1,12.5,Data Analyst
+STU1156,Male,20,Mechanical Engineering,Tier 1,Hyderabad,91.93,86.93,5.89,0,65.68,Yes,6,2,6,6,10,59,7,Yes,No,Data Science,1,13.05,Web Developer
+STU1157,Male,21,Electronics Engineering,Tier 2,Ahmedabad,73.01,75.1,7.99,3,93.59,Yes,7,5,6,10,1,42,7,No,No,Networking,1,15.89,Network Engineer
+STU1158,Male,24,Mechanical Engineering,Tier 2,Delhi,78.24,83.13,5.8,1,75.99,No,0,2,1,10,9,44,9,Yes,No,Networking,1,11.92,Software Developer
+STU1159,Female,24,Computer Engineering,Tier 2,Delhi,79.1,77.31,6.8,0,83.12,No,0,1,3,9,4,72,5,No,No,Data Science,1,12.17,Web Developer
+STU1160,Male,23,Civil Engineering,Tier 1,Vadodara,64.51,70.97,5.97,0,84.0,Yes,10,2,5,2,9,96,9,Yes,Yes,Cloud Computing,1,13.42,Data Analyst
+STU1161,Female,20,Electrical Engineering,Tier 1,Surat,80.95,74.54,9.44,0,88.9,Yes,1,0,3,10,3,54,8,Yes,Yes,Testing,1,15.33,Software Developer
+STU1162,Male,22,Electronics Engineering,Tier 3,Bangalore,81.45,79.3,7.45,0,87.13,Yes,6,3,2,8,9,79,7,Yes,Yes,Web Development,1,12.76,Web Developer
+STU1163,Female,23,Information Technology,Tier 3,Ahmedabad,85.64,88.59,8.33,1,63.81,No,0,2,5,1,6,68,1,No,Yes,Networking,1,10.05,Network Engineer
+STU1164,Male,24,Mechanical Engineering,Tier 3,Mumbai,65.54,67.45,9.72,0,63.98,Yes,4,0,2,8,1,81,2,Yes,Yes,Networking,1,12.7,Network Engineer
+STU1165,Male,23,Electrical Engineering,Tier 2,Ahmedabad,67.97,85.0,9.02,1,82.87,Yes,9,5,3,8,10,68,9,Yes,Yes,Data Science,1,15.87,Software Developer
+STU1166,Female,22,Civil Engineering,Tier 3,Mumbai,65.54,94.05,7.97,0,94.77,Yes,12,3,5,7,5,92,1,Yes,No,Data Science,1,13.32,Web Developer
+STU1167,Female,21,Civil Engineering,Tier 3,Rajkot,89.74,69.2,9.56,0,86.84,Yes,9,5,5,3,8,54,2,No,Yes,Networking,1,13.98,Network Engineer
+STU1168,Male,22,Electrical Engineering,Tier 2,Mumbai,80.7,94.84,6.48,0,63.44,No,0,0,4,6,5,74,4,No,No,Software Development,0,0.0,Not Placed
+STU1169,Male,22,Mechanical Engineering,Tier 2,Delhi,83.36,70.55,8.63,0,84.02,No,0,4,2,2,8,57,10,Yes,No,Software Development,1,12.98,Web Developer
+STU1170,Male,21,Computer Engineering,Tier 3,Ahmedabad,71.18,77.07,8.28,2,93.87,Yes,3,2,6,5,8,64,1,No,Yes,Networking,1,11.25,Network Engineer
+STU1171,Male,21,Electrical Engineering,Tier 3,Vadodara,76.44,66.54,8.24,0,67.65,Yes,12,1,3,6,1,76,10,No,Yes,Software Development,1,13.32,Web Developer
+STU1172,Female,23,Civil Engineering,Tier 1,Chennai,84.85,94.6,7.28,2,60.06,No,0,5,3,4,5,51,1,Yes,Yes,Data Science,1,13.22,Web Developer
+STU1173,Female,24,Electrical Engineering,Tier 3,Surat,57.89,94.54,8.62,3,81.04,No,0,3,2,10,1,46,8,No,Yes,Web Development,1,12.9,Software Developer
+STU1174,Female,20,Mechanical Engineering,Tier 2,Surat,79.67,63.45,8.84,0,77.4,No,0,2,3,5,3,95,7,Yes,Yes,Cloud Computing,1,12.79,Data Analyst
+STU1175,Male,23,Information Technology,Tier 1,Chennai,78.38,85.02,8.66,0,93.96,No,0,2,4,3,3,71,8,No,No,Software Development,1,12.54,Web Developer
+STU1176,Male,24,Mechanical Engineering,Tier 1,Vadodara,84.72,68.38,5.77,1,67.91,No,0,2,5,5,9,65,8,Yes,Yes,Cloud Computing,0,0.0,Not Placed
+STU1177,Male,24,Computer Engineering,Tier 2,Delhi,85.2,93.27,5.78,2,70.49,Yes,5,5,3,5,10,93,4,Yes,No,Software Development,1,12.41,Web Developer
+STU1178,Female,24,Electrical Engineering,Tier 2,Chennai,87.96,63.55,6.08,0,71.0,No,0,2,1,8,8,81,7,No,Yes,Cloud Computing,1,11.71,Data Analyst
+STU1179,Female,24,Computer Engineering,Tier 1,Ahmedabad,83.92,76.44,9.65,0,67.83,Yes,5,0,0,5,4,67,8,No,Yes,Networking,1,14.62,Network Engineer
+STU1180,Female,24,Computer Engineering,Tier 3,Delhi,58.89,79.61,7.24,0,76.08,Yes,5,3,6,1,7,81,9,Yes,Yes,Testing,1,12.52,Data Analyst
+STU1181,Male,20,Mechanical Engineering,Tier 2,Vadodara,83.27,62.85,7.24,0,67.42,Yes,8,3,6,6,6,98,1,No,Yes,Data Science,1,11.85,Web Developer
+STU1182,Female,21,Computer Engineering,Tier 2,Bangalore,74.22,59.12,5.82,0,82.38,Yes,0,0,6,7,7,97,4,Yes,Yes,Data Science,1,9.54,Web Developer
+STU1183,Male,20,Mechanical Engineering,Tier 1,Chennai,60.22,81.59,5.7,0,84.89,Yes,10,5,4,1,2,47,4,No,No,Data Science,1,12.12,Web Developer
+STU1184,Male,21,Mechanical Engineering,Tier 1,Hyderabad,70.15,93.91,8.93,0,87.85,No,0,2,6,7,5,61,3,Yes,No,Data Science,1,13.18,Web Developer
+STU1185,Female,24,Civil Engineering,Tier 2,Surat,61.93,78.35,7.35,0,66.61,Yes,11,4,2,4,7,88,8,No,Yes,Web Development,1,14.19,Data Analyst
+STU1186,Female,21,Electrical Engineering,Tier 2,Rajkot,69.25,88.39,5.9,0,97.9,No,0,2,6,6,10,94,2,No,No,Testing,0,0.0,Not Placed
+STU1187,Female,21,Electronics Engineering,Tier 3,Surat,79.78,71.66,6.79,0,89.74,No,0,1,1,7,10,84,6,Yes,No,Testing,1,11.24,QA Engineer
+STU1188,Female,23,Electronics Engineering,Tier 2,Rajkot,68.52,77.45,8.5,0,75.49,No,0,5,1,3,5,52,7,No,Yes,Web Development,1,12.98,Web Developer
+STU1189,Male,23,Electronics Engineering,Tier 3,Bangalore,93.04,84.8,7.85,0,70.32,No,0,3,4,6,9,87,7,Yes,Yes,Testing,1,11.9,Data Analyst
+STU1190,Male,22,Electrical Engineering,Tier 2,Chennai,80.56,79.64,8.73,1,89.92,Yes,6,0,2,4,9,45,2,No,Yes,Networking,1,10.69,Network Engineer
+STU1191,Male,23,Information Technology,Tier 2,Vadodara,70.18,73.86,6.21,1,60.15,Yes,4,4,4,7,8,75,1,Yes,No,Networking,1,11.09,Network Engineer
+STU1192,Male,20,Mechanical Engineering,Tier 2,Rajkot,78.69,66.91,8.83,0,72.29,No,0,1,5,10,3,64,5,No,No,Data Science,1,12.57,Web Developer
+STU1193,Male,23,Information Technology,Tier 3,Chennai,89.42,78.55,9.37,0,75.03,No,0,4,6,2,2,51,7,No,No,Cloud Computing,1,13.21,Cloud Support Engineer
+STU1194,Female,20,Civil Engineering,Tier 3,Hyderabad,63.97,68.15,8.08,0,96.33,Yes,2,2,6,10,1,47,7,Yes,No,Networking,1,13.69,Network Engineer
+STU1195,Male,21,Information Technology,Tier 1,Mumbai,93.88,63.62,9.45,0,78.32,Yes,10,2,4,2,5,42,10,No,Yes,Networking,1,14.82,Network Engineer
+STU1196,Female,23,Electrical Engineering,Tier 1,Surat,57.96,65.04,7.84,0,60.4,No,0,4,5,10,2,89,1,Yes,No,Networking,1,12.92,Network Engineer
+STU1197,Male,21,Electrical Engineering,Tier 3,Bangalore,89.13,92.03,7.24,0,61.25,Yes,9,4,0,4,5,49,2,Yes,No,Cloud Computing,1,12.45,Cloud Support Engineer
+STU1198,Female,24,Mechanical Engineering,Tier 1,Surat,63.38,62.9,7.33,0,81.49,Yes,7,4,0,4,9,64,1,Yes,No,Testing,1,13.04,QA Engineer
+STU1199,Male,23,Computer Engineering,Tier 1,Vadodara,86.31,58.91,8.43,2,91.04,Yes,4,3,5,1,3,99,9,Yes,No,Software Development,1,14.89,Data Analyst
+STU1200,Female,22,Mechanical Engineering,Tier 1,Delhi,92.36,58.0,9.5,0,76.57,No,0,3,3,5,7,52,10,Yes,Yes,Cloud Computing,1,14.14,Cloud Support Engineer

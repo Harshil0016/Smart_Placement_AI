@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="hero">
+<div class="container py-5">
+<div class="row align-items-center g-4">
+<div class="col-lg-7">
+<span class="badge bg-light text-primary mb-3">AI POWERED • PLACEMENT ANALYTICS</span>
+<h1 class="display-4 fw-bold">Predict your placement journey with data.</h1>
+<p class="lead mt-3">Estimate placement probability, expected salary and suitable job roles using a machine learning model trained on 1,200 Indian student records.</p>
+<a href="/predict" class="btn btn-primary btn-lg mt-3 px-4">Start Prediction →</a>
+</div>
+<div class="col-lg-5"><div class="hero-card"><div class="mini-label">PLACEMENT INSIGHT</div><div class="big-number">{{ rate }}%</div><div class="text-muted">Current dataset placement rate</div><div class="progress mt-4"><div class="progress-bar" style="width:{{ rate }}%"></div></div></div></div>
+</div>
+</div>
+</div>
+<div class="container py-5">
+<div class="row g-4">
+<div class="col-md-3"><div class="stat-card"><span>Students</span><strong>{{ total }}</strong></div></div>
+<div class="col-md-3"><div class="stat-card"><span>Placed</span><strong>{{ placed }}</strong></div></div>
+<div class="col-md-3"><div class="stat-card"><span>Avg Salary</span><strong>₹{{ avg_salary }} LPA</strong></div></div>
+<div class="col-md-3"><div class="stat-card"><span>Highest Salary</span><strong>₹{{ highest }} LPA</strong></div></div>
+</div>
+<div class="row mt-5 g-4">
+<div class="col-lg-8"><div class="content-card"><h3>How it works</h3><div class="steps"><div><b>01</b><span>Enter academic and skill details</span></div><div><b>02</b><span>ML model evaluates the profile</span></div><div><b>03</b><span>Get placement and salary insights</span></div></div></div></div>
+<div class="col-lg-4"><div class="content-card h-100"><h4>Built for Indian Colleges</h4><p class="text-muted">Branches, Indian cities, college tiers and salary values are included for a realistic academic placement scenario.</p></div></div>
+</div>
+</div>
+{% endblock %}
